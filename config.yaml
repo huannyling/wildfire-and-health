@@ -1,0 +1,260 @@
+# =============================================================================
+# Wildfire Literature Review Pipeline — Configuration
+# =============================================================================
+# This file is the single source of truth for all pipeline parameters.
+# Edit here; no script needs to be modified for routine runs.
+
+# -----------------------------------------------------------------------------
+# Data collection  (01_collect.py)
+# -----------------------------------------------------------------------------
+collect:
+  source: openalex          # primary source; options: openalex | pubmed | semantic_scholar
+
+  openalex:
+    base_url: "https://api.openalex.org/works"
+    email: ""               # optional but polite; gives access to the faster "polite pool"
+    per_page: 200           # max allowed by OpenAlex (1–200)
+    max_results: 2000       # hard cap across all pages (set to 0 for unlimited)
+
+    # Date range for publication year filter
+    date_from: "2000-01-01"
+    date_to:   "2024-12-31"
+
+    # Search terms — grouped by concept for clarity.
+    # The script ORs terms within each group and ANDs across groups.
+    search_groups:
+      wildfire_core:
+        - wildfire
+        - "forest fire"
+        - "burn severity"
+        - "fire regime"
+        - "wildland fire"
+        - "vegetation fire"
+
+      health_terms:
+        - health
+        - mortality
+        - morbidity
+        - respiratory
+        - asthma
+        - cardiovascular
+        - "mental health"
+        - hospitalization
+        - "smoke exposure"
+        - PM2.5
+
+      vulnerable_population_terms:
+        - children
+        - elderly
+        - "older adults"
+        - Indigenous
+        - "low-income"
+        - "rural communities"
+        - pregnant
+        - workers
+        - "outdoor workers"
+
+      genomics_terms:
+        - genomics
+        - genome
+        - genetic
+        - genetics
+        - adaptation
+        - evolutionary
+        - "population genomics"
+
+    # Additional OpenAlex filters (passed as-is to the ?filter= parameter)
+    # See: https://docs.openalex.org/api-entities/works/filter-works
+    extra_filters:
+      is_paratext: false
+      type: article          # restrict to journal articles
+
+  # Placeholders for future sources (not yet implemented)
+  pubmed:
+    enabled: false
+
+  semantic_scholar:
+    enabled: false
+
+  # Output
+  output_path: "data/raw/results_raw.csv"
+
+
+# -----------------------------------------------------------------------------
+# Cleaning  (02_clean.py)
+# -----------------------------------------------------------------------------
+clean:
+  # Fields that must be non-empty to keep a record
+  required_fields:
+    - title
+    - publication_year
+
+  # Drop records outside this year range (should match collect.date_from/to)
+  year_min: 2000
+  year_max: 2024
+
+  # Deduplication: field used to identify duplicates (doi preferred)
+  dedup_field: doi
+
+  output_path: "data/processed/results_clean.csv"
+
+
+# -----------------------------------------------------------------------------
+# Classification  (03_classify.py)
+# -----------------------------------------------------------------------------
+classify:
+  # ── Keyword / rule-based (always runs) ──────────────────────────────────────
+  # Each theme maps to a list of keywords (case-insensitive substring match).
+  # A paper is tagged with a theme if ANY keyword matches title or abstract.
+  themes:
+    wildfire_exposure:
+      - wildfire
+      - "forest fire"
+      - bushfire
+      - "wildland fire"
+      - "burn area"
+      - "fire season"
+
+    air_quality_pm25:
+      - "PM2.5"
+      - "particulate matter"
+      - "smoke exposure"
+      - "air quality"
+      - "air pollution"
+      - "fine particles"
+
+    respiratory_health:
+      - "respiratory"
+      - asthma
+      - COPD
+      - "lung function"
+      - bronchitis
+      - pneumonia
+
+    cardiovascular_health:
+      - "cardiovascular"
+      - "heart disease"
+      - "cardiac"
+      - stroke
+      - hypertension
+
+    mental_health:
+      - "mental health"
+      - anxiety
+      - depression
+      - PTSD
+      - "post-traumatic"
+      - "psychological"
+
+    mortality:
+      - mortality
+      - "premature death"
+      - "excess death"
+      - "years of life lost"
+      - YLL
+
+    vulnerable_populations:
+      - "vulnerable"
+      - children
+      - elderly
+      - "older adults"
+      - "Indigenous"
+      - "First Nations"
+      - "low-income"
+      - "rural"
+      - "racial"
+      - disparities
+
+    burn_severity_ecology:
+      - "burn severity"
+      - "fire ecology"
+      - "land cover"
+      - "vegetation"
+      - "remote sensing"
+
+  # ── LLM-based classification (optional second layer) ─────────────────────
+  use_llm: false            # set to true to enable
+  llm:
+    model: "claude-opus-4-6"
+    max_tokens: 256
+    # API key is read from the ANTHROPIC_API_KEY environment variable.
+    # Batch size: number of abstracts sent per API call
+    batch_size: 1
+    # Fields sent to the LLM (title + abstract by default)
+    input_fields:
+      - title
+      - abstract
+
+  output_path: "data/classified/results_classified.csv"
+
+
+# -----------------------------------------------------------------------------
+# LLM Extraction  (03_llm_extract.py)
+# -----------------------------------------------------------------------------
+extract:
+  # Model for pilot validation (higher quality)
+  model_pilot: "claude-sonnet-4-6"
+  # Model for full corpus run (cost-efficient)
+  model_full:  "claude-haiku-4-5-20251001"
+  max_tokens: 1024
+  # Save checkpoint every N papers (allows resume after interruption)
+  checkpoint_every: 25
+  # Number of papers to process in pilot mode
+  pilot_n: 100
+  # Seconds to wait between API calls (rate-limit safety)
+  request_delay: 0.5
+
+  output_dir:        "data/extracted"
+  structured_output: "data/extracted/abstracts_structured.csv"
+  triples_output:    "data/extracted/causal_triples.csv"
+  checkpoint_path:   "data/extracted/checkpoint.json"
+
+
+# -----------------------------------------------------------------------------
+# Figures  (04_figures.py)
+# -----------------------------------------------------------------------------
+figures:
+  output_dir: "outputs/figures"
+  format: png              # png | svg
+  dpi: 300
+  top_n: 10                # how many items to show in ranked bar charts
+
+  plots:
+    - publications_per_year
+    - theme_distribution
+    - top_journals
+    - top_countries
+    - open_access_share
+
+
+# -----------------------------------------------------------------------------
+# Tables  (05_tables.py)
+# -----------------------------------------------------------------------------
+tables:
+  output_dir: "outputs/tables"
+
+  summaries:
+    - theme_counts
+    - year_by_theme
+    - top_journals
+    - top_authors
+    - country_counts
+
+
+# -----------------------------------------------------------------------------
+# Report  (06_report.py)
+# -----------------------------------------------------------------------------
+report:
+  title: "Wildfire, Health, and Vulnerable Populations: A Systematic Literature Review"
+  author: ""               # fill in your name
+  output_path: "outputs/report/report.md"
+  include_figures: true
+  include_tables: true
+
+
+# -----------------------------------------------------------------------------
+# Logging (shared)
+# -----------------------------------------------------------------------------
+logging:
+  log_dir: "logs"
+  level: INFO              # DEBUG | INFO | WARNING | ERROR

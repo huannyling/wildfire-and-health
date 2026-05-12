@@ -1,0 +1,70 @@
+node,cluster,in_degree_w,out_degree_w,pagerank,betweenness,n_in_edges,n_out_edges
+mortality,Mortality,29,0,0.047177,0.0,6,0
+wildfires,Other,4,0,0.024985,0.0,2,0
+heat waves,Other,2,2,0.023363,0.000219,1,1
+cardiovascular disease,Cardiovascular Outcomes,15,0,0.021989,0.0,4,0
+respiratory disease,Respiratory Outcomes,16,0,0.021845,0.0,3,0
+PM2.5,Particulate Exposure,80,96,0.021781,0.010664,2,28
+all-cause mortality,Mortality,7,0,0.015601,0.0,2,0
+heat stress,Mental Health,9,11,0.015105,0.001097,2,3
+heatstroke,Cardiovascular Outcomes,2,0,0.014963,0.0,1,0
+heat-related illnesses,Other,2,0,0.014963,0.0,1,0
+dehydration,Other,2,0,0.014637,0.0,1,0
+oxidative stress,Biological Mediators,11,0,0.014592,0.0,2,0
+mental_health disorders,Mental Health,2,0,0.014251,0.0,1,0
+flooding,Other,2,0,0.014251,0.0,1,0
+health impacts,Health System,2,0,0.014251,0.0,1,0
+infectious diseases,Other,2,0,0.014251,0.0,1,0
+extreme weather events,Other,2,0,0.014251,0.0,1,0
+displacement,Social / Displacement,11,0,0.01397,0.0,1,0
+air pollution,Particulate Exposure,7,5,0.013466,0.000128,2,2
+asthma exacerbation,Respiratory Outcomes,4,0,0.0134,0.0,1,0
+cardiovascular mortality,Cardiovascular Outcomes,4,0,0.0134,0.0,1,0
+climate change,Climate / Ecology,6,14,0.013361,0.001317,1,7
+wildfire smoke,Fire Events,6,100,0.013361,0.001335,1,12
+PM2.5 exposure,Particulate Exposure,6,0,0.01331,0.0,1,0
+asthma,Respiratory Outcomes,3,0,0.013207,0.0,1,0
+Alzheimer's disease,Other,3,0,0.013207,0.0,1,0
+hospital admissions,Health System,3,0,0.013207,0.0,1,0
+respiratory mortality,Respiratory Outcomes,3,0,0.013207,0.0,1,0
+premature mortality,Mortality,3,0,0.013207,0.0,1,0
+greenhouse gas emissions,Other,4,0,0.013117,0.0,1,0
+mental health impacts,Mental Health,4,0,0.0131,0.0,2,0
+PM2.5 elevation,Particulate Exposure,4,0,0.013083,0.0,1,0
+systemic inflammation,Other,2,0,0.013014,0.0,1,0
+respiratory ED visits,Respiratory Outcomes,2,0,0.013014,0.0,1,0
+emergency department visits,Health System,2,0,0.013014,0.0,1,0
+endothelial dysfunction,Other,2,0,0.013014,0.0,1,0
+lung cancer,Respiratory Outcomes,2,0,0.013014,0.0,1,0
+respiratory illness,Respiratory Outcomes,2,0,0.013014,0.0,1,0
+neuroinflammation,Other,2,0,0.013014,0.0,1,0
+pneumonia,Respiratory Outcomes,2,0,0.013014,0.0,1,0
+asthma morbidity,Respiratory Outcomes,2,0,0.013014,0.0,1,0
+cardiovascular ED visits,Cardiovascular Outcomes,2,0,0.013014,0.0,1,0
+cardiovascular illness,Cardiovascular Outcomes,2,0,0.013014,0.0,1,0
+respiratory hospitalization,Respiratory Outcomes,2,0,0.013014,0.0,1,0
+respiratory diseases,Respiratory Outcomes,2,0,0.013014,0.0,1,0
+respiratory health effects,Respiratory Outcomes,2,0,0.013014,0.0,1,0
+allergic respiratory diseases,Respiratory Outcomes,2,0,0.013014,0.0,1,0
+respiratory hospital admissions,Respiratory Outcomes,2,0,0.013014,0.0,1,0
+heat_stress,Climate / Ecology,3,11,0.012995,0.000384,1,4
+wildfire smoke exposure,Fire Events,3,0,0.012995,0.0,1,0
+post-traumatic stress disorder,Mental Health,3,0,0.012995,0.0,1,0
+mental health disorders,Mental Health,2,0,0.012873,0.0,1,0
+vulnerability in rural communities,Other,2,0,0.012873,0.0,1,0
+vertebrate mortality,Mortality,2,0,0.012873,0.0,1,0
+social disruption,Other,2,0,0.012873,0.0,1,0
+heat-related illness,Other,2,0,0.012873,0.0,1,0
+major depressive disorder,Other,2,0,0.012873,0.0,1,0
+land use changes,Other,2,0,0.012873,0.0,1,0
+extreme heat exposure,Other,2,0,0.012873,0.0,1,0
+economic losses,Other,2,0,0.012873,0.0,1,0
+displacement of populations,Social / Displacement,2,0,0.012873,0.0,1,0
+depression,Mental Health,2,0,0.012873,0.0,1,0
+deforestation,Other,2,0,0.012873,0.0,1,0
+airway inflammation,Biological Mediators,2,0,0.012856,0.0,1,0
+public health impacts,Health System,2,0,0.012856,0.0,1,0
+respiratory health impacts,Respiratory Outcomes,2,0,0.012856,0.0,1,0
+wildfire event,Fire Events,0,88,0.012629,0.0,0,24
+global warming,Other,0,2,0.012629,0.0,0,1
+fire_weather,Other,0,2,0.012629,0.0,0,1

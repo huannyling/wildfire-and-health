@@ -1,0 +1,21 @@
+# ── HTTP & APIs ──────────────────────────────────────────────────────────────
+requests>=2.31.0          # OpenAlex API calls
+pyalex>=0.13              # optional higher-level OpenAlex wrapper
+
+# ── Data handling ─────────────────────────────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.26.0
+
+# ── Configuration ─────────────────────────────────────────────────────────────
+pyyaml>=6.0
+
+# ── Visualisation ─────────────────────────────────────────────────────────────
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# ── LLM classification (optional) ────────────────────────────────────────────
+anthropic>=0.25.0         # only needed when classify.use_llm: true in config.yaml
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+tqdm>=4.66.0              # progress bars for API pagination
+python-dateutil>=2.9.0    # flexible date parsing

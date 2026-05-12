@@ -1,0 +1,42 @@
+field,metric,value,notes
+is_health_study,accuracy,0.85,vs rule-based reference
+is_health_study,precision,1.0,
+is_health_study,recall,0.76,
+is_health_study,f1,0.864,
+is_health_study,tp/tn/fp/fn,,TP=19 TN=15 FP=0 FN=6
+outcome_types,mean_jaccard,0.746,per-paper
+outcome_types,jaccard>=0.5 (papers),31.0,count
+outcome_types,exact_match (papers),27.0,count
+outcome_types,macro_f1,0.616,across labels
+population_groups,mean_jaccard,0.758,per-paper
+population_groups,jaccard>=0.5 (papers),33.0,count
+population_groups,exact_match (papers),27.0,count
+population_groups,macro_f1,0.807,across labels
+outcome_types/respiratory,precision,0.667,ref_prev=0.225
+outcome_types/respiratory,recall,0.889,
+outcome_types/cardiovascular,precision,0.286,ref_prev=0.075
+outcome_types/cardiovascular,recall,0.667,
+outcome_types/mental_health,precision,0.75,ref_prev=0.1
+outcome_types/mental_health,recall,0.75,
+outcome_types/mortality,precision,0.75,ref_prev=0.125
+outcome_types/mortality,recall,0.6,
+outcome_types/reproductive,precision,0.5,ref_prev=0.05
+outcome_types/reproductive,recall,0.5,
+outcome_types/neurological,precision,0.0,ref_prev=0.0
+outcome_types/neurological,recall,,
+outcome_types/burns_injury,precision,0.0,ref_prev=0.0
+outcome_types/burns_injury,recall,,
+population_groups/children,precision,1.0,ref_prev=0.225
+population_groups/children,recall,0.889,
+population_groups/elderly,precision,0.833,ref_prev=0.15
+population_groups/elderly,recall,0.833,
+population_groups/indigenous,precision,1.0,ref_prev=0.05
+population_groups/indigenous,recall,0.5,
+population_groups/low_income,precision,0.5,ref_prev=0.075
+population_groups/low_income,recall,0.333,
+population_groups/pregnant,precision,1.0,ref_prev=0.025
+population_groups/pregnant,recall,1.0,
+population_groups/outdoor_workers,precision,0.0,ref_prev=0.0
+population_groups/outdoor_workers,recall,,
+population_groups/racial_minorities,precision,1.0,ref_prev=0.05
+population_groups/racial_minorities,recall,1.0,

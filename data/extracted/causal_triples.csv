@@ -1,0 +1,2290 @@
+paper_id,subject,relation,object
+W4281771502,wildfire smoke,causes,PM2.5
+W4281771502,PM2.5,increases_risk_of,respiratory disease
+W4281771502,PM2.5,increases_risk_of,asthma
+W4281771502,PM2.5,increases_risk_of,cardiovascular disease
+W4281771502,PM2.5,increases_risk_of,heart failure
+W4281771502,wildfire smoke,exacerbates,cardiovascular disease in elderly
+W4281771502,wildfire smoke,exacerbates,asthma in children ages 0-5
+W3000476340,wildfire smoke,causes,PM2.5 elevation
+W3000476340,PM2.5,increases_risk_of,all-cause mortality
+W3000476340,PM2.5,increases_risk_of,cardiovascular mortality
+W3000476340,PM2.5,increases_risk_of,respiratory mortality
+W3000476340,wildfire smoke,increases_risk_of,asthma hospitalisations
+W3000476340,wildfire smoke,increases_risk_of,COPD hospitalisations
+W3000476340,wildfire smoke,increases_risk_of,psychological disorders
+W3000476340,wildfire smoke,increases_risk_of,adverse birth outcomes
+W3000476340,wildfire event,causes,direct injuries and fatalities
+W3042864361,wildfire event,increases_risk_of,ecological grief
+W3042864361,wildfire event,increases_risk_of,ecological anxiety
+W3042864361,climate change,increases_risk_of,depression
+W3042864361,climate change,increases_risk_of,anxiety
+W3042864361,climate change,increases_risk_of,post-traumatic stress disorder
+W3042864361,climate change,increases_risk_of,suicidal ideation
+W3163385921,wildfire smoke,causes,PM2.5
+W3163385921,PM2.5,causes,oxidative stress
+W3163385921,PM2.5,causes,chronic inflammation
+W3163385921,PM2.5,causes,endocrine disruption
+W3163385921,wildfire smoke,increases_risk_of,asthma incidence
+W3163385921,wildfire smoke,increases_risk_of,reduced lung function development
+W3163385921,wildfire smoke,increases_risk_of,preterm birth
+W3163385921,wildfire smoke,increases_risk_of,low birth weight
+W3163385921,wildfire smoke,increases_risk_of,neurodevelopmental disorders
+W3037570074,wildfire smoke,causes,PM2.5
+W3037570074,PM2.5,increases_risk_of,allergic respiratory disease
+W3037570074,wildfire event,increases_risk_of,air pollution
+W3037570074,air pollution,exacerbates,allergic airway disease
+W3037570074,wildfire event,is_associated_with,aeroallergen distribution changes
+W3037570074,climate change,causes,increased pollen production
+W3037570074,extreme heat,exacerbates,allergic respiratory disease
+W3148981523,wildfire smoke,causes,PM2.5
+W3148981523,PM2.5,increases_risk_of,respiratory disease
+W3148981523,PM2.5,increases_risk_of,cardiovascular disease
+W3148981523,wildfire event,increases_risk_of,mental_health impacts
+W3148981523,heat_stress,increases_risk_of,cardiovascular disease
+W4388703646,wildfire event,increases_risk_of,adverse health outcomes
+W4388703646,wildfire event,causes,health impacts on Australians
+W4388703646,heat_stress,increases_risk_of,adverse health outcomes
+W2560359191,wildfire smoke,causes,PM2.5
+W2560359191,PM2.5,increases_risk_of,respiratory hospital admissions
+W2560359191,wildfire event,is_associated_with,intense wildfire smoke days
+W2006349423,wildfire smoke,causes,adverse health effects
+W2006349423,wildfire smoke,increases_risk_of,respiratory effects in children
+W2006349423,wildfire smoke,increases_risk_of,respiratory effects in elderly
+W2006349423,wildfire smoke,increases_risk_of,health effects in people with chronic illness
+W3170823246,climate change,is_associated_with,worse human health
+W2994999068,wildfire smoke,causes,PM2.5
+W2994999068,PM2.5,increases_risk_of,pediatric respiratory visits
+W2994999068,wildfire event,is_associated_with,increased healthcare utilization
+W4382501359,wildfire event,increases_risk_of,mortality in older adults
+W4382501359,wildfire event,is_associated_with,forced relocation
+W4283641177,climate change,increases_risk_of,heat extremes
+W4283641177,climate change,increases_risk_of,tropical cyclone rainfall
+W4283641177,heat extremes,causes,mortality
+W1952843992,wildfire smoke,causes,PM2.5
+W1952843992,PM2.5,increases_risk_of,respiratory disease exacerbation
+W1952843992,wildfire event,is_associated_with,acute respiratory morbidity
+W1952843992,wildfire event,is_associated_with,asthma exacerbations
+W1952843992,fire_weather,causes,heat waves
+W1952843992,fire_weather,increases_risk_of,respiratory infection
+W3120122943,wildfire event,is_associated_with,climate change
+W3120122943,wildfire event,is_associated_with,climate variability
+W3120122943,climate extremes,causes,extreme pyroconvective events
+W3120122943,dry fuel loads,increases_risk_of,large forest fires
+W3000989483,wildfire event,is_associated_with,warm and dry conditions
+W3000989483,wildfire event,causes,forest composition changes
+W3000989483,wildfire event,exacerbates,drought and insect outbreak interactions
+W3000989483,climate change,causes,lower fuel moisture
+W3000989483,climate change,causes,longer fire seasons
+W3000989483,climate change,increases_risk_of,fire frequency and extent
+W4200016354,wildfire event,causes,wildfire smoke exposure
+W4200016354,wildfire smoke,causes,PM2.5
+W4200016354,PM2.5,increases_risk_of,respiratory disease
+W4200016354,wildfire event,causes,heat stress
+W4200016354,heat stress,increases_risk_of,mortality in people with disabilities
+W4200016354,wildfire event,causes,displacement
+W4200016354,displacement,is_associated_with,healthcare access
+W4200016354,wildfire event,increases_risk_of,mental health disorders
+W4362641151,wildfire smoke,causes,physical health problems
+W4362641151,wildfire smoke,causes,mental health problems
+W4362641151,wildfire smoke,increases_risk_of,respiratory symptoms
+W4362641151,adaptive behaviors,protects_against,health symptom severity
+W2820771618,wildfire smoke,causes,PM2.5
+W2820771618,PM2.5,increases_risk_of,respiratory diagnoses
+W2820771618,PM2.5,increases_risk_of,asthma exacerbations
+W2820771618,wildfire smoke,increases_risk_of,emergency department presentations
+W2820771618,wildfire smoke,increases_risk_of,inpatient hospitalizations
+W2947150510,wildfire event,is_associated_with,climate change
+W2947150510,wildfire event,is_associated_with,biodiversity loss
+W2947150510,wildfire event,is_associated_with,freshwater availability impacts
+W2560541141,wildfire smoke,causes,PM2.5 emissions
+W2560541141,wildfire smoke,causes,respiratory health effects
+W2560541141,wildfire smoke,causes,cardiovascular health effects
+W2560541141,prescribed fire smoke,is_associated_with,different health impacts than wildfire smoke
+W3210469621,climate change,increases_risk_of,forest fire area
+W3210469621,forest fire,causes,fuel reduction
+W3210469621,fuel reduction,is_associated_with,fire-fuel feedbacks
+W2416278194,wildfire smoke,causes,PM2.5
+W2416278194,PM2.5,increases_risk_of,respiratory disease
+W2416278194,PM2.5,increases_risk_of,emergency department visits
+W3012174158,anthropogenic climate change,increases_risk_of,extreme temperature
+W3012174158,extreme temperature,causes,high Fire Weather Index
+W3012174158,high Fire Weather Index,increases_risk_of,bushfire risk
+W2969561863,wildfire event,increases_risk_of,unsafe school environments
+W3137409146,wildfire_smoke,causes,occupational exposure to air pollutants
+W3137409146,wildfire_smoke,increases_risk_of,respiratory outcomes in firefighters
+W3137409146,wildfire_event,causes,heat_stress
+W3137409146,wildfire_event,increases_risk_of,mortality in outdoor workers
+W3137409146,heat_stress,causes,dehydration
+W3137409146,heat_stress,increases_risk_of,kidney disease
+W2998885371,wildfire smoke,increases_risk_of,mortality
+W2789564049,wildfire smoke,causes,PM2.5 elevation
+W2789564049,PM2.5,increases_risk_of,asthma exacerbation
+W2789564049,PM2.5,increases_risk_of,pneumonia
+W2789564049,wildfire smoke,causes,prolonged indoor confinement
+W2789564049,wildfire event,causes,evacuation and isolation
+W2789564049,evacuation and isolation,increases_risk_of,mental health distress
+W2789564049,wildfire event,causes,livelihood disruption
+W2789564049,livelihood disruption,increases_risk_of,mental health distress
+W2117456634,invasive alien plants,causes,altered fuel properties
+W2117456634,altered fuel properties,causes,changed fire behavior
+W2117456634,changed fire behavior,causes,altered fire regime characteristics
+W4401728510,wildfire event,causes,wildfire smoke
+W4401728510,wildfire event,causes,community evacuation
+W4401728510,wildfire smoke,causes,hazardous air quality
+W4401728510,anthropogenic climate change,increases_risk_of,extreme fire weather
+W2094843946,indoor air pollution,causes,respiratory health impairment
+W2094843946,indoor air pollution,is_associated_with,reduced economic well-being
+W2094843946,solid fuel use,causes,indoor air pollution
+W2094843946,traditional cooking stoves,causes,indoor air pollution
+W4388850659,wildfire smoke,causes,PM2.5 exposure
+W4388850659,PM2.5,causes,inflammation activation
+W4388850659,PM2.5,causes,oxidative stress
+W4388850659,PM2.5,increases_risk_of,respiratory infections
+W4388850659,PM2.5,increases_risk_of,asthma exacerbation
+W4388850659,PM2.5,increases_risk_of,COPD exacerbation
+W4388850659,PM2.5,increases_risk_of,cardiovascular disease
+W4388850659,PM2.5,increases_risk_of,all-cause mortality
+W4388850659,wildfire smoke,increases_risk_of,healthcare utilization
+W2112162648,PM2.5,causes,oxidative stress
+W2112162648,PM2.5,increases_risk_of,atherosclerosis
+W2112162648,PM2.5,increases_risk_of,cardiovascular ischemic events
+W2112162648,ultrafine particles,causes,tissue oxidative stress
+W2112162648,ultrafine particles,increases_risk_of,early atherosclerosis
+W2112162648,ultrafine particles,causes,HDL anti-inflammatory dysfunction
+W2112162648,oxidative stress,mediates,atherosclerosis
+W2805155961,wildfire event,increases_risk_of,mental_health outcomes
+W2805155961,climate change,increases_risk_of,mental_health outcomes
+W4319733471,heatwave event,causes,mortality
+W4319733471,heatwave event,increases_risk_of,wildfires
+W4319733471,wildfire event,causes,landslides
+W2958489179,wildfire event,causes,landscape disruption
+W2958489179,climate change,exacerbates,forest vulnerability to wildfires
+W2958489179,fire suppression,is_associated_with,forest resilience
+W2114324571,wildfire event,causes,nitrogen oxide emissions
+W2114324571,wildfire event,causes,PM2.5
+W2114324571,PM2.5,causes,premature death
+W2114324571,PM2.5,causes,respiratory health effects
+W2114324571,climate change,exacerbates,wildfire regimes
+W2114324571,climate change,exacerbates,nitrogen-related air pollution
+W3005860529,wildfire event,increases_risk_of,health system impacts
+W3005860529,wildfire event,is_associated_with,displacement
+W3014479337,air pollution,increases_risk_of,respiratory disease
+W3014479337,physical exertion on high pollution days,exacerbates,respiratory health impacts
+W3014479337,near-roadway exposure,increases_risk_of,respiratory disease
+W3014479337,cooking with solid fuels,increases_risk_of,respiratory disease
+W3014479337,facemask wearing,protects_against,air pollution respiratory effects
+W3014479337,portable air cleaners with HEPA filters,protects_against,air pollution respiratory effects
+W2969580363,wildfire event,causes,wildfire smoke
+W2969580363,wildfire smoke,causes,air pollution
+W2969580363,wildfire event,causes,respiratory illness
+W2969580363,wildfire event,increases_risk_of,heat-related illness
+W2969580363,wildfire event,causes,forced migration
+W2969580363,wildfire event,exacerbates,mental health consequences
+W2969580363,wildfire event,causes,infrastructure damage
+W2969580363,wildfire event,is_associated_with,mortality
+W2807476580,air pollution exposure,causes,preterm birth
+W2807476580,air pollution exposure,causes,lower birth weight
+W2807476580,air pollution exposure,causes,lung developmental defects
+W2807476580,prenatal air pollutant exposure,increases_risk_of,respiratory diseases in later life
+W2807476580,perinatal air pollutant exposure,increases_risk_of,reduced lung function in childhood
+W2807476580,air pollution exposure,causes,altered immune responses
+W2899158916,wildfire event,exacerbates,disparities for socially vulnerable communities
+W2899158916,wildfire event,increases_risk_of,devastating impacts on minority communities
+W4383823379,wildfire event,is_associated_with,heat stress
+W4383823379,heat stress,increases_risk_of,mortality
+W3015919399,wildfire smoke,causes,out-of-hospital cardiac arrest
+W3015919399,heavy wildfire smoke,increases_risk_of,cardiac arrest in elderly
+W3015919399,low socioeconomic status,exacerbates,wildfire smoke cardiac effects
+W2240610192,early-life health insults,is_associated_with,adult health outcomes
+W2240610192,fetal period health,is_associated_with,long-term adult outcomes
+W2240610192,childhood disease,is_associated_with,adult health status
+W2240610192,malnutrition,is_associated_with,adult outcomes
+W2240610192,pollution exposure,is_associated_with,adult health
+W3158589092,climate change,causes,health system burden in Africa
+W3158589092,climate change,is_associated_with,health problems in vulnerable populations
+W2155331441,wildfire smoke,increases_risk_of,cardio-respiratory outcomes
+W2155331441,socioeconomic factors,exacerbates,cardio-respiratory outcomes
+W4388082114,wildfire event,causes,air pollution
+W4388082114,air pollution,causes,respiratory disease
+W4388082114,wildfire event,causes,displacement
+W4388082114,displacement,increases_risk_of,mental health disorder
+W4388082114,wildfire event,causes,habitat destruction
+W4388082114,habitat destruction,causes,biodiversity loss
+W4388082114,biodiversity loss,increases_risk_of,infectious disease emergence
+W4388082114,wildfire event,causes,food system disruption
+W4388082114,food system disruption,increases_risk_of,malnutrition
+W2319323659,wildfire smoke,causes,PM2.5
+W2319323659,PM2.5,increases_risk_of,hospital admissions
+W2319323659,PM2.5,increases_risk_of,mortality
+W2319323659,indoor filtration interventions,protects_against,PM2.5 exposure
+W4386444574,rapid warming,increases_risk_of,moisture deficits
+W4386444574,moisture deficits,increases_risk_of,wildfire activity
+W4386444574,increased evaporative demand,increases_risk_of,wildfire activity
+W4386444574,legacy of past wildfires,exacerbates,fire regimes
+W4386444574,insect outbreaks,exacerbates,fire regimes
+W4386444574,altered fuels,increases_risk_of,wildfire activity
+W2910477679,wildfire smoke,causes,PM2.5
+W2910477679,PM2.5,increases_risk_of,respiratory hospital admissions
+W2910477679,wildfire event,exacerbates,health burden in elderly populations
+W3033781545,ozone,is_associated_with,COVID-19 infection rates
+W3033781545,ozone,is_associated_with,COVID-19 mortality
+W3033781545,nitrogen dioxide,is_associated_with,COVID-19 infection rates
+W3033781545,air temperature,is_associated_with,ozone levels
+W3033781545,relative humidity,is_associated_with,ozone levels
+W2014671803,traffic pollution,increases_risk_of,rheumatoid arthritis
+W1996505403,wildfire smoke,increases_risk_of,out-of-hospital cardiac arrests
+W4283696483,wildfire event,is_associated_with,atmospheric pollution
+W4391229864,wildfire smoke,causes,PM2.5
+W4391229864,PM2.5,causes,oxidative stress
+W4391229864,PM2.5,causes,local and systemic inflammation
+W4391229864,PM2.5,causes,airway epithelium compromise
+W4391229864,PM2.5,increases_risk_of,infection
+W4391229864,wildfire smoke,exacerbates,asthma
+W4391229864,wildfire smoke,exacerbates,chronic obstructive pulmonary disease
+W4391229864,wildfire smoke,increases_risk_of,asthma onset
+W4391229864,wildfire smoke,is_associated_with,long-term lung function impairment
+W4391229864,wildfire smoke,is_associated_with,all-cause mortality
+W4391809192,wildfire event,exacerbates,water stress on Amazonian forests
+W4391809192,wildfire event,increases_risk_of,ecosystem transitions
+W4391809192,wildfire event,is_associated_with,loss of forest resilience
+W4403510769,climate change,increases_risk_of,fire-favorable weather
+W4403510769,fire-favorable weather,causes,forest fire emissions
+W4403510769,increased forest cover and productivity,exacerbates,forest fire emissions
+W4206362199,wildfire smoke,causes,mental health impacts
+W4206362199,wildfire smoke,causes,wellbeing impacts
+W3185089024,wildfire event,is_associated_with,climate change
+W3185089024,wildfire event,is_associated_with,land use changes
+W3185089024,wildfire event,is_associated_with,land management practices
+W4403660239,wildfire smoke,causes,respiratory conditions
+W4403660239,wildfire smoke,causes,cardiovascular conditions
+W4403660239,heat stress,causes,heat-related illnesses
+W4403660239,climate change,increases_risk_of,infectious diseases
+W2122060678,CFTR mutation,increases_risk_of,pathogenic bacterial colonization
+W2122060678,loss of airway microbial diversity,is_associated_with,poorer pulmonary function
+W2122060678,age,is_associated_with,airway microbiota composition change
+W4200561549,wildfire event,causes,vertebrate mortality
+W4200561549,fire recurrence,exacerbates,ecosystem impoverishment
+W4402760953,wildfire smoke,causes,PM2.5
+W4402760953,PM2.5,increases_risk_of,nonaccidental mortality
+W4402760953,PM2.5,increases_risk_of,cardiovascular mortality
+W4402760953,PM2.5,increases_risk_of,ischemic heart disease mortality
+W4402760953,PM2.5,increases_risk_of,diabetes mortality
+W4402760953,PM2.5,increases_risk_of,chronic kidney disease mortality
+W4402760953,wildfire smoke,exacerbates,extreme heat health effects
+W2097227695,wildfire event,causes,dust cloud exposure
+W2097227695,wildfire event,causes,traumatic event witnessing
+W2097227695,dust cloud exposure,causes,respiratory symptoms
+W2097227695,dust cloud exposure,causes,newly diagnosed asthma
+W2097227695,traumatic event witnessing,causes,posttraumatic stress disorder
+W2097227695,wildfire event,causes,injury
+W2097227695,injury,increases_risk_of,posttraumatic stress disorder
+W4389744302,wildfire event,causes,wildfire smoke
+W4389744302,wildfire smoke,causes,PM2.5
+W4389744302,PM2.5,causes,respiratory tract infections
+W4389744302,PM2.5,causes,asthma
+W4389744302,PM2.5,increases_risk_of,all-cause mortality
+W4389744302,wildfire event,causes,displacement
+W4389744302,wildfire event,causes,heat stress
+W4389744302,heat stress,increases_risk_of,mortality
+W4389744302,wildfire event,causes,food insecurity
+W4389744302,wildfire event,causes,mental health issues
+W3197387768,wildfire event,is_associated_with,suppression of Indigenous fire management
+W3197387768,suppression of Indigenous fire management,causes,altered fire regimes
+W3197387768,Indigenous fire management,protects_against,catastrophic bushfires
+W2034707849,wildfire smoke,causes,PM2.5
+W2034707849,PM2.5,causes,oxidative stress
+W2034707849,oxidative stress,causes,inflammation
+W2034707849,inflammation,increases_risk_of,cardiovascular morbidity and mortality
+W2890377989,wildfire smoke,causes,PM2.5 exposure
+W2890377989,PM2.5,increases_risk_of,fetal mortality
+W2890377989,PM2.5,increases_risk_of,infant mortality
+W2890377989,PM2.5,increases_risk_of,child mortality
+W2890377989,prenatal PM2.5 exposure,is_associated_with,missing children in census
+W2163598765,climate change,exacerbates,pre-existing respiratory disease
+W2916551293,wildfire smoke,causes,PM2.5
+W2916551293,PM2.5,causes,premature mortality
+W2916551293,wildfire event,is_associated_with,43000 premature deaths annually in Africa
+W2739979865,wildfire smoke,causes,PM2.5
+W2739979865,PM2.5,increases_risk_of,respiratory disease
+W2739979865,PM2.5,increases_risk_of,cardiovascular disease
+W2739979865,wildfire event,is_associated_with,health hazard
+W2743263962,wildfire event,increases_risk_of,mortality
+W2743263962,wildfire event,is_associated_with,weather-related hazards
+W4391646605,wildfire event,is_associated_with,land use change
+W4391646605,wildfire event,is_associated_with,climate change
+W4391646605,wildfire event,causes,biodiversity loss
+W4391646605,wildfire event,causes,carbon storage reduction
+W4391646605,wildfire event,causes,ecosystem service degradation
+W4308325267,fire_weather,exacerbates,insect population decline
+W4308325267,wildfire_event,is_associated_with,ecosystem disruption
+W3205769755,wildfire smoke,causes,eye irritation
+W3205769755,wildfire smoke,causes,throat irritation
+W3205769755,wildfire smoke,causes,cough
+W3205769755,wildfire smoke,causes,anxiety symptoms
+W3205769755,wildfire smoke,causes,depressive symptoms
+W3205769755,wildfire smoke,causes,sleep disturbance
+W3205769755,wildfire smoke,exacerbates,existing medical conditions
+W3029794676,PM2.5,is_associated_with,COVID-19 incidence
+W3029794676,air pollution,is_associated_with,COVID-19 incidence
+W2053795071,climate change,increases_risk_of,tropospheric ozone concentrations
+W2053795071,tropospheric ozone,causes,health impacts
+W2053795071,PM2.5,causes,health impacts
+W3190323476,structural racism,causes,residential segregation and disinvestment
+W3190323476,residential disinvestment,causes,limited greenspace access
+W3190323476,limited greenspace access,increases_risk_of,air pollution exposure
+W3190323476,air pollution exposure,increases_risk_of,cardiovascular disease
+W3190323476,limited greenspace access,increases_risk_of,heat stress
+W3190323476,heat stress,increases_risk_of,chronic disease
+W3190323476,greenspace investment,protects_against,health inequity
+W2121677268,wildfire event,increases_risk_of,community exposure to fire
+W2121677268,climate change,causes,intensified fire regime
+W2121677268,wildfire event,exacerbates,vulnerability in rural communities
+W4393940919,wildfire event,causes,PM2.5
+W4393940919,PM2.5,causes,immune dysregulation
+W4393940919,wildfire smoke,causes,airway inflammation
+W4393940919,wildfire event,causes,heat stress
+W4393940919,heat stress,exacerbates,immune dysregulation
+W4393940919,wildfire smoke,increases_risk_of,asthma
+W4393940919,wildfire event,increases_risk_of,allergic diseases
+W2993533030,biomass use,causes,PM2.5
+W2993533030,PM2.5,causes,respiratory symptoms
+W2993533030,PM2.5,causes,impaired lung function
+W2993533030,biomass use,causes,volatile organic compounds
+W2993533030,volatile organic compounds,is_associated_with,reduced forced vital capacity
+W3155248034,wildfire smoke,causes,PM2.5
+W3155248034,PM2.5,is_associated_with,increased health care use for atopic dermatitis
+W3155248034,PM2.5,is_associated_with,increased itch symptoms
+W2752680352,wildfire smoke,causes,PM10 exposure
+W2752680352,PM10,causes,reactive oxygen species production
+W2752680352,PM10,causes,inflammatory cytokine release
+W2752680352,PM10,causes,DNA damage
+W2752680352,PM10,causes,apoptosis
+W2752680352,PM10,causes,necrosis
+W2752680352,retene,mediates,DNA damage
+W4283027359,wildfire event,causes,disruption of social structures
+W4283027359,wildfire event,causes,disruption of economic structures
+W4283027359,disruption of social structures,increases_risk_of,mental health disorders
+W4283027359,disruption of economic structures,increases_risk_of,mental health disorders
+W4311673720,wildfire smoke,causes,PM2.5
+W4311673720,PM2.5,increases_risk_of,all-cause mortality
+W4311673720,PM2.5,increases_risk_of,respiratory mortality
+W4311673720,PM2.5,increases_risk_of,cardiovascular mortality
+W4367173835,climate change,increases_risk_of,worker heat stress
+W4367173835,climate change,increases_risk_of,occupational biological hazards
+W4367173835,climate change,increases_risk_of,worker mental health disorders
+W4367173835,climate change,increases_risk_of,worker morbidity and mortality
+W4399425561,wildfire smoke,causes,PM2.5
+W4399425561,PM2.5,increases_risk_of,premature mortality
+W2784243064,wildfire event,is_associated_with,differential risk distribution
+W2784243064,wildfire event,is_associated_with,marginalization of low-income communities
+W2784243064,facilitation of privileged groups,increases_risk_of,vulnerability among marginalized populations
+W1978107590,wildfire event,causes,smoke exposure
+W1978107590,wildfire smoke,is_associated_with,human health impacts
+W1978107590,climate change,increases_risk_of,fire weather severity
+W4389613245,wildfire event,causes,hexavalent chromium transformation in soil
+W4389613245,wildfire smoke,causes,PM2.5 with reactive hexavalent chromium
+W4389613245,PM2.5,increases_risk_of,cancer from metal toxin inhalation
+W4389613245,fire severity,increases_risk_of,hexavalent chromium formation
+W4389613245,metal-rich geologies,exacerbates,wildfire smoke toxicity
+W4387573088,wildfire_smoke,causes,respiratory conditions
+W4387573088,wildfire_smoke,causes,skin irritations
+W4387573088,wildfire_event,increases_risk_of,health impacts in indigenous populations
+W4379768925,wildfire smoke,is_associated_with,exposure in socially disadvantaged communities
+W4379768925,wildfire event,is_associated_with,increased disparities in smoke exposure
+W3126898285,wildfire smoke,causes,PM2.5
+W3126898285,PM2.5,increases_risk_of,respiratory illness
+W3126898285,PM2.5,increases_risk_of,cardiovascular illness
+W3126898285,wildfire smoke,increases_risk_of,health resource utilization
+W3126898285,prolonged wildfire smoke exposure,exacerbates,mental health impacts
+W2157336321,global climate change,increases_risk_of,exposure to environmental pollutants
+W2157336321,global climate change,increases_risk_of,psychosocial stress
+W2157336321,global climate change,increases_risk_of,high temperature coexposure
+W2157336321,high temperature coexposure,increases_risk_of,human vulnerability to chemicals
+W3210679953,wildfire event,causes,air pollution
+W3210679953,wildfire event,causes,displacement of populations
+W3210679953,wildfire event,increases_risk_of,adverse reproductive health outcomes
+W3210679953,air pollution,increases_risk_of,adverse maternal health outcomes
+W3125398380,PM2.5,causes,TNF-α induction
+W3125398380,TNF-α,causes,filaggrin deficiency
+W3125398380,filaggrin deficiency,causes,skin barrier dysfunction
+W3125398380,PM2.5,causes,increased transepidermal water loss
+W3125398380,skin barrier dysfunction,increases_risk_of,atopic dermatitis exacerbation
+W2007117895,PM2.5,causes,oxidative stress
+W2007117895,PM2.5,causes,interleukin-6 release
+W2007117895,PM2.5,causes,interleukin-8 release
+W2007117895,iron,mediates,interleukin-6 release
+W2007117895,chromium,mediates,interleukin-8 release
+W3214589077,daily temperature extremes,increases_risk_of,wildfire occurrence
+W3214589077,daily temperature extremes,increases_risk_of,burned area
+W2096579424,wildfire smoke,causes,lichen decline
+W2096579424,wildfire smoke,is_associated_with,Arctic tundra ecosystem change
+W4391467515,wildfire smoke,causes,PM2.5
+W4391467515,PM2.5,increases_risk_of,cardiorespiratory hospitalizations
+W4391467515,wildfire event,causes,extreme heat
+W4391467515,extreme heat,increases_risk_of,cardiorespiratory hospitalizations
+W4391467515,wildfire smoke,exacerbates,heat-related cardiorespiratory hospitalizations
+W2903128119,wildfire event,causes,PM2.5
+W2903128119,PM2.5,causes,respiratory disease
+W2903128119,PM2.5,causes,cardiovascular disease
+W2903128119,wildfire event,increases_risk_of,mortality
+W3083548889,wildfire event,is_associated_with,homes threatened in wildland-urban interface
+W3083548889,human-ignited wildfire,causes,residential home destruction
+W3083548889,warmer drier conditions,exacerbates,human-caused wildfire risk
+W3193954967,PM2.5,causes,oxidative stress
+W3193954967,PM2.5,causes,systemic health effects
+W3193954967,transition metals in PM2.5,increases_risk_of,oxidative stress
+W3193954967,sulfur compounds in PM2.5,exacerbates,metal bioavailability
+W2405947432,PM2.5,is_associated_with,alterations in glucose levels
+W2405947432,PM2.5,is_associated_with,HbA1c alterations
+W2405947432,PM2.5,is_associated_with,lipid level alterations
+W3195167447,wildfire event,is_associated_with,air pollution
+W3195167447,air pollution,is_associated_with,human health impacts
+W3195167447,climate change,exacerbates,air pollution health risks
+W4387167601,climate change,increases_risk_of,extreme weather events
+W4387167601,extreme weather events,causes,mortality
+W2938515058,wildfire event,exacerbates,biodiversity loss
+W2938515058,wildfire event,increases_risk_of,ecosystem service disruption
+W2938515058,climate change,causes,increased wildfire frequency
+W2938515058,wildfire event,is_associated_with,economic costs
+W3203439288,wildfire event,is_associated_with,deforestation and savannization
+W3203439288,wildfire event,increases_risk_of,heat stress exposure
+W3203439288,deforestation,increases_risk_of,heat stress exposure
+W3203439288,heat_stress,causes,extreme health risk
+W4386316795,wildfire event,is_associated_with,climate change
+W4386316795,wildfire event,is_associated_with,land use changes
+W4386316795,wildfire event,is_associated_with,invasive species
+W4321169580,wildfire event,causes,injury and death
+W4321169580,wildfire event,causes,homelessness
+W4321169580,wildfire event,is_associated_with,respiratory and cardiovascular disease
+W4321169580,wildfire event,is_associated_with,mental health threats
+W2902223523,wildfire event,is_associated_with,fuel accumulation
+W2902223523,wildfire event,is_associated_with,fire exclusion policy
+W4280549054,wildfire event,causes,vegetation type conversion
+W4280549054,high-severity fire,causes,forest to shrubland conversion
+W4280549054,wildfire event,is_associated_with,climate warming interactions
+W1987955374,criteria air pollutants,is_associated_with,IBD hospitalizations
+W4376132600,wildfire event,exacerbates,health vulnerabilities in prisons
+W4376132600,wildfire event,increases_risk_of,mortality
+W4376132600,extreme weather events,causes,infrastructural damage
+W4376132600,extreme weather events,increases_risk_of,disease outbreaks
+W4390273968,wildfire event,causes,PM2.5
+W4390273968,PM2.5,increases_risk_of,asthma exacerbation
+W4390273968,wildfire smoke,causes,PM2.5 exposure
+W4390273968,prescribed burning,causes,smoke emissions
+W4390273968,prescribed burning,increases_risk_of,community smoke exposure
+W4390273968,prescribed burning,protects_against,extreme wildfire risk
+W3034522579,wildfire event,causes,displacement
+W3034522579,wildfire smoke,causes,evacuation necessity
+W3034522579,displacement,is_associated_with,mental health impacts
+W3034522579,lack of information about wildfire,exacerbates,evacuation challenges
+W3034522579,strong community leadership,protects_against,evacuation-related harm
+W2098951325,wildfire event,causes,shifts from conifer to deciduous forest composition
+W2098951325,climate change,increases_risk_of,wildfire frequency and severity
+W2803190165,restrictive fire management policies,exacerbates,farmer vulnerability to escaped fire
+W2803190165,anti-fire narrative,is_associated_with,criminalisation of swidden agriculture
+W2803190165,marginalisation of fire use,is_associated_with,failed conservation interventions
+W4360603582,wildfire event,increases_risk_of,soil dust emission
+W4360603582,soil dust,causes,asthma
+W4360603582,soil dust,causes,allergies
+W4360603582,soil dust,causes,fungal infections
+W4360603582,soil dust,causes,Coccidioidomycosis
+W4360603582,soil dust,increases_risk_of,premature death
+W4383187456,air pollution,is_associated_with,mental_health outcomes
+W4389611353,wildfire smoke,causes,PM2.5
+W4389611353,PM2.5,increases_risk_of,asthma-related emergency department visits
+W4376107932,wildfire smoke,causes,PM2.5
+W4376107932,wildfire smoke,increases_risk_of,asthma ED visits
+W4376107932,wildfire smoke,increases_risk_of,respiratory ED visits
+W4376107932,wildfire smoke,increases_risk_of,cardiovascular ED visits
+W4376107932,PM2.5,increases_risk_of,respiratory ED visits
+W4376107932,PM2.5,increases_risk_of,asthma ED visits
+W4376107932,PM2.5,increases_risk_of,cardiovascular ED visits
+W2139700331,climate change,increases_risk_of,ground-level ozone concentrations
+W2139700331,ground-level ozone,causes,respiratory morbidity
+W2139700331,ground-level ozone,causes,mortality
+W2083744989,forest visits,increases_risk_of,mental health improvement
+W2083744989,forest visits,increases_risk_of,physical health improvement
+W2083744989,forest ecosystems,mediates,infectious disease regulation
+W2083744989,climate change,exacerbates,forest health benefits reduction
+W2083744989,deforestation,exacerbates,vulnerable population health risks
+W4404306021,wildfire event,causes,biodiversity decline
+W4404306021,wildfire event,causes,species population changes
+W4404306021,high fire severity,increases_risk_of,biodiversity loss
+W4404306021,fire recurrence,exacerbates,biodiversity impacts
+W4404306021,drought,exacerbates,fire impacts on biodiversity
+W2955473854,wildfire smoke,is_associated_with,public health impacts
+W2955473854,wildfire event,increases_risk_of,community health threats
+W4387101712,wildfire smoke,causes,respiratory problems
+W4387101712,wildfire smoke,causes,skin conditions
+W4387101712,wildfire smoke,increases_risk_of,cancer
+W4289521818,wildfire smoke,causes,PM2.5
+W4289521818,PM2.5,increases_risk_of,respiratory health impacts
+W4289521818,PM2.5,increases_risk_of,cardiovascular health impacts
+W4289521818,wildfire event,causes,extreme heat exposure
+W4289521818,extreme heat,increases_risk_of,negative health impacts
+W4289521818,wildfire smoke,is_associated_with,synergistic health effects with heat
+W4303627948,wildfire event,causes,PM2.5
+W4303627948,PM2.5,increases_risk_of,respiratory disease
+W4303627948,PM2.5,increases_risk_of,cardiovascular disease
+W4303627948,wildfire event,exacerbates,heat stress
+W4303627948,wildfire smoke,is_associated_with,compound risk days
+W2604494705,formal education,increases_risk_of,disaster preparedness actions
+W2604494705,formal education,mediates,social capital
+W2604494705,formal education,mediates,disaster risk perception
+W2604494705,disaster risk perception,increases_risk_of,disaster preparedness
+W2604494705,prior disaster experience,exacerbates,relationship between education and preparedness
+W2809838337,PM2.5,causes,elevated heart rate
+W2809838337,PM2.5,causes,elevated blood pressure
+W2809838337,PM2.5,causes,cardiac systolic dysfunction
+W2809838337,PM2.5,causes,cardiac fibrosis
+W2809838337,PM2.5,increases_risk_of,oxidative stress
+W2809838337,oxidative stress,mediates,cardiac dysfunction
+W4394860150,wildfire event,causes,particulate matter and greenhouse gas release
+W4394860150,wildfire event,causes,respiratory issues
+W4394860150,wildfire smoke,causes,asthma exacerbation
+W4394860150,wildfire smoke,causes,respiratory infections
+W4394860150,wildfire smoke,is_associated_with,vascular and neoplastic conditions
+W4394860150,wildfire event,causes,deforestation
+W4394860150,deforestation,causes,shift in vector spatial distribution
+W4394860150,deforestation,causes,altered microclimate
+W4394860150,deforestation,causes,chemical contamination
+W4394860150,deforestation,causes,waterborne disease spread
+W4394860150,deforestation,causes,food insecurity
+W4394860150,deforestation,causes,stress and anxiety disorders
+W2273635638,wildfire event,exacerbates,mental and physical health impacts
+W2273635638,wildfire event,causes,displacement from traditional lands
+W2273635638,fire exclusion policy,exacerbates,catastrophic wildfires
+W2273635638,fire exclusion policy,causes,loss of cultural practices
+W2273635638,fire exclusion policy,increases_risk_of,mental and physical health impacts
+W4385368360,wildfire smoke,causes,adverse health impacts
+W4385368360,wildfire smoke,increases_risk_of,health threats in Indigenous communities
+W3014141279,wildfire smoke,causes,PM2.5
+W3014141279,PM2.5,increases_risk_of,mortality
+W4395447535,heat_stress,causes,cardiovascular mortality
+W4395447535,heat_stress,increases_risk_of,all-cause mortality
+W4395447535,heat_stress,exacerbates,preexisting cardiovascular conditions
+W2148269779,PM2.5,causes,oxidative stress
+W2148269779,PM2.5,causes,mitochondrial alterations
+W2148269779,PM2.5,causes,altered mitochondrial gene expression
+W2148269779,oxidative stress,increases_risk_of,metabolic dysfunction
+W2148269779,mitochondrial dysfunction,increases_risk_of,metabolic dysfunction
+W3126762737,anthropogenic climate change,increases_risk_of,pollen concentrations
+W3126762737,anthropogenic climate change,increases_risk_of,pollen season lengthening
+W3126762737,pollen,causes,respiratory health impacts
+W3126762737,warming,is_associated_with,pollen concentrations
+W2093673414,industrial emissions,causes,air pollution
+W2093673414,air pollution,causes,respiratory disease
+W2093673414,air pollution,causes,cardiovascular disease
+W2093673414,benzene exposure,causes,genetic damage
+W2093673414,toxic chemical exposure,increases_risk_of,cancer
+W2093673414,air pollution,increases_risk_of,oxidative stress
+W4283393653,wildfire event,causes,conifer regeneration failure
+W4283393653,wildfire event,exacerbates,drought stress
+W4283393653,drought,exacerbates,conifer regeneration failure
+W4283393653,climate change,increases_risk_of,conifer regeneration failure
+W2788629229,wildfire event,causes,sleep restriction
+W2788629229,sleep restriction,is_associated_with,cognitive performance
+W2788629229,sleep restriction,increases_risk_of,fatigue-related errors
+W2788629229,early shift start times,exacerbates,sleep restriction
+W2788629229,long duration shifts,exacerbates,sleep restriction
+W2892377758,wildfire event,causes,ecosystem modifications
+W2892377758,ecosystem modifications,causes,species decline
+W2080587071,wildfire event,is_associated_with,increased minimum temperatures
+W2080587071,wildfire event,is_associated_with,decreased winter precipitation
+W2160412403,wildfire smoke,causes,PM2.5
+W2160412403,PM2.5,increases_risk_of,asthma morbidity
+W2160412403,PM2.5,increases_risk_of,allergic respiratory diseases
+W2160412403,fire_weather,is_associated_with,asthma morbidity
+W2160412403,wildfire event,exacerbates,chronic respiratory diseases
+W2160412403,climate change,increases_risk_of,allergen pattern shifts
+W2811503590,heat-driven building cooling demand,causes,power sector emissions
+W2811503590,power sector emissions,causes,air pollution
+W2811503590,air pollution,increases_risk_of,mortality
+W2524842203,air pollution,causes,health effects
+W2524842203,air pollution,is_associated_with,reduced survival
+W3129277976,wildfire event,causes,PM10 concentration increase
+W3129277976,PM2.5,is_associated_with,all-cause mortality
+W3129277976,PM2.5,is_associated_with,respiratory mortality
+W3129277976,PM2.5,is_associated_with,circulatory mortality
+W4225747064,wildfire event,increases_risk_of,vulnerability in remote indigenous communities
+W4225747064,wildfire event,is_associated_with,fuel load accumulation
+W4225747064,indigenous cultural burning,is_associated_with,wildfire risk
+W4387827119,wildfire smoke,causes,PM2.5
+W4387827119,PM2.5,increases_risk_of,respiratory ED visits
+W4387827119,PM2.5,increases_risk_of,cardiovascular ED visits
+W4387827119,PM2.5,increases_risk_of,asthma in Black/African Americans
+W4387827119,PM2.5,increases_risk_of,heart disease in adults aged 55+
+W1987627127,wildfire event,causes,increased aerosol emissions
+W1987627127,wildfire smoke,causes,PM2.5
+W1987627127,PM2.5,causes,respiratory hospitalisation in children
+W1987627127,drought,increases_risk_of,fire incidence
+W2800861573,wildfire smoke,increases_risk_of,adverse health outcomes
+W3185510098,wildfire event,causes,greenhouse gas emissions
+W3185510098,prescribed burning,is_associated_with,wildfire extent
+W3185510098,prescribed burning,increases_risk_of,ecosystem service provision
+W3027013275,drought severity,is_associated_with,all-cause mortality
+W2601455982,wildfire event,is_associated_with,heat stress vulnerability
+W2181043048,wildfire event,causes,cardiovascular health effects
+W2181043048,wildfire event,causes,respiratory health effects
+W2054203073,cigarette smoking,causes,PM2.5 exposure
+W2054203073,PM2.5 exposure,causes,oxidative stress
+W2054203073,oxidative stress,causes,kinase cascade activation
+W2054203073,oxidative stress,causes,inflammatory mediator release
+W2054203073,oxidative stress,causes,apoptosis
+W2054203073,PM2.5 exposure,causes,pulmonary function loss
+W2054203073,PM2.5 exposure,causes,emphysema
+W2054203073,PM2.5 exposure,causes,cardiovascular disease
+W4283258269,African dust event,causes,PM2.5 increase
+W4283258269,PM2.5 increase,increases_risk_of,COPD exacerbations
+W4283258269,PM2.5 increase,increases_risk_of,dyspnoea
+W4283258269,African dust event,causes,hospital visits increase
+W4382344004,wildfire smoke,causes,earlier first use of upper respiratory medications
+W4382344004,wildfire smoke,is_associated_with,asthma exacerbation in children
+W2158194601,PM2.5,is_associated_with,DNA methylation of iNOS gene
+W2158194601,iNOS methylation,is_associated_with,nitric oxide production
+W3104558197,wildfire event,exacerbates,ecological and social disruptions
+W3104558197,wildfire event,is_associated_with,uneven impacts to indigenous communities
+W3104558197,settler colonialism,exacerbates,wildfire impacts
+W3104558197,colonial forest management practices,exacerbates,wildfire severity
+W3104558197,anthropogenic climate change,exacerbates,wildfire severity
+W2986220957,wildfire event,causes,wildfire smoke exposure
+W2986220957,heat stress,increases_risk_of,suicide
+W4399284629,wildfire event,causes,extreme heat and weather events
+W4399284629,extreme heat and weather events,causes,impaired innate and adaptive immune responses
+W4399284629,extreme heat and weather events,causes,inflammation
+W4399284629,extreme heat and weather events,causes,genomic instability
+W4399284629,extreme heat and weather events,increases_risk_of,autoimmune diseases
+W4399284629,extreme heat and weather events,increases_risk_of,chronic inflammatory diseases
+W4399284629,extreme heat and weather events,causes,gut microbiota dysbiosis
+W2252772284,biomass burning,causes,black carbon aerosol emissions
+W2252772284,black carbon aerosol,is_associated_with,glacier and snow cover retreat
+W2252772284,black carbon aerosol,is_associated_with,reduced water availability
+W4308641495,wildfire event,increases_risk_of,health system burden
+W4308641495,wildfire event,increases_risk_of,displacement
+W4308641495,wildfire event,increases_risk_of,reduced labour productivity
+W4388562445,low-intensity fires,is_associated_with,risk of high-intensity wildfires
+W4388562445,low-intensity fires,causes,fuel treatment in fire-adapted ecosystems
+W4392762858,heat_stress,causes,labour_productivity_loss
+W4392762858,heat_stress,causes,health_costs
+W4392762858,heat_stress,causes,economic_disruptions
+W4392762858,economic_disruptions,causes,supply_chain_cascading_losses
+W2995809825,wildfire event,increases_risk_of,mortality
+W2995809825,wildfire event,increases_risk_of,heat-related illness
+W2752726467,heat_stress,exacerbates,urban_heat_island_effect
+W2752726467,urban_heat_island_effect,increases_risk_of,thermal_risk_in_cities
+W2461883632,wildfire event,increases_risk_of,heat stress
+W2461883632,limited access to cooled space,increases_risk_of,heat-related health risks
+W4200038048,wildfire smoke,causes,PM2.5
+W4200038048,PM2.5,increases_risk_of,mortality
+W4200038048,PM2.5,increases_risk_of,respiratory outcomes
+W4200038048,PM2.5,increases_risk_of,cardiovascular outcomes
+W4384664428,wildfire smoke,causes,PM2.5 exposure
+W4384664428,PM2.5,increases_risk_of,respiratory rate elevation
+W4384664428,PM2.5,increases_risk_of,heart rate elevation
+W4384664428,PM2.5,increases_risk_of,rectal temperature increase
+W4384664428,PM2.5,exacerbates,cough and eye scores
+W4384664428,PM2.5,causes,immune cell dysregulation
+W4384664428,PM2.5,causes,metabolic disturbance
+W4384664428,PM2.5,exacerbates,heat stress effects
+W2518843873,wildfire event,is_associated_with,distance to roads
+W2518843873,wildfire event,is_associated_with,recent deforestation
+W2518843873,wildfire event,is_associated_with,human settlement density
+W2518843873,wildfire event,increases_risk_of,biomass loss
+W2518843873,fire_weather,increases_risk_of,wildfire event
+W4386960771,climate change,increases_risk_of,extreme weather conditions
+W4386960771,extreme weather conditions,is_associated_with,human mortality
+W1670821900,wildfire event,causes,dwelling losses
+W1670821900,scale mismatches in mitigation planning,exacerbates,wildfire dwelling losses
+W1670821900,risk perception and behavior,is_associated_with,scale mismatches
+W4391345307,wildfire event,increases_risk_of,heat stress
+W4391345307,heat stress,causes,systemic inflammatory response
+W4391345307,heat stress,causes,electrolyte imbalances
+W4391345307,heat stress,causes,dehydration
+W4391345307,heat stress,increases_risk_of,cardiovascular mortality
+W4391345307,heat stress,increases_risk_of,acute myocardial infarction
+W4391345307,heat stress,increases_risk_of,heart failure
+W4391345307,heat stress,increases_risk_of,cardiac arrhythmias
+W3167368647,PM10 above WHO guidelines,exacerbates,COVID-19 severity
+W3167368647,PM10 above WHO guidelines,exacerbates,COVID-19 mortality
+W4313550701,fire_weather,causes,heat_stress
+W4313550701,heat_stress,increases_risk_of,health risks
+W4313550701,urban heat island effect,exacerbates,heat_stress
+W4377833718,wildfire event,is_associated_with,increasing temperatures
+W4377833718,wildfire event,is_associated_with,atmospheric vapour pressure deficit
+W4377833718,wildfire event,is_associated_with,anthropogenic climate change
+W4377833718,wildfire event,is_associated_with,compression of winter wet season
+W4377833718,wildfire event,is_associated_with,suppression of Indigenous fire use
+W4377833718,wildfire event,is_associated_with,aggressive fire suppression
+W4377833718,wildfire event,is_associated_with,vegetative fuel build-up
+W4377833718,wildfire event,is_associated_with,human-caused ignition
+W4385454393,PM2.5,increases_risk_of,childhood asthma onset
+W4385454393,PM2.5,exacerbates,childhood asthma exacerbation
+W4385454393,PM2.5,increases_risk_of,airway responsiveness
+W2980332209,air pollution,causes,health burden
+W2980332209,lead exposure,causes,neurodevelopmental effects
+W2993512515,wildfire smoke,causes,PM2.5
+W2993512515,PM2.5,increases_risk_of,adverse health outcomes
+W2993512515,wildfire smoke,increases_risk_of,extreme pollution events
+W4385644829,wildfire smoke,causes,PM2.5
+W4385644829,PM2.5,causes,respiratory health effects in children
+W4385644829,PM2.5,causes,cardiovascular health effects in children
+W4385644829,PM2.5,causes,neurological effects in children
+W4385644829,early-life health damage,is_associated_with,human capital in adulthood
+W4387641558,wildfire smoke,causes,PM2.5
+W4387641558,PM2.5,increases_risk_of,respiratory illness
+W4387641558,PM2.5,increases_risk_of,cardiovascular illness
+W4387641558,wildfire smoke,is_associated_with,higher vulnerability in low-adaptive-capacity communities
+W4386191462,PM2.5,causes,mortality
+W4386191462,population aging,exacerbates,PM2.5-related mortality
+W4385768967,wildfire event,increases_risk_of,mortality in elderly populations
+W4385768967,wildfire event,is_associated_with,heat stress in aging populations
+W4387392507,extreme_weather_events,causes,cascading_health_risks
+W4387392507,climate_change,increases_risk_of,extreme_weather_events
+W4387392507,social_networks,protects_against,health_impacts
+W4387392507,knowledge_and_education,protects_against,health_impacts
+W3044187362,forest contact,increases_risk_of,psychological wellbeing
+W3044187362,forest contact,increases_risk_of,physiological wellbeing
+W3044187362,forest contact,increases_risk_of,social wellbeing
+W3117067289,wildfire event,causes,wildfire smoke
+W3117067289,wildfire smoke,causes,PM2.5 exposure
+W3117067289,PM2.5,causes,excess mortality
+W3117067289,PM2.5,increases_risk_of,hospital admissions
+W3117067289,wildfire event,causes,extreme heat exposure
+W3117067289,extreme heat,increases_risk_of,heat-related illness
+W3117067289,wildfire event,causes,displacement
+W4396801598,air pollution,causes,cognitive impairment
+W4396801598,air pollution,causes,dementia
+W4396801598,air pollution,is_associated_with,post-partum depression
+W4396801598,air pollution,is_associated_with,schizophrenia relapse
+W4396801598,climate change hazards,increases_risk_of,suicidal behavior
+W4396801598,climate change hazards,increases_risk_of,mental disorder mortality
+W4396801598,increased temperature,increases_risk_of,suicide-related mortality
+W4396801598,cyclone exposure,exacerbates,post-traumatic stress disorder symptoms
+W4321456736,wildfire smoke,causes,PM2.5
+W4321456736,PM2.5,causes,respiratory disease
+W4321456736,PM2.5,increases_risk_of,mortality
+W4321456736,wildfire smoke,causes,smog
+W4321243473,PM2.5,causes,respiratory disease
+W4321243473,PM2.5,causes,cardiovascular disease
+W4321243473,PM2.5,increases_risk_of,mortality
+W4211040906,stratospheric ozone depletion,increases_risk_of,UV radiation exposure
+W4211040906,UV radiation exposure,causes,health effects
+W4211040906,climate change,exacerbates,UV radiation health impacts
+W4378227229,wildfire_event,increases_risk_of,displacement
+W4378227229,wildfire_event,increases_risk_of,mental_health_distress
+W4378227229,displacement,exacerbates,HIV_care_disruption
+W2520517309,charcoal production,causes,PM2.5 emissions
+W2520517309,charcoal production,causes,carbon monoxide emissions
+W2520517309,PM2.5,causes,reduced FEV1
+W2520517309,PM2.5,causes,reduced PEFR
+W2520517309,carbon monoxide,increases_risk_of,carboxyhaemoglobin elevation
+W2981362190,PM2.5,causes,mental health deterioration
+W2981362190,PM2.5,is_associated_with,negative mental health outcomes
+W2981362190,cognitive ability,mediates,PM2.5-mental health relationship
+W2981362190,non-cognitive ability,mediates,PM2.5-mental health relationship
+W3208052379,urban heat,increases_risk_of,mortality
+W3208052379,urban heat,exacerbates,cardiovascular disease
+W4396693585,PM2.5,causes,respiratory disease
+W4396693585,PM2.5,causes,cardiovascular disease
+W4396693585,vehicular emissions,causes,PM2.5
+W2047135275,wildfire event,causes,burnt sugarcane harvesting exposure
+W2047135275,burnt sugarcane harvesting exposure,increases_risk_of,blood pressure elevation
+W2047135275,burnt sugarcane harvesting exposure,causes,autonomic imbalance
+W2047135275,autonomic imbalance,is_associated_with,cardiovascular changes
+W4375863810,wildfire_event,causes,mental_health_disorders
+W4375863810,wildfire_event,increases_risk_of,mortality
+W4375863810,wildfire_event,exacerbates,limited_healthcare_access
+W4375863810,heat_stress,increases_risk_of,communicable_diseases
+W4375863810,heat_stress,increases_risk_of,non_communicable_diseases
+W3165417548,wildfire smoke,causes,human health hazards
+W3165417548,climate change,increases_risk_of,wildfire frequency and intensity
+W3165417548,prolonged wildfire smoke exposure,exacerbates,inability of populations to self-protect
+W4377115783,wildfire smoke,causes,PM2.5
+W4377115783,PM2.5,is_associated_with,indoor dust contamination
+W4377115783,wildfire smoke,increases_risk_of,elevated polycyclic aromatic hydrocarbons
+W4377115783,wildfire smoke,increases_risk_of,elevated metal concentrations
+W4377115783,resuspended indoor dust,is_associated_with,human health threat
+W3134872589,wildfire event,causes,repeated forest disturbance
+W3134872589,repeated forest disturbance,causes,topsoil erosion
+W3134872589,topsoil erosion,causes,loss of clay and nutrients
+W3134872589,loss of clay and nutrients,causes,soil transformation to sand-rich state
+W3134872589,sand-rich soil,increases_risk_of,white-sand savanna expansion
+W4400268266,wildfire smoke,causes,ozone formation
+W4400268266,ozone,increases_risk_of,respiratory mortality
+W4400268266,ozone,increases_risk_of,cardiovascular mortality
+W4400268266,ozone,increases_risk_of,all-cause mortality
+W3198277380,heat waves,causes,excess hospital admissions
+W3198277380,heat waves,causes,mortality
+W3198277380,rising temperatures and humidity,increases_risk_of,exceeding human survivability limits
+W3177597289,wildfire event,increases_risk_of,climate change anxiety
+W3177597289,climate change anxiety,increases_risk_of,psychological distress
+W2949574555,PM2.5,is_associated_with,excess mortality
+W2949574555,PM2.5,is_associated_with,respiratory disease exacerbation
+W2949574555,PM2.5,is_associated_with,cardiovascular disease exacerbation
+W2949574555,ozone and nitrogen dioxide,is_associated_with,excess mortality
+W2125080037,extreme weather events,increases_risk_of,mortality
+W2125080037,extreme weather events,increases_risk_of,disease
+W2125080037,heat waves,increases_risk_of,mortality
+W2021734102,PM2.5,causes,endothelial dysfunction
+W2021734102,PM2.5,causes,impaired arteriolar dilation
+W2021734102,PM2.5,causes,venular leukocyte adhesion
+W2021734102,impaired arteriolar dilation,increases_risk_of,cardiovascular dysfunction
+W2118737803,wildfire smoke,increases_risk_of,respiratory disease in women
+W2118737803,cooking smoke inhalation,causes,respiratory health problems
+W2118737803,forest dependence,exacerbates,health vulnerability in women
+W2770835944,coarse particles,causes,oxidative stress
+W2770835944,oxidative stress,mediates,low-grade inflammation
+W2770835944,coarse particles,increases_risk_of,inflammatory diseases
+W2002846424,wildfire event,increases_risk_of,mental health stress
+W2002846424,wildfire event,increases_risk_of,occupational health hazards
+W2604928539,wildfire smoke,is_associated_with,degraded air quality
+W2604928539,wildfire smoke,is_associated_with,reduced visibility
+W3178748099,air pollution,causes,respiratory disease
+W3178748099,air pollution,causes,cardiovascular disease
+W3178748099,air pollution,causes,reproductive harm
+W3178748099,air pollution,causes,neurological disease
+W3178748099,air pollution,exacerbates,asthma
+W3178748099,air pollution,exacerbates,chronic obstructive pulmonary disease
+W4399084524,wildfire smoke,causes,PM2.5
+W4399084524,PM2.5,exacerbates,anxiety
+W4399084524,PM2.5,exacerbates,depression
+W4399084524,PM2.5,exacerbates,schizophrenia
+W4399084524,wildfire event,increases_risk_of,depression
+W4399084524,wildfire event,increases_risk_of,anxiety
+W4399084524,wildfire event,increases_risk_of,PTSD
+W4399084524,PM2.5,causes,oxidative stress
+W4399084524,PM2.5,causes,systemic inflammation
+W4399084524,oxidative stress,mediates,mental health disorders
+W2952976619,PM2.5,increases_risk_of,childhood asthma exacerbation
+W2952976619,PM2.5,increases_risk_of,asthma control deterioration
+W2162714956,dust storm event,increases_risk_of,emergency department visits
+W2162714956,dust storm event,increases_risk_of,hospital admissions
+W2162714956,dust storm event,exacerbates,asthma
+W4317655725,wildfire event,is_associated_with,GDP growth decrease
+W4317655725,wildfire event,is_associated_with,employment growth changes
+W2011707607,quantum dots,causes,cadmium release
+W2011707607,cadmium release,causes,airway inflammation
+W2011707607,nanoparticles,causes,genotoxicity
+W2011707607,surface area of nanoparticles,is_associated_with,inflammatory response
+W4200521328,wildfire smoke,causes,PM2.5
+W4200521328,PM2.5,increases_risk_of,respiratory hospitalization
+W4200521328,PM2.5,increases_risk_of,asthma hospitalization
+W3041339478,human-induced climate change,causes,extreme heatwaves
+W3041339478,human-induced climate change,causes,increased heatwave intensity
+W4384924960,wildfire_event,causes,"1,3-butadiene exposure"
+W4384924960,"1,3-butadiene exposure",causes,epoxide metabolite formation
+W4384924960,epoxide metabolites,causes,DNA adduct formation
+W2934331287,wildfire event,causes,forest area loss
+W2934331287,wildfire event,causes,carbon stock reduction
+W2934331287,wildfire event,causes,CO2 emissions
+W2934331287,wildfire event,causes,human illness
+W2934331287,wildfire event,causes,economic losses
+W2934331287,extreme drought,increases_risk_of,wildfire event
+W4310157312,wildfire event,causes,psychosocial stress
+W4310157312,wildfire event,increases_risk_of,mental health disorders
+W4310157312,psychosocial stress,increases_risk_of,substance-use disorders
+W4310157312,mental health disorders,increases_risk_of,harmful substance use
+W4394993636,wildfire event,causes,habitat loss in threatened species ranges
+W4394993636,wildfire event,increases_risk_of,increased fire frequency
+W4394993636,wildfire event,causes,decline in unburnt vegetation
+W3034446054,wildfire smoke,causes,combustion aerosol exposure
+W3034446054,combustion aerosol exposure,causes,DNA damage
+W3034446054,gaseous fraction of combustion aerosols,causes,adverse toxicological effects
+W1596007333,wildfire event,causes,air pollution
+W1596007333,wildfire smoke,causes,PM2.5
+W1596007333,PM2.5,causes,respiratory diseases
+W1596007333,PM2.5,causes,cardiovascular disease
+W1596007333,wildfire event,causes,heat stress
+W1596007333,wildfire event,causes,mental health impacts
+W1596007333,wildfire event,causes,infrastructure failure
+W1596007333,infrastructure failure,exacerbates,heat stress
+W1596007333,heat_stress,increases_risk_of,cardiovascular disease
+W1596007333,heat_stress,increases_risk_of,respiratory disease
+W1970477260,wildfire smoke,causes,PM2.5
+W1970477260,PM2.5,causes,micronuclei frequency in oral epithelial cells
+W3095620834,wildfire event,increases_risk_of,soil contamination with heavy metals
+W3095620834,wildfire event,increases_risk_of,human health risk from metal exposure
+W3095620834,wildfire event,increases_risk_of,ecological receptor risk from metal exposure
+W4394812803,PM2.5,increases_risk_of,pediatric respiratory healthcare encounters
+W4394812803,PM2.5,increases_risk_of,asthma
+W4394812803,PM2.5,increases_risk_of,lower respiratory tract infections
+W4394812803,PM2.5,increases_risk_of,upper respiratory tract infections
+W4306914640,toxic substance exposure,causes,epithelial barrier dysfunction
+W4306914640,epithelial barrier dysfunction,causes,peri-epithelial inflammation
+W4306914640,epithelial barrier dysfunction,causes,microbial dysbiosis
+W4306914640,microbial dysbiosis,causes,bacterial translocation
+W4306914640,epithelial barrier dysfunction,increases_risk_of,allergic diseases
+W4306914640,epithelial barrier dysfunction,increases_risk_of,autoimmune diseases
+W2905509729,climate change,increases_risk_of,mental health impacts
+W2905509729,climate change,increases_risk_of,heat-related mortality
+W2905509729,policy inaction on climate,exacerbates,population health vulnerability
+W4324357367,wildfire event,causes,extreme heat event
+W4324357367,extreme heat event,increases_risk_of,mortality in schizophrenia patients
+W4324357367,extreme heat event,increases_risk_of,mortality in chronic kidney disease patients
+W4324357367,extreme heat event,increases_risk_of,mortality in ischemic heart disease patients
+W2900599322,coal-fired industrial emissions,causes,atmospheric pollution
+W2900599322,atmospheric pollution,causes,stunted child growth
+W2900599322,atmospheric pollution,is_associated_with,reduced adult height
+W4246854034,air pollution,increases_risk_of,respiratory allergy
+W4246854034,air pollution,increases_risk_of,asthma exacerbations
+W4246854034,airborne allergens,increases_risk_of,IgE-mediated response
+W4246854034,air pollution,exacerbates,airway inflammation
+W4246854034,climate change,increases_risk_of,respiratory allergy
+W4246854034,climate change,increases_risk_of,asthma prevalence
+W4294943801,wildfire smoke,causes,COPD development
+W4294943801,wildfire smoke,causes,lung aging
+W4294943801,wildfire smoke,increases_risk_of,lung cancer incidence
+W4294943801,wildfire smoke,increases_risk_of,all-cause mortality
+W3153673725,wildfire event,is_associated_with,disproportionate hazard exposure in disadvantaged communities
+W3153673725,socio-economic disadvantage,is_associated_with,increased wildfire hazard exposure
+W3153673725,resource gaps for fire suppression,exacerbates,wildfire hazard exposure in disadvantaged areas
+W3003031591,diesel exhaust particles,causes,loss of immunological control
+W3003031591,diesel exhaust particles,causes,increased inflammation
+W3003031591,diesel exhaust particles,causes,tissue damage
+W3003031591,diesel exhaust particles,increases_risk_of,invasive pneumococcal disease
+W3194795917,wildfire event,causes,human health impacts
+W3194795917,loss of Indigenous management,causes,altered vegetation susceptible to wildfire
+W3194795917,Mediterranean climate patterns,increases_risk_of,wildfire event
+W3194795917,grazing,protects_against,wildfire event
+W3194795917,prescribed burning,protects_against,wildfire event
+W4200303759,wildfire event,is_associated_with,infectious disease transmission
+W4200303759,climate change,causes,intensified fire disturbance
+W4285385588,climate change,causes,extreme weather events
+W4285385588,extreme weather events,causes,cardiovascular diseases
+W4285385588,extreme weather events,causes,mental health impacts
+W4294741514,wildfire event,increases_risk_of,heat_stress
+W4294741514,heat_stress,causes,physical health problems
+W4294741514,heat_stress,causes,mental health problems
+W4294741514,low socioeconomic status,exacerbates,heat_stress health impacts
+W3215031998,wildfire smoke,causes,carbon emissions
+W3215031998,wildfire smoke,causes,loss of irrecoverable carbon
+W4391166345,wildfire event,is_associated_with,heat waves
+W4391166345,heat waves,increases_risk_of,excess mortality
+W4391166345,heat waves,increases_risk_of,cardiovascular disease mortality
+W4391166345,heat waves,increases_risk_of,respiratory disease mortality
+W4391166345,low educational level,exacerbates,heat-related mortality risk
+W4391166345,racial inequality,exacerbates,heat-related mortality risk
+W4391166345,gender inequality,exacerbates,heat-related mortality risk
+W4400520325,wildfire smoke,causes,respiratory health impacts
+W4400520325,wildfire smoke,causes,mental health impacts
+W4400520325,wildfire event,causes,evacuation displacement
+W4400520325,wildfire event,causes,home loss
+W4389121675,wildfire event,increases_risk_of,heat stress
+W4389121675,heat stress,causes,hyperthermia
+W4389121675,heat stress,causes,heatstroke
+W4389121675,heat stress,increases_risk_of,mortality
+W4389121675,heat stress,exacerbates,cardiorespiratory disease
+W4389121675,heat stress,exacerbates,diabetes complications
+W4389121675,heat stress,increases_risk_of,vector-borne disease spread
+W4389121675,urban heat islands,exacerbates,heat stress
+W3201538020,wildfire smoke,causes,PM2.5
+W3201538020,PM2.5,increases_risk_of,Alzheimer's disease
+W3201538020,PM2.5,increases_risk_of,dementia
+W3201538020,climate change,exacerbates,air pollution
+W4385417286,fire_weather,causes,large_fire_occurrence
+W4385417286,ignition_frequencies,is_associated_with,area_burned
+W4385417286,fuel_contagion,is_associated_with,fire_spread_limitation
+W4400798808,wildfire event,causes,greenhouse gas emissions
+W4400798808,wildfire event,causes,air pollutant emissions
+W4400798808,wildfire event,is_associated_with,human health
+W2976626953,PM2.5,causes,reactive oxygen species generation
+W2976626953,reactive oxygen species generation,causes,airway inflammation
+W2976626953,PM2.5,increases_risk_of,asthma exacerbation
+W2976626953,PM2.5,increases_risk_of,chronic obstructive pulmonary disease exacerbation
+W2976626953,PM2.5,increases_risk_of,lung cancer
+W2976626953,underground railway PM,causes,greater epithelial inflammation than urban PM
+W4390827838,air pollution,increases_risk_of,Parkinson's disease
+W4390827838,air pollution,causes,mitochondrial dysfunction
+W2107768736,wildfire_smoke,causes,genotoxicity
+W2107768736,wildfire_smoke,causes,genomic instability
+W4293152239,concurrent heat and drought events,causes,cascading impacts across sectors
+W4293152239,concurrent heat and drought events,increases_risk_of,health sector impacts
+W4293152239,concurrent heat and drought events,increases_risk_of,energy sector disruption
+W4293152239,concurrent heat and drought events,increases_risk_of,agriculture and food production impacts
+W4293152239,cascading sector impacts,causes,economic impacts
+W4293152239,cascading sector impacts,causes,public services disruption
+W4388705970,wildfire event,is_associated_with,heat_stress
+W4388705970,heat_stress,increases_risk_of,mortality
+W4390777288,wildfire event,is_associated_with,climate regime shifts
+W4390777288,climate change,causes,fire regime reorganization
+W4390777288,warming world,increases_risk_of,no-analogue fire regimes
+W2990880757,wildfire event,is_associated_with,tropical forest and peatland ecosystems
+W2990880757,wildfire event,is_associated_with,peatland drainage
+W4396883654,wildfire event,causes,air quality degradation
+W4396883654,wildfire event,causes,community displacement
+W4396883654,wildfire event,exacerbates,First Nation health vulnerabilities
+W4396883654,wildfire smoke,causes,respiratory health impacts
+W4301394544,wildfire smoke,causes,PM2.5
+W4301394544,PM2.5,increases_risk_of,respiratory disease
+W4301394544,PM2.5,increases_risk_of,cardiovascular disease
+W4301394544,PM2.5,is_associated_with,diabetes mellitus
+W4301394544,PM2.5,is_associated_with,Alzheimer's disease
+W4301394544,PM2.5,is_associated_with,Parkinson's disease
+W2766948832,heat_stress,increases_risk_of,mental_illness_hospitalizations
+W2766948832,heat_stress,increases_risk_of,heat-related_illness_hospitalizations
+W3023207641,wildfire event,is_associated_with,El Niño events
+W3023207641,wildfire event,is_associated_with,Southern Annular Mode positive phases
+W3023207641,wildfire event,is_associated_with,below-average summer precipitation
+W1971695596,wildfire event,causes,high ambient temperatures
+W1971695596,high ambient temperatures,increases_risk_of,elevated core temperature
+W1971695596,high work output,increases_risk_of,elevated core temperature
+W1971695596,elevated core temperature,causes,heat exhaustion
+W1939563378,drought exposure in infancy,increases_risk_of,later-life disabilities
+W1939563378,drought exposure in infancy,increases_risk_of,physical disabilities
+W1939563378,drought exposure in infancy,increases_risk_of,mental disabilities
+W4377565664,heat wave event,increases_risk_of,heat-related mortality
+W4377565664,heat wave event,increases_risk_of,heat-related morbidity
+W4377565664,concurrent electrical grid failure,exacerbates,heat-related mortality
+W4377565664,concurrent electrical grid failure,exacerbates,heat-related morbidity
+W4377565664,tree canopy cover,protects_against,heat exposure
+W4377565664,high albedo roofing materials,protects_against,heat exposure
+W4319294071,environmental exposures,is_associated_with,allergic diseases
+W4319294071,environmental exposures,is_associated_with,asthma
+W4213104394,wildfire event,is_associated_with,human ignitions on private lands
+W4213104394,wildfire event,causes,cross-boundary fire transmission
+W4213104394,wildfire event,causes,structure loss
+W4322622428,climate change,increases_risk_of,extreme monsoon rainfall
+W4322622428,extreme monsoon rainfall,causes,flooding
+W4322622428,flooding,causes,displacement
+W4363652130,income volatility,is_associated_with,poor health outcomes
+W4363652130,guaranteed income,is_associated_with,income volatility
+W4363652130,guaranteed income,is_associated_with,mental distress
+W4363652130,guaranteed income,increases_risk_of,physical functioning
+W4363652130,guaranteed income,increases_risk_of,agency
+W2943205018,wildfire_event,increases_risk_of,mental_health_outcomes
+W2943205018,climate_change,increases_risk_of,mental_health_consequences
+W4386070357,wildfire event,causes,altered fire regimes
+W4386070357,altered fire regimes,causes,conifer forest transformation
+W4386070357,2 °C warming,increases_risk_of,fire-regime change exposure
+W4386242133,wildfire event,is_associated_with,heat stress
+W4386242133,heat stress,increases_risk_of,mortality
+W4386242133,climate change,exacerbates,heat stress intensity
+W4220855741,fire_weather,causes,soil degradation
+W4220855741,fire_weather,causes,water quality deterioration
+W4387774085,wildfire smoke,causes,PM2.5
+W4387774085,PM2.5,increases_risk_of,respiratory hospitalization
+W4387774085,wildfire-derived PM2.5,is_associated_with,non-wildfire PM2.5
+W4387879800,wildfire event,causes,carbon emissions
+W4387879800,late dry-season wildfires,exacerbates,ecosystem functioning threats
+W4387879800,early-dry season burns,increases_risk_of,woody thickening in mesic savannas
+W4361279001,wildfire event,causes,smoke exposure for wildland firefighters
+W4361279001,wildfire event,causes,heat stress
+W4361279001,wildfire event,increases_risk_of,respiratory health concerns
+W4361279001,wildfire event,increases_risk_of,cardiovascular injury
+W4361279001,smoke exposure,exacerbates,thermoregulatory impairment
+W4361279001,heat stress,increases_risk_of,mental health strain
+W4361279001,compromised sleep,increases_risk_of,injury risk
+W2000632749,solar radiation exposure,causes,vitamin D synthesis
+W2000632749,solar radiation exposure,causes,nitric oxide release
+W2000632749,vitamin D deficiency,increases_risk_of,cardiovascular disease
+W2000632749,vitamin D deficiency,increases_risk_of,multiple sclerosis
+W2000632749,vitamin D deficiency,increases_risk_of,diabetes
+W2000632749,vitamin D deficiency,increases_risk_of,adverse pregnancy outcomes
+W2000632749,solar radiation exposure,causes,erythema
+W2000632749,solar radiation exposure,causes,photocarcinogenesis
+W1520116973,wildfire event,is_associated_with,fuel moisture content
+W1520116973,wildfire event,is_associated_with,fuel load
+W1520116973,wildfire event,is_associated_with,hydrological processes
+W1520116973,wildfire event,exacerbates,soil moisture depletion
+W3128629820,diisocyanates,causes,asthma
+W3128629820,hexavalent chromium,causes,asthma
+W3128629820,polyaromatic hydrocarbons,is_associated_with,asthma
+W3128629820,organophosphate insecticides,is_associated_with,asthma
+W3128629820,phthalates,increases_risk_of,asthma
+W3128629820,per- and polyfluoroalkyl substances,increases_risk_of,asthma
+W3128629820,pyrethroid insecticides,increases_risk_of,asthma
+W3128629820,mercury,increases_risk_of,asthma
+W3128629820,cadmium,increases_risk_of,asthma
+W3128629820,arsenic,increases_risk_of,asthma
+W3128629820,lead,increases_risk_of,asthma
+W4367677075,wildfire event,causes,PM2.5
+W4367677075,PM2.5,increases_risk_of,respiratory health problems
+W4367677075,wildfire event,is_associated_with,air quality degradation
+W4367677075,climate change,exacerbates,wildfire occurrence
+W2010855222,heat_stress,increases_risk_of,dehydration
+W2010855222,heat_stress,exacerbates,fluid loss
+W4323661946,wildfire event,exacerbates,community vulnerability in rural areas
+W4323661946,local fire knowledge,increases_risk_of,adaptive capacity
+W4323661946,sustainable economic development,increases_risk_of,adaptive capacity
+W4393854775,wildfire event,increases_risk_of,health consequences in elderly
+W4393854775,climate crisis,increases_risk_of,health impacts in older adults
+W3130421427,negative climate-related emotions,is_associated_with,insomnia symptoms
+W3130421427,negative climate-related emotions,is_associated_with,poor mental health
+W3130421427,climate change awareness,increases_risk_of,anxiety and worry
+W2899305043,drought,increases_risk_of,health impacts
+W2899305043,drought,is_associated_with,vulnerability
+W2883553866,wildfire event,increases_risk_of,generalized anxiety disorder symptoms
+W2883553866,wildfire event,causes,home destruction exposure
+W2883553866,home destruction exposure,increases_risk_of,generalized anxiety disorder symptoms
+W2883553866,wildfire event,causes,residential displacement
+W2883553866,residential displacement,increases_risk_of,generalized anxiety disorder symptoms
+W2883553866,limited social support,exacerbates,generalized anxiety disorder symptoms
+W4400588737,wildfire event,is_associated_with,severe droughts
+W4400588737,severe droughts,causes,reduced river navigability
+W4400588737,reduced river navigability,causes,community isolation
+W4400588737,community isolation,increases_risk_of,limited access to medicine
+W4400588737,community isolation,increases_risk_of,limited access to healthcare
+W4386068998,wildfire smoke,causes,neuroinflammation in hippocampus
+W4386068998,wildfire smoke,causes,microglial activation
+W4386068998,wildfire smoke,causes,neutrophil infiltration
+W4386068998,wildfire smoke,causes,endothelial phenotype alteration
+W4386068998,wildfire smoke,causes,glutamate dysregulation
+W4386068998,wildfire smoke,causes,NAD+ depletion
+W4386068998,neuroinflammation,increases_risk_of,long-term behavioral changes
+W3213725340,wildfire smoke,causes,PM2.5
+W3213725340,PM2.5,increases_risk_of,respiratory disease
+W3213725340,PM2.5,increases_risk_of,cardiovascular disease
+W3213725340,wildfire event,is_associated_with,air quality deterioration
+W3143512363,wildfire smoke,causes,inhalation of radionuclides
+W3143512363,wildfire smoke,is_associated_with,radionuclide mobility
+W3206749897,heat waves,causes,all-cause mortality
+W3206749897,cold waves,causes,all-cause mortality
+W3127728556,wildfire event,is_associated_with,river drought
+W3127728556,river drought,increases_risk_of,respiratory hospitalization
+W3127728556,river drought,increases_risk_of,renal hospitalization
+W3127728556,river drought,increases_risk_of,all-cause hospitalization
+W3127728556,hydropower dam operation,causes,river drought
+W4401350595,wildfire smoke,causes,airway inflammation
+W4401350595,wildfire smoke,causes,oxidative stress
+W4401350595,wildfire smoke,causes,coagulation
+W4393938262,wildfire smoke,causes,PM2.5
+W4393938262,PM2.5,is_associated_with,FVC% predicted
+W4393938262,PM2.5,is_associated_with,pulmonary function decline in firefighters
+W2122388183,wildfire event,causes,vertebrate mortality
+W2122388183,wildfire event,causes,understory light environment change
+W2122388183,wildfire event,causes,game vertebrate species decimation
+W2122388183,wildfire event,causes,crop losses
+W4404345692,PM2.5,increases_risk_of,spontaneous preterm birth
+W4404345692,PM2.5 constituents,increases_risk_of,spontaneous preterm birth
+W3172940781,desert dust storm events,causes,health effects
+W4310779924,climate change,causes,mental health impacts
+W3176771911,wildfire_event,causes,air pollution
+W3176771911,wildfire_event,causes,health impacts
+W3176771911,climate change,increases_risk_of,wildfires
+W2188239937,temperature extremes,increases_risk_of,respiratory hospital admissions
+W2188239937,extreme cold,increases_risk_of,acute respiratory disease admissions
+W2188239937,extreme heat,increases_risk_of,acute respiratory disease admissions
+W2920628506,fire_weather,increases_risk_of,heat-related human mortality
+W4405616625,human-induced climate change,increases_risk_of,large area burned
+W4405616625,human-induced climate change,increases_risk_of,long fire season
+W4405616625,human-induced climate change,increases_risk_of,synchronous extreme fire weather
+W4405616625,wildfire event,causes,wildfire_smoke emissions
+W3032385177,air pollution,causes,neurological outcomes
+W4283121123,wildfire event,exacerbates,climate-sensitive health conditions
+W4283121123,wildfire event,increases_risk_of,health inequities in Aboriginal populations
+W4283121123,heat_stress,increases_risk_of,mortality in Aboriginal populations
+W4404191719,wildfire smoke,causes,PM2.5 elevation
+W4404191719,PM2.5,increases_risk_of,respiratory disease
+W4404191719,wildfire smoke,is_associated_with,heatwave
+W4404191719,wildfire smoke,exacerbates,health risks during heatwave
+W4404191719,PM2.5,increases_risk_of,premature mortality
+W2593865548,wildfire event,causes,ecosystem services degradation
+W2593865548,ecosystem services degradation,causes,acute and chronic stress
+W2593865548,acute and chronic stress,increases_risk_of,psychological and physiological health effects
+W4207024770,wildfire smoke,causes,decreased respiratory peak flow
+W4207024770,wildfire smoke,is_associated_with,enhanced allergic sensitization
+W4207024770,wildfire smoke,is_associated_with,delayed immune response
+W3111648983,wildfire event,causes,heat stress
+W3111648983,wildfire event,increases_risk_of,respiratory effects
+W3111648983,wildfire event,is_associated_with,mental health effects
+W4327807959,heavy metal exposure,causes,reactive oxygen species generation
+W4327807959,heavy metal exposure,causes,enzyme inhibition
+W4327807959,heavy metal exposure,causes,antioxidant defense attenuation
+W4327807959,heavy metal exposure,causes,DNA damage
+W4327807959,heavy metal exposure,causes,carcinogenesis
+W4327807959,heavy metal exposure,causes,neurological dysfunction
+W4327807959,heavy metal exposure,causes,endocrine system dysfunction
+W4327807959,heavy metal exposure,causes,organ dysfunction
+W4224282190,wildfire event,increases_risk_of,hospitalization in populations with morbidity
+W4224282190,wildfire event,increases_risk_of,hospitalization in low socioeconomic populations
+W4388621366,wildfire event,exacerbates,urban heat island effect
+W4388621366,wildfire event,increases_risk_of,heat-related mortality
+W4388621366,wildfire event,increases_risk_of,heat-related morbidity
+W2791555003,wildfire event,is_associated_with,record-breaking subtropical ridge
+W2791555003,wildfire event,is_associated_with,thermodynamical atmospheric changes
+W4393409576,wildfire smoke,causes,PM2.5
+W4393409576,PM2.5,increases_risk_of,asthma hospital admissions
+W4393409576,PM2.5,increases_risk_of,asthma emergency department visits
+W4393409576,outdoor air pollutants,increases_risk_of,asthma-related adverse outcomes
+W2914602838,wildfire event,causes,social disruption
+W2914602838,social disruption,exacerbates,reduced academic performance
+W4285388157,wildfire smoke,causes,platelet priming
+W4285388157,wildfire smoke,causes,platelet activation
+W4285388157,wildfire event,causes,thermal burn injuries
+W4285388157,thermal burn injuries,causes,platelet priming
+W4285388157,platelet activation,causes,intracardiac thrombosis
+W4285388157,platelet-derived microvesicles,is_associated_with,intracardiac thrombosis
+W2913419594,wildfire event,causes,PAH skin contamination
+W2913419594,PAH skin contamination,causes,urinary 1-hydroxypyrene
+W4322588491,climate change perception,causes,climate change anxiety
+W4322588491,climate change anxiety,increases_risk_of,cognitive-emotional impairment
+W4322588491,climate change anxiety,increases_risk_of,functional impairment
+W4322588491,climate change anxiety,is_associated_with,climate action engagement
+W2125132456,wildfire event,is_associated_with,ecosystem degradation
+W2125132456,ecosystem degradation,increases_risk_of,acute respiratory infection
+W2125132456,ecosystem degradation,increases_risk_of,malaria
+W2125132456,ecosystem degradation,increases_risk_of,diarrhea
+W2125132456,strict environmental protection,protects_against,malaria incidence
+W2125132456,strict environmental protection,protects_against,acute respiratory infection
+W2125132456,strict environmental protection,protects_against,diarrhea
+W2640469343,PM10,increases_risk_of,childhood lower respiratory disease
+W2640469343,NO2,increases_risk_of,childhood lower respiratory disease
+W2640469343,SO2,increases_risk_of,childhood lower respiratory disease
+W2896720313,ozone exposure,increases_risk_of,asthma emergency department visits
+W2896720313,ozone exposure,increases_risk_of,asthma exacerbation in children aged 6-18
+W2896720313,ozone exposure,increases_risk_of,asthma exacerbation in Black populations
+W4313471954,wildfire smoke,increases_risk_of,health threats to residents
+W2037504066,wildfire event,causes,radioactive cesium-137 remobilization
+W2037504066,radioactive cesium-137 remobilization,causes,atmospheric transport of radionuclides
+W2037504066,atmospheric transport of radionuclides,causes,human inhalation exposure
+W2037504066,human inhalation exposure,increases_risk_of,solid cancers
+W2037504066,wildfire event,increases_risk_of,cancer mortality
+W4303696555,wildfire event,increases_risk_of,health inequalities
+W4303696555,climate change,exacerbates,ecosystem stress in Mediterranean cities
+W4303696555,climate change,increases_risk_of,health disparities in vulnerable populations
+W4393122913,wildfire event,is_associated_with,displacement
+W4393122913,wildfire event,is_associated_with,mortality
+W4404594416,wildfire event,causes,displacement
+W4404594416,wildfire event,is_associated_with,economic disruption
+W4404594416,climate change,causes,environmental degradation
+W4404594416,climate change,increases_risk_of,resource scarcity
+W4404594416,climate change,exacerbates,social inequality
+W4281568379,wildfire event,is_associated_with,ENSO phases
+W4281568379,El-Nino,increases_risk_of,peatland fire vulnerability
+W4281568379,hydrological drought,increases_risk_of,peatland fire occurrence
+W3196160229,PM2.5,is_associated_with,asthma occurrence
+W3196160229,traffic volume,is_associated_with,asthma occurrence
+W3196160229,air pollution,is_associated_with,asthma occurrence
+W3208357610,wildfire smoke,increases_risk_of,COVID-19 incidence
+W3208357610,wildfire smoke,causes,PM2.5
+W3128053152,PM2.5,increases_risk_of,non-accidental death
+W3128053152,PM2.5,is_associated_with,sex differences in mortality risk
+W4390608168,heavy metal exposure,causes,oxidative stress
+W4390608168,heavy metal exposure,causes,apoptosis
+W4390608168,heavy metal exposure,causes,endoplasmic reticulum stress
+W4390608168,heavy metal exposure,causes,mitochondrial stress
+W4390608168,oxidative stress,is_associated_with,cellular senescence
+W3179091579,winter cold exposure,is_associated_with,general health
+W3179091579,indoor shelter nights,increases_risk_of,improved general health
+W3179091579,social conflict,is_associated_with,emotional well-being
+W2123204955,wildfire smoke,causes,PM2.5
+W2123204955,PM2.5,causes,endothelial dysfunction
+W2123204955,PM2.5,causes,systemic inflammation
+W2123204955,PM2.5,causes,neuroinflammation
+W2123204955,endothelial dysfunction,increases_risk_of,cognitive deficits
+W2123204955,flavonol-rich cocoa,protects_against,endothelial dysfunction
+W4387563469,wildfire smoke,causes,PM2.5
+W4387563469,PM2.5,increases_risk_of,mortality
+W2461602404,occupational exposures,increases_risk_of,PTSD
+W2461602404,occupational exposures,increases_risk_of,depressive disorders
+W2461602404,inflammatory changes,mediates,mental health outcomes
+W3200134170,wildfire event,is_associated_with,extreme weather events
+W3200134170,climate change,causes,health impacts
+W3112699413,PM2.5,increases_risk_of,cardiovascular hospital admissions
+W3112699413,PM2.5,increases_risk_of,30-day hospital readmissions
+W4378070957,temperature thresholds,increases_risk_of,heat illness emergency visits
+W4378070957,temperature thresholds,increases_risk_of,cardiorespiratory emergency visits
+W3084014573,heat stress,increases_risk_of,heat-related health outcomes
+W3084014573,heat stress,is_associated_with,outdoor worker vulnerability
+W2935662275,gasoline exposure,causes,BTEX compound exposure
+W2935662275,BTEX compound exposure,increases_risk_of,cancer
+W2935662275,BTEX compound exposure,increases_risk_of,non-cancer health hazards
+W2935662275,poor occupational controls,exacerbates,BTEX exposure risk
+W2593665846,hexavalent chromium exposure,causes,adverse reproductive outcomes
+W2593665846,hexavalent chromium exposure,increases_risk_of,infant health effects
+W4306993626,early life exposures,is_associated_with,middle childhood health outcomes
+W2044030680,heat waves,causes,heat-related illness
+W2044030680,heat waves,increases_risk_of,cardiovascular symptoms
+W2044030680,heat waves,increases_risk_of,respiratory symptoms
+W2044030680,air conditioning access,protects_against,heat-related illness
+W2044030680,heat information/warnings,protects_against,heat-related illness
+W2909902320,PM2.5,increases_risk_of,adverse health effects
+W2909902320,ozone,increases_risk_of,adverse health effects
+W4306399776,wildfire event,causes,evacuation
+W4306399776,wildfire event,is_associated_with,stress
+W4306399776,wildfire event,increases_risk_of,economic costs
+W4367369274,power outages,increases_risk_of,health threats
+W4367369274,extreme weather events,causes,power outages
+W3188052625,wildfire event,causes,displacement
+W3188052625,displacement,exacerbates,social inequality
+W3188052625,unplanned migration,increases_risk_of,health vulnerability in vulnerable populations
+W4399066924,wildfire smoke,causes,PM2.5
+W4399066924,PM2.5,increases_risk_of,all-cause mortality
+W4399066924,wildfire event,increases_risk_of,all-cause mortality
+W4399066924,heat_stress,increases_risk_of,all-cause mortality
+W4306160801,wildfire smoke,causes,PM2.5
+W4306160801,PM2.5,increases_risk_of,childhood respiratory hospitalization
+W4306160801,wildfire event,is_associated_with,increased rainfall intensity
+W4306160801,haze,increases_risk_of,under-five mortality
+W3083181180,wildfire event,causes,poor air quality
+W3083181180,wildfire event,causes,mental health degradation
+W3083181180,flash drought,increases_risk_of,widespread wildfires
+W3045176127,air pollution,causes,8-oxoG formation in RNA
+W3045176127,air pollution,causes,oxidative modification of FDFT1 transcript
+W3045176127,oxidative modification of FDFT1,causes,decreased FDFT1 expression
+W3045176127,decreased FDFT1 expression,causes,reduced cholesterol synthesis
+W3045176127,FDFT1 knockdown,causes,altered cell size
+W3045176127,FDFT1 knockdown,causes,cytoskeleton disorganization
+W3045176127,air pollution,causes,pulmonary stress phenotypes
+W4225261408,PM2.5,causes,respiratory health effects
+W4225261408,PM2.5,causes,cardiovascular health effects
+W4225261408,welding activity,causes,PM2.5 concentrations
+W4225261408,PM2.5,increases_risk_of,hospital admissions
+W4225261408,PM2.5,increases_risk_of,mortality
+W3204046864,air pollution,increases_risk_of,sudden sensorineural hearing loss
+W3115749987,anthropogenic PM2.5,increases_risk_of,premature mortality
+W3115749987,anthropogenic PM2.5,causes,reduction in life expectancy
+W4206215795,environmental pollution,exacerbates,chronic airway diseases
+W4206215795,environmental pollution,exacerbates,asthma
+W4206215795,environmental pollution,exacerbates,chronic obstructive pulmonary disease
+W4307235775,wildfire event,causes,displacement of populations
+W4307235775,wildfire event,causes,mortality and morbidity
+W4307235775,heat_stress,increases_risk_of,mortality
+W4307235775,wildfire event,exacerbates,health system strain
+W4380422192,stratospheric ozone recovery,increases_risk_of,tropospheric ozone in rural areas
+W4380422192,tropospheric ozone,causes,premature mortality
+W4380422192,UV radiation,causes,tropospheric ozone production
+W4380422192,UV radiation,causes,PM2.5 formation
+W4380422192,PM2.5,causes,premature mortality
+W4200005285,PM2.5,causes,decreased labor supply
+W4200005285,PM2.5,causes,decreased cognitive functioning
+W4200005285,PM2.5,causes,decreased working hours
+W4200005285,PM2.5,causes,decreased unit wages
+W4200005285,PM2.5,increases_risk_of,disease prevalence
+W4200005285,PM2.5,causes,reduced physical activity
+W2885878396,wildfire event,increases_risk_of,Amazon forest conversion to carbon source
+W2885878396,wildfire event,is_associated_with,mega-fires in ADE forests
+W2885878396,wildfire event,is_associated_with,increased fire severity in ADE forests
+W3130982013,wildfire event,increases_risk_of,loss of healthcare access
+W3130982013,wildfire event,exacerbates,pandemic strain on healthcare
+W3032034527,PM2.5,causes,mitochondrial dysfunction
+W3032034527,PM2.5,causes,inflammatory response
+W3032034527,PM2.5,causes,apoptosis
+W3032034527,mitochondrial dysfunction,is_associated_with,NPTX1 pathway involvement
+W3093119067,ambient air pollution,causes,oxidative stress
+W3093119067,ambient air pollution,causes,acute inflammation
+W3093119067,ambient air pollution,causes,endothelial dysfunction
+W3093119067,oxidative stress,is_associated_with,diastolic blood pressure increase
+W3093119067,acute inflammation,is_associated_with,diastolic blood pressure increase
+W3093119067,endothelial dysfunction,is_associated_with,diastolic blood pressure increase
+W4389870109,wildfire event,causes,thermal radiation exposure
+W4389870109,wildfire event,increases_risk_of,Natech scenarios
+W4389870109,Natech scenarios,causes,domino effects
+W4389870109,interface fires,causes,cascading failures
+W4318332867,climate change,increases_risk_of,public health impacts
+W4318332867,precipitation intensity and frequency changes,is_associated_with,public health impacts
+W3011875420,wildfire smoke,increases_risk_of,SLE disease activity
+W3011875420,wildfire event,is_associated_with,elevated CO levels
+W3011400606,extreme heat events,increases_risk_of,mortality and morbidity
+W3011400606,extreme heat events,exacerbates,social isolation in older adults
+W3011400606,social isolation,increases_risk_of,adverse health outcomes in older adults
+W2971686232,wildfire event,causes,habitat change
+W2971686232,habitat change,is_associated_with,bird species occurrence changes
+W2971686232,time since fire,is_associated_with,post-fire successional habitat changes
+W2966475814,wildfire event,is_associated_with,extreme biophysical drivers
+W2966475814,wildfire event,is_associated_with,extreme social outcomes
+W2966475814,wildfire event,exacerbates,community exposure and vulnerability
+W2130311519,direct_fire exposure,increases_risk_of,posttraumatic stress disorder
+W2130311519,posttraumatic stress disorder,exacerbates,health-related quality of life impairment
+W4210902902,wildfire event,is_associated_with,drought conditions
+W4210902902,drought,increases_risk_of,non-external mortality
+W4210902902,drought,increases_risk_of,circulatory mortality
+W4210902902,drought,increases_risk_of,respiratory mortality
+W4391131447,wildfire event,is_associated_with,climate warming
+W4391131447,wildfire event,is_associated_with,community vulnerability
+W4391131447,remoteness,increases_risk_of,community wildfire risk
+W4391131447,indigenous status,increases_risk_of,community wildfire risk
+W4391131447,subsistence-based activities,increases_risk_of,community wildfire risk
+W4404840177,PM2.5,causes,histone posttranslational modifications
+W4404840177,PM2.5,causes,altered cytokine levels
+W4404840177,PM2.5,increases_risk_of,pregnancy complications
+W4404840177,PM2.5,is_associated_with,epigenetic modification
+W4404840177,histone posttranslational modifications,mediates,immune response dysregulation
+W3137717434,severe burn injury,increases_risk_of,sepsis
+W3137717434,severe burn injury,is_associated_with,C-reactive protein-to-albumin ratio elevation
+W3211490689,wildfire event,increases_risk_of,mental health distress in children
+W3211490689,wildfire event,increases_risk_of,anxiety and depression in young people
+W3211490689,wildfire event,increases_risk_of,loss of cultural identity in Indigenous youth
+W3211490689,climate crisis,increases_risk_of,eco-anxiety in children and young people
+W4395466885,wildfire event,exacerbates,vulnerability in rural communities
+W4395466885,wildfire event,is_associated_with,ecosystem disruption
+W4395466885,global warming,increases_risk_of,wildfires
+W4395466885,rural depopulation,increases_risk_of,wildfire hazards
+W3211663335,wildfire event,is_associated_with,below-average annual precipitation
+W3211663335,wildfire event,is_associated_with,summer drought
+W3211663335,climate change,increases_risk_of,blocking high-pressure ridges
+W3211663335,blocking high-pressure ridges,exacerbates,wildfire event
+W3211663335,wildfire event,is_associated_with,longer fire-seasons
+W4390906074,wildfire event,exacerbates,tourism accessibility in coastal parks
+W4390906074,wildfire event,increases_risk_of,economic viability decline
+W4390906074,fire_weather,causes,increased fire intensity and spatial spread
+W4390906074,temperature regime change,exacerbates,biophysical environment stress
+W2412937684,wildfire event,is_associated_with,child stunting
+W4210277219,heat_stress,increases_risk_of,mortality
+W4210277219,extreme_temperature,increases_risk_of,lagged_mortality_risk
+W3213919614,wildfire event,increases_risk_of,miscarriage
+W3213919614,wildfire smoke,increases_risk_of,miscarriage
+W4404734330,wildfire smoke,causes,PM2.5
+W4404734330,PM2.5,increases_risk_of,emergency department visits
+W4404734330,PM2.5,increases_risk_of,respiratory disease
+W4404734330,wildfire smoke,exacerbates,health risks in communities without air conditioning
+W2134058515,wildfire event,causes,mental health impacts
+W2134058515,extreme weather events,increases_risk_of,psychological distress
+W4282935963,wildfire smoke,causes,air quality standard exceedances
+W4282935963,wildfire smoke,is_associated_with,public health impacts
+W4282935963,early dry season burning,increases_risk_of,smoke pollution
+W2946902716,wildfire smoke,causes,PM2.5
+W2946902716,PM2.5,increases_risk_of,respiratory mortality
+W2946902716,PM2.5,increases_risk_of,cardiovascular mortality
+W4307436834,wildfire event,causes,reduced fauna biomass
+W4307436834,wildfire event,causes,reduced fauna abundance
+W4307436834,wildfire event,causes,reduced species richness
+W4307436834,wildfire event,causes,reduced community diversity
+W1983272424,air pollution,causes,oxidative stress in skin
+W1983272424,air pollution,increases_risk_of,atopic dermatitis
+W1983272424,air pollution,increases_risk_of,eczema
+W1983272424,air pollution,increases_risk_of,psoriasis
+W1983272424,air pollution,increases_risk_of,skin cancer
+W1983272424,air pollution,causes,skin aging
+W3158427908,wildfire event,causes,displacement
+W3158427908,wildfire event,increases_risk_of,post-traumatic stress disorder
+W3158427908,wildfire event,increases_risk_of,major depressive disorder
+W3158427908,wildfire event,increases_risk_of,insomnia disorder
+W3158427908,wildfire event,increases_risk_of,generalized anxiety disorder
+W3158427908,wildfire event,increases_risk_of,substance use disorder
+W3158427908,financial stress,exacerbates,mental health disorders
+W3158427908,prior mental health conditions,exacerbates,post-disaster mental health outcomes
+W4401693605,climate change,increases_risk_of,maternal complications
+W4401693605,extreme heat,is_associated_with,adverse maternal health outcomes
+W2967426298,climate change,causes,lower fuel moisture content
+W2967426298,lower fuel moisture content,causes,higher fire intensity
+W2967426298,higher fire intensity,increases_risk_of,increased suppression costs
+W3164275934,increasing temperature,causes,emergency department visits
+W3164275934,increasing temperature,increases_risk_of,healthcare costs
+W4391112398,PM2.5,causes,premature mortality
+W4391112398,geostationary satellite alert identification,increases_risk_of,exposure-reducing behavior
+W4403827981,wildfire smoke,causes,chemical exposure in firefighters
+W4403827981,smouldering phase fires,increases_risk_of,higher chemical concentrations
+W4403827981,peat fires,causes,elevated ammonia and sulphur dioxide
+W4403827981,chemical exposure,is_associated_with,long-term health risks
+W3114796264,heat_stress,increases_risk_of,mortality
+W3114796264,heat_stress,is_associated_with,urban heat island effect
+W4404526746,ambient heat exposure,increases_risk_of,emergency department imaging utilization
+W4404526746,PM2.5 exposure,increases_risk_of,emergency department imaging utilization
+W4404526746,ambient heat exposure,increases_risk_of,radiography utilization
+W4404526746,PM2.5 exposure,increases_risk_of,radiography utilization
+W4404526746,ambient heat exposure,increases_risk_of,CT utilization
+W4404526746,PM2.5 exposure,increases_risk_of,CT utilization
+W2273868931,wildfire smoke,causes,oxidative stress
+W2273868931,wildfire smoke,causes,incomplete lung recovery
+W2273868931,incomplete lung recovery,increases_risk_of,cardio-pulmonary effects
+W4294125818,wildfire event,increases_risk_of,post-traumatic stress disorder
+W4294125818,wildfire event,increases_risk_of,major depressive disorder
+W4294125818,displacement,is_associated_with,PTSD and MDD
+W4294125818,unemployment,increases_risk_of,major depressive disorder
+W4294125818,limited family support,increases_risk_of,post-traumatic stress disorder
+W2010232131,heat waves,causes,mortality
+W2010232131,heat waves,is_associated_with,inadequate risk governance
+W2010232131,inadequate preparedness,increases_risk_of,heat wave mortality
+W4315491243,wildfire event,causes,fire contaminant exposure
+W4315491243,fire contaminant exposure,increases_risk_of,sleep disruption
+W4315491243,sleep disruption,increases_risk_of,mental health disorders
+W4315491243,fire contaminant exposure,is_associated_with,anxiety
+W4315491243,fire contaminant exposure,is_associated_with,depression
+W4377968190,heat_stress,causes,heat-related illnesses
+W4387408764,climate change,increases_risk_of,flooding
+W4387408764,climate change,causes,heat stress
+W4387408764,climate change,causes,water quality deterioration
+W4387408764,flooding,is_associated_with,population health impacts
+W4387408764,temperature extremes,is_associated_with,population health impacts
+W4392234356,annual grass invasion,increases_risk_of,wildfire probability
+W4392234356,high annual forb and grass biomass,increases_risk_of,wildfire probability
+W4392234356,dry summers,exacerbates,annual grass effects on wildfire probability
+W4392234356,low summer precipitation proportion,increases_risk_of,wildfire probability
+W4392234356,high temperature,increases_risk_of,wildfire probability
+W2560480455,brick kiln pollutants,causes,respiratory health problems
+W2560480455,brick kiln pollutants,causes,occupational health effects
+W4400112747,air pollution,increases_risk_of,loss of independence in older adults
+W4400112747,traffic-related air pollution,increases_risk_of,need for care assistance
+W2614211142,wildfire event,is_associated_with,high ozone concentrations
+W2614211142,heat stress,increases_risk_of,heat-related morbidity and mortality
+W2614211142,heat stress,increases_risk_of,tropical disease transmission by Aedes aegypti
+W2614211142,urban heat islands,exacerbates,heat stress exposure in cities
+W2974221125,disaster event,increases_risk_of,disproportionate female victimization
+W2974221125,disaster event,exacerbates,cultural barriers to women's aid access
+W2974221125,insufficient disaster education,increases_risk_of,female vulnerability
+W2974221125,inadequate protection measures,increases_risk_of,female vulnerability
+W2974221125,cultural issues,increases_risk_of,female vulnerability post-disaster
+W2974221125,cultural issues,exacerbates,security concerns for women
+W2974221125,cultural issues,exacerbates,healthcare access limitations
+W2974221125,women's exclusion from decision-making,increases_risk_of,inadequate disaster preparedness
+W4283709220,wildfire event,causes,deforestation
+W4283709220,wildfire event,causes,greenhouse gas emissions
+W4283709220,wildfire event,causes,loss of wetland carbon sinks
+W4283709220,wildfire event,causes,ecosystem collapse
+W2387941264,high summer temperatures,increases_risk_of,mortality
+W2133251355,climate change,increases_risk_of,heat stress
+W2133251355,climate change,increases_risk_of,flooding
+W2133251355,poor urban governance,exacerbates,vulnerability to climate shocks
+W2133251355,good urban governance,protects_against,climate-related vulnerability
+W4205322727,wildfire event,causes,loss of life
+W4205322727,land abandonment,increases_risk_of,woody plant encroachment
+W4205322727,woody plant encroachment,increases_risk_of,combustible biomass accumulation
+W4205322727,combustible biomass accumulation,increases_risk_of,wildfire event
+W4387130915,wildfire event,is_associated_with,settler colonial property regimes
+W4387130915,wildfire event,is_associated_with,fire suppression policies
+W4387130915,Indigenous cultural controlled burning,protects_against,catastrophic wildfire
+W4391619439,wildfire event,exacerbates,nature loss
+W4391619439,wildfire event,increases_risk_of,food insecurity
+W4391619439,wildfire event,increases_risk_of,water contamination
+W4391619439,wildfire smoke,causes,air pollution
+W4391619439,air pollution,increases_risk_of,respiratory disease
+W4391619439,wildfire event,increases_risk_of,forced migration
+W4391619439,wildfire event,increases_risk_of,conflict
+W4399028104,air pollutants,causes,nasal mucosal alterations
+W4399028104,nasal mucosal alterations,mediates,allergic rhinitis
+W4211079548,wildfire event,causes,PM2.5
+W4211079548,PM2.5,causes,nanoparticle inhalation
+W4211079548,nanoparticle inhalation,causes,placental nanoparticle accumulation
+W4211079548,placental nanoparticle accumulation,causes,fetal brain nanoparticle deposition
+W4211079548,fetal brain nanoparticle deposition,increases_risk_of,neurological developmental impairment
+W2396195313,burn wounds,increases_risk_of,Acinetobacter infection
+W2396195313,extensively drug resistant Acinetobacter,is_associated_with,treatment with colistin/rifampicin
+W2040904585,ambient air pollution,causes,epigenetic modifications
+W2040904585,ambient air pollution,causes,adverse health effects
+W2040904585,epigenetic modifications,mediates,adverse health effects
+W2077624707,burn injury,increases_risk_of,depression
+W2077624707,burn injury,increases_risk_of,anxiety
+W2077624707,depression,is_associated_with,pain-related outcomes
+W2077624707,anxiety,is_associated_with,pain-related outcomes
+W4400030714,wildfire event,increases_risk_of,environmental pollution
+W4400030714,environmental pollution,causes,pulmonary vascular disease
+W4400030714,environmental pollution,exacerbates,pulmonary arterial hypertension severity
+W4400030714,environmental pollution,increases_risk_of,pulmonary embolism
+W4400030714,climate change,exacerbates,pulmonary vascular disease outcomes
+W2972560567,wildfire smoke,causes,phenolic compound exposure
+W2972560567,phenolic compounds,causes,cell toxicity
+W2972560567,phenolic compounds,causes,aryl hydrocarbon receptor activation
+W2972560567,conjugated molecules in smoke,increases_risk_of,aryl hydrocarbon receptor activity
+W2972560567,woodsmoke aerosol,is_associated_with,visible light absorption
+W2765211014,wildfire event,increases_risk_of,heat_stress exposure
+W2765211014,heat_stress,is_associated_with,core temperature elevation
+W2765211014,euhydration maintenance,protects_against,cognitive impairment
+W3154746446,wildfire event,causes,dust storms
+W3154746446,wildfire event,increases_risk_of,respiratory outcomes
+W3154746446,wildfire event,increases_risk_of,cardiovascular outcomes
+W3154746446,fire_weather,causes,heat waves
+W3154746446,heat_stress,causes,heat stroke
+W3154746446,heat_stress,causes,dehydration
+W3039422171,fire_weather,is_associated_with,changes in spring onset timing
+W3039422171,changes in spring onset timing,increases_risk_of,asthma hospitalization
+W4405457048,wildfire event,exacerbates,vector-borne disease spread
+W4405457048,heat_stress,increases_risk_of,infectious disease prevalence
+W4405457048,wildfire event,causes,displacement and livelihood disruption
+W2339225949,wildfire event,increases_risk_of,heat stress
+W2339225949,wildfire event,increases_risk_of,respiratory disease
+W2339225949,wildfire event,increases_risk_of,cardiovascular disease
+W2168163816,wildfire smoke,causes,PM2.5
+W2168163816,wildfire smoke,increases_risk_of,genetic damage
+W2168163816,PM2.5,is_associated_with,respiratory morbidity
+W4401072667,wildfire smoke,is_associated_with,vulnerability
+W4401072667,wildfire smoke,is_associated_with,climate crisis
+W2944706802,wildfire event,causes,displacement
+W2944706802,wildfire event,increases_risk_of,post-traumatic stress disorder
+W2944706802,wildfire event,increases_risk_of,insomnia
+W2944706802,wildfire event,increases_risk_of,depression
+W2944706802,traumatic exposure,exacerbates,sleep problems
+W2944706802,sleep problems,is_associated_with,post-traumatic stress disorder
+W3133180219,wildfire event,increases_risk_of,mortality
+W3133180219,fire_weather,increases_risk_of,heat-related mortality
+W3133180219,anthropogenic climate change,increases_risk_of,extreme weather events
+W2990912469,wildfire event,exacerbates,food insecurity
+W2990912469,climate change,increases_risk_of,wildfire incidence
+W2990912469,climate change,exacerbates,wild food system disruption
+W4379055202,wildfire event,is_associated_with,fire risk in African savannahs
+W4379055202,wildfire event,is_associated_with,reduced agricultural productivity
+W4310764226,wildfire smoke,is_associated_with,labor sectors
+W4310764226,wildfire smoke,is_associated_with,housing stability
+W4310764226,wildfire smoke,is_associated_with,education
+W4310764226,wildfire smoke,exacerbates,economic vulnerability
+W3106438209,air pollution,increases_risk_of,respiratory disease emergency admissions
+W3106438209,air pollution,increases_risk_of,cardiovascular disease emergency admissions
+W3106438209,ozone,increases_risk_of,respiratory disease in children
+W3106438209,PM10,increases_risk_of,respiratory disease in elderly
+W3106438209,carbon monoxide,increases_risk_of,emergency hospital admissions
+W3142811340,air quality information,is_associated_with,health protective behaviors
+W3142811340,symptom experience,increases_risk_of,app engagement
+W4401333573,wildfire event,causes,built environment destruction
+W4401333573,built environment destruction,causes,human migration
+W2945230861,PAH exposure,causes,cyp1a transcript elevation
+W2945230861,PAH exposure,causes,Ahr2-dependent Cyp1a protein expression
+W2945230861,PAH exposure,causes,developmental toxicity in zebrafish
+W2945230861,PAH exposure,causes,unique pathway enrichment (ion transport)
+W4376134580,climate_change,increases_risk_of,heat_stress
+W4376134580,heat_stress,causes,health_consequences
+W4376134580,energy_insecurity,exacerbates,health_vulnerability
+W2092069366,heat_stress,causes,physiological strain in construction workers
+W2092069366,hot and humid weather,exacerbates,heat stress effects
+W3047657090,wildfire event,exacerbates,pandemic response challenges
+W3047657090,COVID-19 pandemic,exacerbates,wildfire evacuation difficulties
+W3047657090,COVID-19 pandemic,increases_risk_of,household safety disparities
+W4377194854,wildfire smoke,increases_risk_of,respiratory health effects in agricultural workers
+W4377194854,wildfire smoke,is_associated_with,crop health impacts
+W4220894081,wildfire smoke,causes,PM2.5
+W4220894081,PM2.5,increases_risk_of,respiratory hospitalisations
+W4220894081,PM2.5,increases_risk_of,cardiovascular hospitalisations
+W4220894081,wildfire smoke,increases_risk_of,respiratory disease
+W4220894081,wildfire smoke,increases_risk_of,cardiovascular disease
+W4399365175,PM2.5,causes,cardiopulmonary mortality
+W4399365175,PM2.5,increases_risk_of,cardiovascular disease
+W4399365175,PM2.5,increases_risk_of,respiratory disease
+W4399365175,PM2.5,increases_risk_of,lung cancer
+W4399365175,sulfate,is_associated_with,cardiopulmonary mortality
+W4380686498,greenhouse gas emissions,causes,compound dry-hot extremes
+W4380686498,urban development,exacerbates,compound dry-hot extremes
+W2554730348,wildfire event,increases_risk_of,reduced health capital
+W2554730348,reduced health capital,is_associated_with,lower adult income
+W2058593648,sleep restriction,is_associated_with,reduced physical activity during rest periods
+W2058593648,sleep restriction,is_associated_with,behavioural adaptation to conserve effort
+W4391750201,wildfire smoke,increases_risk_of,prenatal loss
+W4391750201,wildfire smoke,increases_risk_of,respiratory problems in infants
+W4391750201,wildfire smoke,causes,poor air quality
+W4391750201,poor air quality,increases_risk_of,prenatal loss
+W4391750201,poor air quality,increases_risk_of,respiratory illness in infants
+W2980937016,wildfire event,is_associated_with,anthropogenic global warming
+W2980937016,anthropogenic global warming,causes,reduced food supplies
+W2980937016,anthropogenic global warming,causes,reduced water supplies
+W2980937016,reduced food supplies,increases_risk_of,hunger
+W2980937016,reduced food supplies,increases_risk_of,disease
+W2980937016,reduced water supplies,increases_risk_of,disease
+W2980937016,anthropogenic global warming,increases_risk_of,violence
+W2980937016,anthropogenic global warming,increases_risk_of,migration
+W2980937016,anthropogenic global warming,increases_risk_of,premature mortality
+W2588476272,wildfire event,causes,heat exposure
+W2588476272,heat exposure,exacerbates,sleep restriction effects
+W2588476272,heat exposure,increases_risk_of,task performance impairment
+W4312065955,wildfire smoke,increases_risk_of,health impacts
+W4312065955,health messaging,mediates,behavior change
+W4220651971,warmer summer nocturnal temperatures,increases_risk_of,cardiovascular disease mortality
+W4387874195,elevated temperature,increases_risk_of,wildfire occurrence
+W4387874195,reduced humidity,increases_risk_of,wildfire occurrence
+W4387874195,strong winds,increases_risk_of,wildfire propagation
+W4387874195,precipitation,protects_against,wildfire propagation
+W4387874195,climate change,causes,warmer conditions
+W4387874195,warmer conditions,increases_risk_of,year-round fire susceptibility
+W4381429363,climate extremes,increases_risk_of,mortality in elderly populations
+W4381429363,population ageing,is_associated_with,increased climate vulnerability
+W3089184558,climate change,increases_risk_of,adverse pregnancy outcomes
+W3089184558,narrative health information,increases_risk_of,knowledge and risk perception
+W4385488661,wildfire event,exacerbates,landscape vulnerability
+W4385488661,cultural burning practices,protects_against,wildfire risk
+W4385488661,colonial disruption,exacerbates,wildfire risk
+W2921348944,wildfire event,causes,wildfire smoke exposure
+W2921348944,wildfire smoke,increases_risk_of,respiratory disease
+W2921348944,wildfire smoke,increases_risk_of,cardiovascular disease
+W2921348944,wildfire smoke,increases_risk_of,mortality
+W2528023194,wildfire event,causes,severe burn injury
+W2528023194,severe burn injury,causes,altered TNF-α/IL-10 ratio
+W2528023194,altered TNF-α/IL-10 ratio,increases_risk_of,repeated infection episodes
+W2528023194,severe burn injury,increases_risk_of,hypersusceptibility to infections
+W2032500420,earthquake exposure,increases_risk_of,PTSD
+W2032500420,earthquake exposure,increases_risk_of,depressive symptoms
+W2032500420,trait resilience,protects_against,PTSD
+W2032500420,trait resilience,protects_against,depressive symptoms
+W3124980854,wildfire event,causes,electricity network disruption
+W3124980854,wildfire event,causes,transportation network disruption
+W3124980854,wildfire event,causes,cascading infrastructure failures
+W3124980854,climate change,increases_risk_of,forest fire extremes
+W3210366098,wildfire smoke,causes,PM2.5
+W3210366098,PM2.5,increases_risk_of,low birth weight
+W3210366098,wildfire smoke,causes,CO
+W3210366098,CO,increases_risk_of,low birth weight
+W3210366098,wildfire smoke,causes,O3
+W3210366098,O3,increases_risk_of,low birth weight
+W3210366098,PM2.5,exacerbates,O3-induced low birth weight
+W3210366098,CO,exacerbates,O3-induced low birth weight
+W4360862319,wildfire smoke,causes,PM2.5
+W4360862319,PM2.5,causes,prenatal airway inflammation impairment
+W4360862319,PM2.5,causes,declined lipoxin A4 levels
+W4360862319,PM2.5,causes,declined resolvin E2 levels
+W4360862319,PM2.5,increases_risk_of,neonatal asthma
+W4360862319,lipoxin A4,protects_against,airway inflammation
+W4360862319,resolvin E2,protects_against,airway inflammation
+W4392459593,wildfire smoke,causes,PM2.5
+W4392459593,PM2.5,is_associated_with,DNA damage
+W4392459593,PM2.5,is_associated_with,cell death
+W4392459593,nutritional supplements,protects_against,DNA damage
+W4392459593,vegetable consumption,protects_against,cell death
+W4396708306,PM2.5,is_associated_with,mortality
+W4396708306,heat_stress,is_associated_with,mortality
+W4396708306,PM2.5,increases_risk_of,mortality in low-income neighborhoods
+W3117293858,wildfire event,is_associated_with,environmental hazards (flooding)
+W3117293858,environmental hazards,exacerbates,mental health insecurity
+W3117293858,environmental hazards,exacerbates,ill-health
+W3117293858,environmental hazards,increases_risk_of,perceived insecurity over time
+W3106572806,heat waves,is_associated_with,excess mortality
+W3106572806,ozone waves,is_associated_with,excess mortality
+W3106572806,compound heat-ozone waves,is_associated_with,excess mortality
+W4220764676,PM2.5,causes,respiratory diseases
+W4220764676,PM2.5,increases_risk_of,asthma
+W4220764676,high pollution neighborhoods,is_associated_with,respiratory disease prevalence
+W3028259567,wildfire event,increases_risk_of,community displacement
+W3028259567,wildfire event,exacerbates,poverty and social inequity
+W4205815044,PM10,causes,decreased trophoblast cell viability
+W4205815044,PM10,causes,reduced cell proliferation and migration
+W4205815044,PM10,causes,increased trophoblast cell apoptosis
+W4205815044,PM10,causes,"increased IL-1β, IL-6, TNF-α expression"
+W4205815044,PM10,causes,miR-125b-5p upregulation
+W4205815044,miR-125b-5p upregulation,mediates,TXNRD1 suppression
+W3095205003,PM2.5,causes,intracellular reactive oxygen species increase
+W3095205003,PM2.5,causes,Nrf2 activation
+W3095205003,PM2.5,causes,JNK1/2 pathway activation
+W3095205003,PM2.5,causes,glutathione level elevation
+W3095205003,PM2.5,causes,heme oxygenase-1 accumulation
+W3095205003,PM2.5,causes,chemoresistance to doxorubicin
+W3095205003,PM2.5,increases_risk_of,disease progression via pro-survival pathways
+W4224144391,climate change,causes,health impacts
+W4224144391,climate change,causes,human rights violations
+W4224144391,climate change,exacerbates,health inequities in marginalized populations
+W2980466780,wildfire event,is_associated_with,deforestation
+W2980466780,deforestation,increases_risk_of,malaria incidence
+W2980466780,malaria burden,exacerbates,forest loss reduction
+W2980466780,malaria incidence,is_associated_with,reduced forest clearing
+W4306147412,climate change,increases_risk_of,allergic disease
+W4306147412,urbanization,increases_risk_of,allergic disease
+W4306147412,biodiversity loss,increases_risk_of,allergic disease
+W4306147412,climate change,exacerbates,allergen exposure
+W4390879939,wildfire event,causes,emotional trauma
+W4390879939,wildfire event,increases_risk_of,perinatal mood and anxiety disorders
+W4390879939,emotional trauma,increases_risk_of,perinatal mood and anxiety disorders
+W4390879939,wildfire event,causes,stress and anxiety in perinatal population
+W4390879939,wildfire event,causes,hopelessness about future
+W4390879939,wildfire event,causes,social isolation
+W4390789270,wildfire smoke,causes,PM2.5
+W4390789270,PM2.5,causes,olfactory pathway brain translocation
+W4390789270,PM2.5,causes,hyperphosphorylated tau
+W4390789270,PM2.5,causes,beta amyloid 1-42
+W4390789270,PM2.5,causes,alpha-synuclein
+W4390789270,PM2.5,causes,TDP-43 pathology
+W4390789270,PM2.5,increases_risk_of,Alzheimer's disease
+W4390789270,PM2.5,increases_risk_of,Parkinson's disease
+W4390789270,PM2.5,increases_risk_of,frontotemporal lobar degeneration
+W4390789270,PM2.5,increases_risk_of,amyotrophic lateral sclerosis
+W2606569879,PM2.5,causes,cellular stress
+W2606569879,PM2.5,causes,membrane damage
+W2606569879,PM2.5,causes,cell death
+W2606569879,PM2.5,causes,apoptosis gene expression
+W2606569879,PM2.5,causes,inflammation gene expression
+W2606569879,PM2.5,increases_risk_of,chronic debilitating diseases
+W3197562032,climate change,exacerbates,root causes of inequity in frontline communities
+W3197562032,climate change,is_associated_with,"disproportionate social, economic, and environmental injustices"
+W4401071777,wildfire event,is_associated_with,WUI growth
+W4401071777,housing crisis,increases_risk_of,exurban migration
+W4401071777,exurban migration,increases_risk_of,WUI growth
+W4401071777,WUI growth,increases_risk_of,wildfire risk
+W2909099810,polycyclic aromatic hydrocarbons,increases_risk_of,lung cancer
+W3171337028,cumulative environmental health impacts,is_associated_with,COVID-19 positivity
+W3171337028,PM2.5,is_associated_with,COVID-19 positivity
+W3171337028,low socioeconomic status,is_associated_with,COVID-19 positivity
+W4387996823,wildfire smoke,causes,PM2.5
+W4387996823,PM2.5,increases_risk_of,ischemic stroke mortality
+W4387996823,PM2.5,increases_risk_of,respiratory disease mortality
+W4387996823,PM2.5,increases_risk_of,COPD mortality
+W4387996823,PM2.5,increases_risk_of,myocardial infarction mortality
+W2992324043,wildfire event,exacerbates,nutritional vulnerability
+W2992324043,climate change,increases_risk_of,food production disruption
+W2992324043,inequity,exacerbates,adverse nutrition outcomes from climate change
+W2887605504,wildfire event,increases_risk_of,heat_stress
+W2887605504,heat_stress,causes,increased core body temperature
+W2887605504,heat_stress,causes,reduced exercise performance
+W2887605504,personal protective equipment,exacerbates,physiological strain
+W4401510485,wildfire event,increases_risk_of,low birth weight
+W4401510485,wildfire event,increases_risk_of,fetal death
+W4401510485,wildfire event,causes,maternal stress
+W4401510485,maternal stress,mediates,low birth weight
+W4401510485,maternal behaviors,mediates,adverse birth outcomes
+W1982071438,PAH exposure,causes,lung cancer risk
+W1982071438,biomass fuel combustion,increases_risk_of,PAH exposure
+W1982071438,fossil fuel combustion,increases_risk_of,PAH exposure
+W1982071438,individual susceptibility,exacerbates,lung cancer risk from PAH
+W3022189740,household solid fuel use,causes,PM2.5 exposure
+W3022189740,PM2.5 exposure,causes,loss of healthy life
+W3022189740,PM2.5 exposure,causes,premature mortality
+W3022189740,transition to LPG,is_associated_with,PM2.5 concentrations
+W2763436097,wildfire smoke,causes,PM2.5
+W2763436097,PM2.5,is_associated_with,lung cancer risk
+W2763436097,biomass burning,increases_risk_of,PAH exposure
+W2611753856,wildfire event,causes,air pollution-related health effects
+W2611753856,wildfire event,causes,heat-related illnesses and deaths
+W2611753856,climate change,increases_risk_of,extreme weather events including fires
+W3122172717,burn injury,is_associated_with,length of hospital stay
+W3122172717,burn injury,is_associated_with,mental health status
+W3122172717,burn injury,is_associated_with,socioeconomic status
+W3122172717,adverse mental status,exacerbates,length of hospital stay
+W3122172717,low socioeconomic status,exacerbates,length of hospital stay
+W4392920275,women's political representation,is_associated_with,PM2.5 reduction
+W3168485784,biomass burning,causes,rhinitis
+W3168485784,biomass burning,causes,headache
+W3168485784,water leakage,causes,rhinitis
+W3168485784,indoor mold,causes,respiratory symptoms
+W3168485784,environmental tobacco smoke,causes,respiratory symptoms
+W3168485784,gas cooking,causes,respiratory symptoms
+W4403925116,wildfire event,is_associated_with,shrub cover increase
+W4403925116,Indigenous population expansion,causes,shrub cover reduction
+W4403925116,British colonization,causes,shrub cover increase
+W4403925116,shrub cover increase,increases_risk_of,high-intensity fires
+W3105062109,drought,causes,health consequences
+W2071414704,PM2.5 air pollution,causes,premature mortality
+W2071414704,climate change,is_associated_with,PM2.5 dispersion
+W3173502414,wildfire event,causes,air pollution
+W3173502414,air pollution,causes,respiratory health impacts
+W3173502414,wildfire event,causes,heat stress
+W3173502414,heat_stress,increases_risk_of,cardiovascular disease
+W3173502414,fire_weather,causes,psychological stress
+W4372349932,wildfire event,is_associated_with,community health systems and infrastructure
+W4372349932,wildfire event,causes,displacement and recovery needs
+W4372349932,wildfire event,exacerbates,rural community economic health
+W4372349932,slow arrival of recovery resources,increases_risk_of,inequitable health outcomes
+W4387040835,climate change,increases_risk_of,wildfires
+W4387040835,global warming,increases_risk_of,wildfires
+W4387040835,temperature variations,increases_risk_of,wildfire severity
+W4387040835,soil moisture changes,increases_risk_of,wildfire risk
+W4393067873,wildfire smoke,causes,PM2.5
+W4393067873,PM2.5,increases_risk_of,neurodegeneration
+W4393067873,PM2.5,increases_risk_of,neuropsychiatric disorders
+W4393067873,PM2.5,increases_risk_of,neurodevelopmental disorders
+W3000484103,environmental change,causes,reduced ecosystem service access
+W3000484103,reduced ecosystem service access,causes,mental health problems
+W3000484103,environmental change,increases_risk_of,environmental distress
+W3000484103,quality of life,protects_against,felt environmental impacts
+W3000484103,resilience,is_associated_with,greater awareness of environmental changes
+W2044318048,mercury exposure,causes,reduced reproductive success
+W2044318048,mercury exposure,increases_risk_of,reduced fledgling proportion
+W2044318048,mercury exposure,increases_risk_of,increased re-nesting latency
+W2044318048,lifetime mercury exposure,causes,selection for mercury tolerance
+W4313306113,wildfire event,causes,PM2.5 emissions
+W4313306113,untreated fuels,increases_risk_of,high PM2.5 concentration
+W4313306113,fuel treatments,protects_against,wildfire smoke in communities
+W4398247090,climate change,is_associated_with,health impacts across life course
+W3088478157,climate displacement,is_associated_with,loss of intangible cultural heritage
+W3088478157,climate displacement,exacerbates,psychological distress in displaced communities
+W3045575071,PM2.5,is_associated_with,anti-citrullinated protein antibody positivity
+W3045575071,PM2.5,is_associated_with,SO2
+W2167862289,wildfire event,increases_risk_of,posttraumatic stress disorder
+W2167862289,community collective efficacy,protects_against,posttraumatic stress disorder
+W2566941503,wildfire event,causes,wildfire smoke
+W2566941503,wildfire smoke,causes,PM2.5
+W2566941503,PM2.5,increases_risk_of,mortality
+W2566941503,wildfire event,is_associated_with,heat stress
+W2566941503,heat stress,increases_risk_of,mortality
+W4229056663,green roof implementation,is_associated_with,urban heat island effect
+W4229056663,green roof implementation,increases_risk_of,mental health improvements
+W4229056663,green roof implementation,is_associated_with,reduced respiratory disease
+W4229056663,green roof implementation,is_associated_with,reduced cardiovascular disease
+W4229056663,access to green space,is_associated_with,emotional distress
+W4379467079,wildfire event,causes,displacement
+W4379467079,displacement,increases_risk_of,mental_health outcomes
+W4379467079,wildfire event,exacerbates,housing insecurity
+W4311125320,PM2.5,is_associated_with,childhood stunting
+W4311125320,PM2.5,is_associated_with,in-utero exposure effects
+W4311125320,PM2.5,is_associated_with,childhood undernutrition
+W3187128816,drought,causes,mortality
+W4256271581,wildfire event,causes,economic losses
+W4256271581,wildfire event,causes,social disruption
+W4256271581,wildfire event,is_associated_with,human land clearing
+W4256271581,wildfire event,is_associated_with,illegal logging
+W4256271581,wildfire event,is_associated_with,corporate interests
+W4401404673,wildfire smoke,causes,differential gene expression
+W4401404673,wildfire smoke,causes,synaptic transmission alterations
+W4401404673,wildfire smoke,causes,blood-brain barrier integrity disruption
+W4401404673,wildfire smoke,causes,neurotransmitter metabolism dysfunction
+W4401404673,wildfire smoke,causes,mitochondrial oxidase dysregulation
+W3216616617,wildfire_smoke,causes,PM2.5
+W3216616617,PM2.5,is_associated_with,public_health_concerns
+W3216616617,wildfire_event,is_associated_with,newspaper_health_article_publication
+W4399385217,wildfire smoke,causes,altered solar radiation
+W4399385217,wildfire smoke,causes,ash deposition
+W4399385217,wildfire smoke,causes,nutrient deposition in lakes
+W4399385217,wildfire smoke,causes,toxic compound deposition
+W4399385217,wildfire smoke,is_associated_with,chemical condition changes in lakes
+W4399385217,wildfire smoke,is_associated_with,impacts to aquatic biota
+W2145071027,in utero dioxin exposure,causes,decreased free T4 and TSH
+W2145071027,non-ortho PCBs,causes,altered thyroid hormone feedback to hypothalamus
+W2145071027,placental dioxin and PCB burden,is_associated_with,altered thyroid and growth hormone levels in newborns
+W3164816829,volatile organic compounds,causes,toxicant-induced loss of tolerance
+W3164816829,pesticides,causes,toxicant-induced loss of tolerance
+W3164816829,combustion products,causes,toxicant-induced loss of tolerance
+W3164816829,synthetic organic chemicals,causes,chemical intolerance
+W3198756073,ozone,causes,respiratory health effects
+W2195931090,heat stress,increases_risk_of,elevated core temperature
+W2195931090,heat stress,increases_risk_of,elevated skin temperature
+W2195931090,heat stress,is_associated_with,increased fluid intake demand
+W4393852661,wildfire event,causes,boreal forest reduction
+W4393852661,wildfire event,is_associated_with,ecosystem transition to oak-pine barren
+W4393852661,climate warming,increases_risk_of,wildfire frequency
+W4378471302,heat_stress,increases_risk_of,excess mortality
+W4378471302,anthropogenic climate change,causes,heat_stress
+W4392561117,PM2.5,causes,nitrooxidative stress
+W4392561117,PM2.5,causes,neuroinflammation
+W4392561117,nitrooxidative stress,causes,neurodegenerative disease markers
+W4392561117,neuroinflammation,causes,neurodegenerative disease markers
+W4392561117,neurodegenerative disease markers,increases_risk_of,Alzheimer's disease
+W4392561117,neurodegenerative disease markers,increases_risk_of,Parkinson's disease
+W3135555399,harmattan dust exposure,increases_risk_of,infant mortality
+W3135555399,harmattan dust exposure,increases_risk_of,child mortality
+W3135555399,harmattan dust exposure,causes,health investments
+W3135555399,harmattan dust exposure,causes,negative health impacts in survivors
+W3135555399,economic development,protects_against,dust-related mortality
+W3135555399,public health improvements,protects_against,dust-related mortality
+W2117846928,diesel exhaust nanoparticles,causes,respiratory health problems
+W2117846928,diesel exhaust nanoparticles,causes,cardiovascular health problems
+W2117846928,motor vehicle emissions,causes,PM2.5
+W4381597216,ambient air pollution,increases_risk_of,COVID-19 severity
+W4381597216,blood soot particles,is_associated_with,adverse hospitalisation outcomes
+W1906063826,climate change,causes,vector species range expansion
+W1906063826,climate change,increases_risk_of,vector-borne infectious diseases
+W1906063826,climate change,causes,temperature extremes
+W1906063826,temperature extremes,increases_risk_of,health impacts
+W1906063826,land use change,increases_risk_of,infectious disease emergence
+W1906063826,climate change,exacerbates,food insecurity
+W4402839039,wildfire smoke,causes,PM2.5
+W4402839039,PM2.5,increases_risk_of,respiratory acute care utilization
+W4402839039,PM2.5,increases_risk_of,circulatory acute care utilization
+W4402839039,extreme wildfire frequency,exacerbates,PM2.5 health impacts
+W2417657506,lack of snakebite knowledge,increases_risk_of,venomous snakebite injury
+W2417657506,fear and negativity towards snakes,is_associated_with,increased snake killing
+W2417657506,inappropriate snakebite perception,increases_risk_of,snakebite-related health risk
+W4313830948,PM2.5,increases_risk_of,type 2 diabetes
+W4313830948,PM2.5,is_associated_with,non-linear exposure-response relationship
+W4313830948,nitrogen dioxide,increases_risk_of,type 2 diabetes
+W4313830948,nitrogen dioxide,is_associated_with,non-linear exposure-response relationship
+W4313830948,ozone,is_associated_with,diabetes risk
+W4300961762,extreme heat,increases_risk_of,mortality in low SES individuals
+W4300961762,extreme cold,increases_risk_of,mortality in low SES individuals
+W4300961762,low socioeconomic status,exacerbates,temperature-related mortality risk
+W4225159734,wildfire event,is_associated_with,burning of agroforestry leftovers
+W4225159734,wildfire event,is_associated_with,accumulated agroforestry residues
+W4225159734,residual agroforestry biomass valorization,protects_against,wildfire event
+W4313397989,wildfire event,is_associated_with,mortality
+W4313397989,heat_stress,increases_risk_of,mortality in elderly
+W4313397989,fire_weather,increases_risk_of,mortality in children and adolescents
+W2887075941,heat stress,increases_risk_of,mortality
+W4213366672,wildfire event,causes,changes in fire residence time
+W4213366672,wildfire event,causes,soil heating
+W4213366672,increased fire residence time,causes,reduced seed germinability
+W4387392119,climate change,increases_risk_of,ambient air pollution
+W4387392119,ambient air pollution,causes,non-communicable diseases
+W4396779090,wildfire smoke,causes,increased heart rate in depleted housing mice
+W4396779090,wildfire smoke,causes,left ventricular mass increase
+W4396779090,wildfire smoke,causes,reduced stroke volume and end diastolic volume
+W4396779090,wildfire smoke,increases_risk_of,elevated allostatic load in females
+W4396779090,wildfire smoke,causes,elevated IL-2 and IL-17 in female mice
+W4396779090,wildfire smoke,causes,elevated corticosterone in female mice
+W4396779090,depleted housing,exacerbates,cardiopulmonary response to wildfire smoke
+W3021856152,NO2,is_associated_with,peak expiratory flow rate
+W3021856152,PM2.5,is_associated_with,peak expiratory flow rate
+W3021856152,PM10,is_associated_with,peak expiratory flow rate
+W3021856152,SO2,is_associated_with,peak expiratory flow rate
+W3021856152,O3,is_associated_with,peak expiratory flow rate
+W3021856152,CO,is_associated_with,peak expiratory flow rate
+W4387453734,polycyclic aromatic hydrocarbons,increases_risk_of,cardiovascular risk
+W4387453734,polycyclic aromatic hydrocarbons,causes,inflammation
+W4387453734,polycyclic aromatic hydrocarbons,causes,endothelial dysfunction
+W4387453734,polycyclic aromatic hydrocarbons,causes,oxidative stress
+W4387453734,physical exercise,protects_against,PAH-induced cardiovascular damage
+W4404050876,wildfire event,causes,PM2.5
+W4404050876,PM2.5,is_associated_with,unhealthy air quality
+W4405276723,climate change,causes,poor air quality
+W4405276723,poor air quality,increases_risk_of,respiratory disease
+W4405276723,climate change,causes,extreme heat
+W4405276723,climate change,causes,changes in infectious disease
+W4405276723,climate change,increases_risk_of,health system utilisation
+W4378901419,wildfire smoke,causes,sleep disruption
+W4378901419,wildfire smoke,increases_risk_of,cardiovascular risk during sleep disruption
+W4378901419,sleep disruption combined with wildfire smoke exposure,causes,increased heart rate and blood pressure during active period
+W4378901419,sleep disruption combined with wildfire smoke exposure,causes,reduced heart rate variability
+W4378901419,reduced heart rate variability,is_associated_with,increased cardiac sympathetic tone
+W4378901419,wildfire smoke exposure in sleep-disrupted state,causes,increased cardiac sympathetic activity
+W4390511949,compounding drought and heatwave events,increases_risk_of,child mental health problems
+W4394989472,wildfire event,is_associated_with,Mexican spotted owl pair occupancy
+W4394989472,high-severity fire,is_associated_with,local persistence of owl pairs
+W4394989472,frequent fires,increases_risk_of,higher pair occupancy rates
+W4403258614,extreme rainfall events,increases_risk_of,all-cause mortality
+W4403258614,extreme rainfall events,increases_risk_of,cardiovascular mortality
+W4403258614,extreme rainfall events,increases_risk_of,respiratory mortality
+W4388424624,wildfire event,increases_risk_of,eco-anger
+W4388424624,wildfire event,increases_risk_of,eco-grief
+W4388424624,cumulative stressors,exacerbates,eco-emotions
+W2801861098,wildfire smoke,causes,PM2.5
+W2801861098,wildfire smoke,is_associated_with,human health impairment
+W4403332864,wildfire smoke,causes,PM2.5
+W4403332864,PM2.5,increases_risk_of,autism spectrum disorder
+W4403332864,on-road gasoline PM2.5,increases_risk_of,autism spectrum disorder
+W4403332864,off-road gasoline PM2.5,increases_risk_of,autism spectrum disorder
+W4405944899,wildfire smoke,increases_risk_of,respiratory hospitalizations
+W2072072927,wildfire smoke,causes,atmospheric haze
+W2072072927,wildfire event,causes,nutrient enrichment in marine ecosystems
+W2072072927,wildfire event,causes,sediment runoff into coastal waters
+W2072072927,wildfire event,causes,reduced photosynthetically active radiation
+W2072072927,wildfire smoke,causes,reduced visibility
+W2072072927,nutrient enrichment,increases_risk_of,coral bleaching
+W2072072927,nutrient enrichment,increases_risk_of,seagrass bed loss
+W2072072927,sediment loading,causes,coral tissue abrasion and anoxia
+W2072072927,sediment loading,causes,reduced light availability for photosynthesis
+W2072072927,reduced PAR,causes,decreased primary productivity
+W4311136130,wildfire event,is_associated_with,mental health problems
+W4311136130,extreme weather events,increases_risk_of,mental health disorders
+W4412807487,wildfire event,causes,PM2.5 release
+W4412807487,PM2.5,causes,respiratory disease
+W4412807487,PM2.5,causes,cardiovascular disease
+W4412807487,wildfire smoke,increases_risk_of,hospital admissions
+W4412807487,climate change,increases_risk_of,wildfire event
+W4295808916,wildfire event,causes,wildfire smoke
+W4295808916,wildfire smoke,increases_risk_of,respiratory disorders
+W4295808916,climate change,increases_risk_of,heat stress
+W4295808916,heat stress,causes,heatstroke
+W4295808916,heat stress,increases_risk_of,cardiovascular disorders
+W4295808916,heat stress,increases_risk_of,mortality
+W4391719025,PM2.5,increases_risk_of,upper aerodigestive tract cancer
+W4391719025,nitrogen dioxide,increases_risk_of,upper aerodigestive tract cancer
+W4391719025,black carbon,increases_risk_of,upper aerodigestive tract cancer
+W4379094724,wildfire event,increases_risk_of,mental health problems
+W4379094724,wildfire event,increases_risk_of,financial distress
+W4398181225,wildfire smoke,causes,PM2.5 exposure
+W4398181225,PM2.5,causes,decreased lung function
+W4398181225,PM2.5,causes,increased airway resistance
+W4398181225,PM2.5,causes,decreased lung compliance
+W4398181225,PM2.5,causes,alveolar macrophage dysfunction
+W4398181225,PM2.5,increases_risk_of,immunotoxic effects
+W4398181225,wildfire smoke,is_associated_with,sex differences in susceptibility
+W3198472430,PFAS exposure,is_associated_with,telomere length changes
+W3198472430,OPFR metabolites,is_associated_with,telomere length changes
+W3198472430,telomere length changes,increases_risk_of,carcinogenesis
+W4317933161,wildfire event,causes,PM10 and PM2.5 emissions
+W4317933161,wildfire smoke,causes,PM2.5
+W4317933161,wildfire smoke,causes,air pollution episodes
+W4200225514,wildfire event,increases_risk_of,air pollution by ozone
+W4200225514,air pollution by ozone,causes,respiratory health risks
+W4200225514,wildfire event,increases_risk_of,heatwaves
+W4200225514,heatwaves,causes,heat stress in athletes
+W4380990929,wildfire smoke,causes,reduced call frequency in orangutans
+W4380990929,wildfire smoke,causes,vocal quality changes
+W4380990929,wildfire smoke,causes,lower pitch vocalizations
+W4380990929,wildfire smoke,causes,increased vocal harshness
+W4392622596,wildfire smoke,causes,PM2.5
+W4392622596,PM2.5,causes,work loss
+W4381469534,climate change,increases_risk_of,infectious diseases
+W4381469534,climate change,increases_risk_of,non-communicable diseases
+W4381469534,climate change,increases_risk_of,mental_health disorders
+W3110195843,direct_fire,causes,burn shock
+W3110195843,burn shock,causes,changes in host response
+W4392649902,wildfire smoke,causes,PM2.5
+W4392649902,PM2.5,increases_risk_of,atopic eczema
+W4392649902,open fires,increases_risk_of,atopic eczema
+W4392649902,environmental tobacco smoke,increases_risk_of,atopic eczema
+W4392649902,traffic pollution,increases_risk_of,atopic eczema
+W4205403440,heat_stress,increases_risk_of,heat-related illness
+W4205403440,heat_stress,increases_risk_of,vector-borne diseases
+W4205403440,heat_stress,exacerbates,occupational safety risks
+W4205403440,climate_change,increases_risk_of,frequent heat waves
+W4318018848,climate change,increases_risk_of,infectious and chronic disease
+W4318018848,climate change,increases_risk_of,extreme weather events
+W4318018848,climate change,exacerbates,existing social and economic disparities
+W4399052785,wildfire smoke,causes,proinflammatory cytokine expression
+W4399052785,wildfire smoke,causes,chemokine signaling
+W4399052785,wildfire smoke,causes,lung mRNA gene expression changes
+W4399052785,wildfire smoke,increases_risk_of,acute lung inflammation
+W4399052785,wildfire smoke,increases_risk_of,acute lung injury
+W4313398558,wildfire event,causes,displacement
+W4313398558,displacement,increases_risk_of,mental_health impacts
+W4313398558,displacement,is_associated_with,health risks from altered living conditions
+W4313398558,climate-related mobility,exacerbates,health inequities for trapped populations
+W3093482996,PM2.5,is_associated_with,colon cancer incidence
+W3093482996,black carbon,is_associated_with,colon cancer incidence
+W3093482996,organic carbon,is_associated_with,colon cancer incidence
+W4403256653,wildfire event,increases_risk_of,heat_stress
+W4403256653,heat_stress,increases_risk_of,cardiovascular mortality
+W4403256653,heat_stress,increases_risk_of,infectious disease morbidity
+W1483756400,free-ranging horse husbandry abandonment,increases_risk_of,forest fires
+W1483756400,EU animal welfare regulations,causes,economic unsustainability of horse husbandry
+W1483756400,traditional free-ranging horses,protects_against,forest fires
+W3159879688,wildfire event,exacerbates,secondary forest recovery
+W3159879688,wildfire event,is_associated_with,shifting cultivation sustainability
+W3159879688,drier climate,increases_risk_of,wildfire event
+W3159879688,deforestation,causes,drier climate
+W4229068645,wildfire event,is_associated_with,suspension of protected-area management
+W4229068645,wildfire event,is_associated_with,COVID-19 lockdown
+W4297517552,biomass cookstove emissions,causes,PM2.5 exposure
+W4297517552,PM2.5 exposure,increases_risk_of,respiratory health risks
+W4297517552,traditional cookstoves,increases_risk_of,health risks
+W4297517552,improved cookstoves,protects_against,health risks
+W4225368740,heat waves,increases_risk_of,all-cause mortality
+W4225368740,heat waves,increases_risk_of,respiratory mortality
+W4225368740,heat waves,increases_risk_of,cardiovascular mortality
+W4225368740,heat waves,increases_risk_of,renal disease mortality
+W4225368740,heat waves,increases_risk_of,diabetes-related mortality
+W4390444557,dust exposure,increases_risk_of,respiratory hospitalization
+W4390444557,dust exposure,increases_risk_of,cardiovascular hospitalization
+W4390444557,dust exposure,increases_risk_of,neurological hospitalization
+W4390444557,dust exposure,increases_risk_of,mental health hospitalization
+W4390444557,dust exposure,increases_risk_of,asthma hospitalization
+W4390444557,dust exposure,increases_risk_of,stroke hospitalization
+W4390444557,dust exposure,increases_risk_of,renal disease hospitalization
+W3175392612,wildfire smoke,causes,PM2.5 infiltration into buildings
+W3175392612,PM2.5,increases_risk_of,occupant respiratory health risk
+W3175392612,poor HVAC filtration,exacerbates,indoor air pollution exposure
+W4388982310,miR-511-3p deficiency,increases_risk_of,airway hyper-responsiveness
+W4388982310,miR-511-3p deficiency,increases_risk_of,Th2-associated allergic airway inflammation
+W4388982310,miR-511-3p treatment,protects_against,airway inflammation
+W4388982310,miR-511-3p,causes,complement C3 downregulation
+W3182629634,nature exposure,causes,oxytocin release
+W3182629634,oxytocin release,causes,stress reduction
+W3182629634,oxytocin release,causes,increased wellbeing
+W3182629634,nature exposure,is_associated_with,cortisol levels
+W3182629634,nature exposure,increases_risk_of,psychological development
+W4282548889,wildfire event,exacerbates,limited access to sexual and reproductive health services
+W4282548889,wildfire event,increases_risk_of,physical and psychological harm in women
+W4282548889,limited access to SRHR services,is_associated_with,capacity and resilience to climate change
+W3201904572,ambient air pollution,is_associated_with,altered metabolic systems
+W3201904572,ambient air pollution,is_associated_with,altered endocrine systems
+W3201904572,prenatal air pollution exposure,is_associated_with,type 1 diabetes mellitus
+W3201904572,prenatal air pollution exposure,is_associated_with,obesity
+W3201904572,prenatal air pollution exposure,is_associated_with,insulin resistance
+W3201904572,prenatal air pollution exposure,is_associated_with,thyroid dysfunction
+W3201904572,prenatal air pollution exposure,is_associated_with,pubertal timing alterations
+W3201904572,postnatal air pollution exposure,is_associated_with,type 1 diabetes mellitus
+W3201904572,postnatal air pollution exposure,is_associated_with,obesity
+W3201904572,postnatal air pollution exposure,is_associated_with,insulin resistance
+W3201904572,postnatal air pollution exposure,is_associated_with,thyroid dysfunction
+W3201904572,postnatal air pollution exposure,is_associated_with,pubertal timing alterations
+W2802239117,biomass fuel smoke,causes,COPD
+W2802239117,occupational dust exposure,increases_risk_of,COPD
+W2802239117,pulmonary tuberculosis history,increases_risk_of,COPD
+W2802239117,lower respiratory tract infection,increases_risk_of,COPD
+W4391684175,air pollution exposure,causes,DNA methylation changes in sperm
+W4391684175,air pollution exposure,causes,altered epigenetic patterns
+W4391684175,DNA methylation changes,is_associated_with,neurodevelopmental disruption
+W4381252373,wildfire event,causes,air pollution
+W4381252373,air pollution,increases_risk_of,health challenges in older persons
+W4381252373,heat stress,exacerbates,thermoregulation dysfunction
+W4381252373,extreme weather conditions,increases_risk_of,daily living routine disruption
+W4402687199,extreme drought events,causes,mortality
+W4402687199,extreme drought events,increases_risk_of,health emergencies
+W4402687199,inadequate healthcare infrastructure,exacerbates,drought health impacts
+W4394806084,air pollution,causes,epigenetic modifications
+W4394806084,air pollution,increases_risk_of,cognitive impairment
+W4394806084,air pollution,increases_risk_of,neurodegenerative disease
+W4394806084,epigenetic modifications,mediates,cognitive impairment
+W4220882796,wildfire smoke,causes,inflammation in exposed infants
+W4220882796,wildfire smoke,causes,blunted cortisol response
+W4220882796,wildfire smoke,causes,passive behavior in infants
+W4220882796,wildfire smoke,causes,memory impairment
+W4220882796,wildfire smoke,increases_risk_of,teratogenic effects on fetal development
+W4383695476,wildfire event,increases_risk_of,air pollution
+W4383695476,wildfire event,causes,human health damage
+W4383695476,wildfire event,causes,increased risk aversion
+W4383695476,wildfire event,causes,reduced labor supply
+W3025376867,wildfire event,is_associated_with,internal labour mobility decisions
+W3025376867,wildfire event,is_associated_with,long-term demographic change
+W2218399603,sleep restriction,increases_risk_of,IL-8 elevation
+W2218399603,simulated firefighting work,causes,IL-6 elevation
+W2218399603,simulated firefighting work,causes,IL-4 elevation
+W4401169767,wildfire event,causes,greenhouse gas emissions
+W4401169767,wildfire event,causes,changes in fire regime
+W4401169767,wildfire event,causes,ecological transformation
+W4401169767,farming expansion,increases_risk_of,wildfire event
+W3176429360,wildfire event,exacerbates,climate variability with erratic rainfall
+W3176429360,wildfire event,increases_risk_of,reduced crop productivity
+W3176429360,wildfire event,increases_risk_of,reduced agroforestry diversity
+W3176429360,reduced crop productivity,causes,household food insecurity
+W3176429360,reduced agroforestry diversity,causes,shifts to migratory wage labor
+W3176429360,shifts to migratory wage labor,causes,reduced dietary diversity
+W3028226478,wildfire event,is_associated_with,respiratory diseases
+W3028226478,wildfire event,is_associated_with,malaria
+W3028226478,wildfire event,is_associated_with,leishmaniasis
+W3028226478,drought period,exacerbates,fire outbreak
+W2946675321,wildfire event,increases_risk_of,health risks
+W2574755614,wildfire event,causes,physiological energy demands
+W2574755614,wildfire event,is_associated_with,nutritional inadequacy
+W4386303381,heat stress,causes,heat-related illnesses
+W4386303381,heat stress,causes,work cancellations
+W4386303381,heat stress,causes,work modifications
+W4385580713,PM2.5,increases_risk_of,all-cause dementia
+W4385580713,PM2.5,increases_risk_of,Alzheimer's disease
+W4385580713,NOx,increases_risk_of,all-cause dementia
+W4385580713,NOx,increases_risk_of,Alzheimer's disease
+W4389832881,wildfire smoke,causes,PM2.5 elevation
+W4389832881,wildfire smoke,causes,CO elevation
+W4389832881,PM2.5,causes,skin inflammation
+W4389832881,PM2.5,causes,airway inflammation
+W4389832881,wildfire smoke,exacerbates,atopic dermatitis flares
+W4212788308,wildfire smoke,causes,PM2.5
+W4212788308,PM2.5,causes,PAH exposure
+W4212788308,PAH exposure,causes,DNA damage
+W3113170194,nanoparticle exposure,causes,oxidative stress
+W3113170194,oxidative stress,is_associated_with,malondialdehyde elevation
+W3113170194,oxidative stress,is_associated_with,DNA damage
+W3113170194,nanoparticle exposure,is_associated_with,respiratory disease risk
+W4247676638,wildfire event,is_associated_with,air pollution patterns
+W4247676638,air pollution,causes,PM2.5
+W4247676638,PM2.5,increases_risk_of,asthma morbidity
+W4247676638,PM2.5,increases_risk_of,allergic respiratory diseases
+W4247676638,air pollution,exacerbates,allergenic potential of pollens
+W4247676638,climate change,increases_risk_of,asthma exacerbation
+W2783545249,climate change,increases_risk_of,mental_health disorders
+W3100159783,wildfire event,exacerbates,rainforest degradation
+W3100159783,rainforest degradation,increases_risk_of,mosquito-borne disease spread
+W3100159783,extreme weather events,increases_risk_of,mosquito-borne disease transmission
+W3107564445,lack of perceived interpersonal trust,is_associated_with,probable depression
+W3107564445,lack of perceived sense of belonging,is_associated_with,probable depression
+W3107564445,lack of perceived social harmony,is_associated_with,probable depression
+W3107564445,low social capital,increases_risk_of,probable depression
+W4385199045,wildfire event,increases_risk_of,mental health morbidity
+W4385199045,wildfire event,increases_risk_of,mortality
+W4396224503,wildfire smoke,increases_risk_of,health harm in exposed communities
+W4396224503,wildfire event,is_associated_with,property damage
+W4396224503,wildfire event,exacerbates,health impacts in low socioeconomic status communities
+W4384825985,wildfire event,is_associated_with,climate change
+W4384825985,wildfire event,is_associated_with,population growth
+W4384825985,wildfire event,is_associated_with,periurban development
+W4380361158,wildfire event,increases_risk_of,coccidioidomycosis incidence
+W4380361158,wildfire event,is_associated_with,Coccidioides spp. aerosolization
+W4402990069,wildfire smoke,causes,PM2.5
+W4402990069,PM2.5,increases_risk_of,respiratory health effects
+W4402990069,heat_stress,exacerbates,PM2.5-related health impacts
+W4210384655,wildfire event,causes,trauma and mental health impacts
+W4210384655,community trauma,exacerbates,impaired engagement in recovery planning
+W4210384655,re-traumatization during recovery planning,exacerbates,mental health outcomes
+W2794169666,urban outdoor air pollution,causes,neuroinflammation
+W2794169666,urban outdoor air pollution,causes,impaired cognitive development
+W2794169666,urban outdoor air pollution,causes,memory deficits
+W2794169666,urban outdoor air pollution,causes,executive function impairment
+W2794169666,urban outdoor air pollution,causes,emotional regulation problems
+W2794169666,urban outdoor air pollution,increases_risk_of,neurodegenerative disease
+W2794169666,neuroinflammation,causes,early neurodegenerative processes
+W4400241832,wildfire smoke,increases_risk_of,children's health effects
+W4400241832,wildfire smoke,is_associated_with,parental worry
+W4400241832,high-risk AQI infographics,increases_risk_of,parental action intentions
+W4400241832,AQHI index format,mediates,parental risk perception at moderate levels
+W2035216962,global change,increases_risk_of,bluetongue emergence
+W2035216962,global change,increases_risk_of,West Nile fever emergence
+W2035216962,global warming,exacerbates,arboviral disease distribution
+W2035216962,land use changes,exacerbates,arboviral disease distribution
+W4224212063,PM2.5,increases_risk_of,mortality in lung cancer patients
+W4307872797,heat_stress,is_associated_with,urban population exposure
+W4307872797,climate change,increases_risk_of,extreme heatwaves
+W4320180451,outdoor air pollution,increases_risk_of,liver cancer
+W4362585001,atmospheric pollution,is_associated_with,circulating miRNA alterations
+W2470194203,wildfire event,increases_risk_of,displacement
+W2470194203,wildfire event,is_associated_with,migration
+W2470194203,displacement,is_associated_with,humanitarian emergencies
+W2212009327,wildfire smoke,causes,PM2.5
+W2212009327,PM2.5,increases_risk_of,asthma hospitalizations
+W2212009327,PM2.5,increases_risk_of,COPD exacerbations
+W2212009327,PM2.5,increases_risk_of,pneumonia
+W2212009327,PM2.5,increases_risk_of,all-cause respiratory hospitalizations
+W2212009327,PM2.5,is_associated_with,all-cause mortality
+W2212009327,wildfire smoke,exacerbates,respiratory health effects
+W2794950304,climate change,causes,heatwaves
+W2794950304,heatwaves,causes,mortality

@@ -1,0 +1,7 @@
+step,rows_before,rows_removed,rows_after,note
+Drop missing title,2000,0,2000,
+Deduplicate by DOI,2000,1,1999,"1949 had DOI, 51 did not"
+Deduplicate by OpenAlex ID,1999,0,1999,
+Filter by year range,1999,0,1999,2000–2024
+Flag missing abstract,1999,0,1999,211 flagged (not removed)
+TOTAL,2000,1,1999,0.1% removed overall

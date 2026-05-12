@@ -1,0 +1,101 @@
+iso2,country,region,region_mentions,author_mentions,research_share,risk_share,rds,rrmi,log_rrmi,mismatch_tier
+CD,DR Congo,Sub-Saharan Africa,1.94,1,0.1382,6.9162,6.778,0.02,-1.699,Severe deficit
+AO,Angola,Sub-Saharan Africa,1.94,0,0.1382,6.3466,6.2084,0.0218,-1.6615,Severe deficit
+MZ,Mozambique,Sub-Saharan Africa,1.94,1,0.1382,5.0448,4.9066,0.0274,-1.5622,Severe deficit
+TZ,Tanzania,Sub-Saharan Africa,2.27,2,0.1617,4.7193,4.5576,0.0343,-1.4647,Severe deficit
+ZM,Zambia,Sub-Saharan Africa,1.94,1,0.1382,4.3124,4.1742,0.032,-1.4949,Severe deficit
+NG,Nigeria,Sub-Saharan Africa,8.93,4,0.6361,3.987,3.3509,0.1595,-0.7972,Severe deficit
+ZW,Zimbabwe,Sub-Saharan Africa,0.0,2,0.0,3.336,3.336,0.0,-2.0,Severe deficit
+SD,Sudan,Sub-Saharan Africa,0.0,1,0.0,3.0919,3.0919,0.0,-2.0,Severe deficit
+SS,South Sudan,Sub-Saharan Africa,1.94,0,0.1382,2.8478,2.7096,0.0485,-1.3143,Severe deficit
+CF,Central Afr. Rep.,Sub-Saharan Africa,1.94,0,0.1382,2.6037,2.4655,0.0531,-1.2749,Severe deficit
+BO,Bolivia,South America,1.25,0,0.089,2.441,2.352,0.0365,-1.4377,Severe deficit
+RU,Russia,Russia & C. Asia,20.99,6,1.4953,3.6615,2.1662,0.4084,-0.3889,High deficit
+MG,Madagascar,Sub-Saharan Africa,0.0,0,0.0,1.4646,1.4646,0.0,-2.0,Severe deficit
+VE,Venezuela,South America,1.25,0,0.089,1.4646,1.3756,0.0608,-1.2161,Severe deficit
+ET,Ethiopia,Sub-Saharan Africa,11.6,6,0.8263,2.1969,1.3706,0.3761,-0.4247,High deficit
+CG,Republic of Congo,Sub-Saharan Africa,1.94,0,0.1382,1.3832,1.245,0.0999,-1.0004,Severe deficit
+MM,Myanmar,Southeast Asia,1.0,0,0.0712,1.2205,1.1493,0.0583,-1.2343,Severe deficit
+CO,Colombia,South America,1.58,5,0.1126,1.2205,1.1079,0.0923,-1.0348,Severe deficit
+CM,Cameroon,Sub-Saharan Africa,2.27,1,0.1617,1.2205,1.0588,0.1325,-0.8778,Severe deficit
+BF,Burkina Faso,Sub-Saharan Africa,1.94,0,0.1382,1.0578,0.9196,0.1306,-0.8841,Severe deficit
+GH,Ghana,Sub-Saharan Africa,10.27,4,0.7316,1.6273,0.8957,0.4496,-0.3472,High deficit
+PE,Peru,South America,1.25,0,0.089,0.9764,0.8874,0.0912,-1.04,Severe deficit
+ML,Mali,Sub-Saharan Africa,1.94,0,0.1382,0.9764,0.8382,0.1415,-0.8492,Severe deficit
+BR,Brazil,South America,79.91,48,5.6925,6.5094,0.8169,0.8745,-0.0582,Moderate deficit
+PG,Papua New Guinea,Australasia,0.0,0,0.0,0.8137,0.8137,0.0,-2.0,Severe deficit
+AR,Argentina,South America,1.58,3,0.1126,0.8137,0.7011,0.1384,-0.8589,Severe deficit
+KZ,Kazakhstan,Russia & C. Asia,0.0,1,0.0,0.6509,0.6509,0.0,-2.0,Severe deficit
+TH,Thailand,Southeast Asia,1.66,11,0.1183,0.7323,0.614,0.1615,-0.7918,Severe deficit
+PY,Paraguay,South America,1.25,0,0.089,0.6509,0.5619,0.1367,-0.8642,Severe deficit
+ID,Indonesia,Southeast Asia,32.66,7,2.3266,2.8478,0.5212,0.817,-0.0878,Moderate deficit
+VN,Vietnam,Southeast Asia,1.0,0,0.0712,0.5696,0.4984,0.125,-0.9031,Severe deficit
+NA,Namibia,Sub-Saharan Africa,4.94,0,0.3519,0.8137,0.4618,0.4325,-0.364,High deficit
+MN,Mongolia,Russia & C. Asia,0.0,0,0.0,0.4068,0.4068,0.0,-2.0,Severe deficit
+ZA,South Africa,Sub-Saharan Africa,28.23,23,2.011,2.3596,0.3486,0.8523,-0.0694,Moderate deficit
+DZ,Algeria,MENA,1.33,1,0.0947,0.4068,0.3121,0.2328,-0.633,High deficit
+PH,Philippines,Southeast Asia,1.66,3,0.1183,0.4068,0.2885,0.2908,-0.5364,High deficit
+KH,Cambodia,Southeast Asia,1.0,0,0.0712,0.3255,0.2543,0.2187,-0.6602,High deficit
+MA,Morocco,MENA,1.33,3,0.0947,0.3255,0.2308,0.2909,-0.5363,High deficit
+KE,Kenya,Sub-Saharan Africa,10.93,7,0.7786,0.895,0.1164,0.8699,-0.0605,Moderate deficit
+TR,Turkey,Mediterranean,5.83,3,0.4153,0.4882,0.0729,0.8507,-0.0702,Moderate deficit
+PA,PA,—,0.0,1,0.0,0.0,0.0,0.0,-2.0,Low risk
+PR,PR,—,0.0,1,0.0,0.0,0.0,0.0,-2.0,Low risk
+SG,SG,—,0.0,3,0.0,0.0,0.0,0.0,-2.0,Low risk
+IS,IS,—,0.0,1,0.0,0.0,0.0,0.0,-2.0,Low risk
+IQ,IQ,—,0.0,3,0.0,0.0,0.0,0.0,-2.0,Low risk
+LB,LB,—,0.0,1,0.0,0.0,0.0,0.0,-2.0,Low risk
+EC,EC,—,0.0,2,0.0,0.0,0.0,0.0,-2.0,Low risk
+SZ,SZ,—,0.0,1,0.0,0.0,0.0,0.0,-2.0,Low risk
+HK,HK,—,0.0,3,0.0,0.0,0.0,0.0,-2.0,Low risk
+UG,UG,—,0.0,1,0.0,0.0,0.0,0.0,-2.0,Low risk
+NP,NP,—,0.0,4,0.0,0.0,0.0,0.0,-2.0,Low risk
+BD,BD,—,0.33,5,0.0235,0.0,-0.0235,23.5,1.3711,Low risk
+CY,CY,—,0.33,6,0.0235,0.0,-0.0235,23.5,1.3711,Low risk
+SK,SK,—,0.33,2,0.0235,0.0,-0.0235,23.5,1.3711,Low risk
+UY,UY,—,0.33,1,0.0235,0.0,-0.0235,23.5,1.3711,Low risk
+QA,QA,—,0.33,1,0.0235,0.0,-0.0235,23.5,1.3711,Low risk
+LU,LU,—,0.33,1,0.0235,0.0,-0.0235,23.5,1.3711,Low risk
+HR,HR,—,0.33,1,0.0235,0.0,-0.0235,23.5,1.3711,Low risk
+HU,HU,—,0.33,3,0.0235,0.0,-0.0235,23.5,1.3711,Low risk
+LT,LT,—,0.33,1,0.0235,0.0,-0.0235,23.5,1.3711,Low risk
+IR,IR,—,0.33,3,0.0235,0.0,-0.0235,23.5,1.3711,Low risk
+EG,EG,—,0.33,4,0.0235,0.0,-0.0235,23.5,1.3711,Low risk
+EE,EE,—,0.33,2,0.0235,0.0,-0.0235,23.5,1.3711,Low risk
+KW,KW,—,0.33,1,0.0235,0.0,-0.0235,23.5,1.3711,Low risk
+PK,PK,—,0.66,7,0.047,0.0,-0.047,47.0,1.6721,Low risk
+IL,IL,—,0.66,7,0.047,0.0,-0.047,47.0,1.6721,Low risk
+RS,RS,—,0.66,2,0.047,0.0,-0.047,47.0,1.6721,Low risk
+JO,JO,—,0.66,2,0.047,0.0,-0.047,47.0,1.6721,Low risk
+TW,TW,—,0.66,2,0.047,0.0,-0.047,47.0,1.6721,Low risk
+PL,PL,—,0.66,3,0.047,0.0,-0.047,47.0,1.6721,Low risk
+JP,JP,—,0.99,12,0.0705,0.0,-0.0705,70.5,1.8482,Low risk
+MY,MY,—,0.99,7,0.0705,0.0,-0.0705,70.5,1.8482,Low risk
+KR,KR,—,1.32,6,0.094,0.0,-0.094,94.0,1.9731,Low risk
+SA,SA,—,1.32,7,0.094,0.0,-0.094,94.0,1.9731,Low risk
+RO,RO,—,1.32,6,0.094,0.0,-0.094,94.0,1.9731,Low risk
+CZ,CZ,—,1.32,6,0.094,0.0,-0.094,94.0,1.9731,Low risk
+DK,DK,—,1.65,7,0.1175,0.0,-0.1175,117.5,2.0,Low risk
+NO,NO,—,1.65,11,0.1175,0.0,-0.1175,117.5,2.0,Low risk
+IE,IE,—,1.65,18,0.1175,0.0,-0.1175,117.5,2.0,Low risk
+BE,BE,—,1.98,11,0.141,0.0,-0.141,141.0,2.0,Low risk
+AT,AT,—,1.98,15,0.141,0.0,-0.141,141.0,2.0,Low risk
+CH,Switzerland,Europe (other),3.3,21,0.2351,0.0407,-0.1944,5.7764,0.7617,Low risk
+FI,FI,—,4.29,25,0.3056,0.0,-0.3056,305.6,2.0,Low risk
+NL,Netherlands,Europe (other),5.28,29,0.3761,0.0407,-0.3354,9.2408,0.9657,Low risk
+CL,Chile,South America,12.58,7,0.8962,0.4882,-0.408,1.8357,0.2638,Research surplus
+MX,Mexico,North America,19.99,5,1.424,0.8137,-0.6103,1.75,0.243,Research surplus
+NZ,New Zealand,Australasia,13.64,18,0.9717,0.2441,-0.7276,3.9807,0.6,Major surplus
+SE,Sweden,Europe (other),20.29,23,1.4454,0.1627,-1.2827,8.8838,0.9486,Major surplus
+FR,France,Mediterranean,24.64,14,1.7553,0.2441,-1.5112,7.1909,0.8568,Major surplus
+IN,India,South Asia,40.62,34,2.8936,1.2205,-1.6731,2.3708,0.3749,Research surplus
+PT,Portugal,Mediterranean,34.98,20,2.4919,0.7323,-1.7596,3.4028,0.5318,Major surplus
+GR,Greece,Mediterranean,35.82,16,2.5517,0.6509,-1.9008,3.9203,0.5933,Major surplus
+IT,Italy,Mediterranean,35.6,33,2.536,0.4882,-2.0478,5.1946,0.7156,Major surplus
+DE,Germany,Europe (other),30.25,66,2.1549,0.0814,-2.0735,26.473,1.4228,Major surplus
+CN,China,East Asia,56.58,64,4.0306,1.4646,-2.566,2.752,0.4396,Research surplus
+ES,Spain,Mediterranean,48.58,45,3.4607,0.5696,-2.8911,6.0757,0.7836,Major surplus
+GB,United Kingdom,Europe (other),45.8,119,3.2626,0.0814,-3.1812,40.0811,1.6029,Major surplus
+CA,Canada,North America,117.21,116,8.3497,2.0342,-6.3155,4.1047,0.6133,Major surplus
+AU,Australia,Australasia,149.85,152,10.6748,3.6615,-7.0133,2.9154,0.4647,Research surplus
+US,United States,North America,426.62,560,30.391,2.8478,-27.5432,10.6717,1.0282,Major surplus

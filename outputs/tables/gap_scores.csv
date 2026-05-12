@@ -1,0 +1,17 @@
+rank,label,n_papers,attention_score,relevance_weight,norm_attention,gap_score,category
+1,reproductive,40,0.0797,0.92,0.1674,0.766,health_outcome
+2,neurological,42,0.0837,0.9,0.1758,0.7418,health_outcome
+3,mental_health,96,0.1912,0.88,0.4016,0.5266,health_outcome
+4,burns_injury,9,0.0179,0.45,0.0376,0.4331,health_outcome
+5,cardiovascular,134,0.2669,0.8,0.5606,0.3515,health_outcome
+6,mortality,139,0.2769,0.75,0.5816,0.3138,health_outcome
+7,respiratory,239,0.4761,0.65,1.0,0.0,health_outcome
+1,homeless,6,0.012,0.95,0.0558,0.897,vulnerable_population
+2,indigenous,35,0.0697,0.95,0.324,0.6422,vulnerable_population
+3,racial_minorities,30,0.0598,0.85,0.278,0.6137,vulnerable_population
+4,pregnant,36,0.0717,0.9,0.3333,0.6,vulnerable_population
+5,rural,42,0.0837,0.8,0.3891,0.4887,vulnerable_population
+6,outdoor_workers,66,0.1315,0.75,0.6113,0.2915,vulnerable_population
+7,low_income,89,0.1773,0.87,0.8243,0.1529,vulnerable_population
+8,elderly,89,0.1773,0.7,0.8243,0.123,vulnerable_population
+9,children,108,0.2151,0.72,1.0,0.0,vulnerable_population

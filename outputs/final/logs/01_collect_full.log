@@ -1,0 +1,9 @@
+2026-04-06 20:42:40,502  INFO      === 01_collect.py started (source: openalex | mode: FULL) ===
+2026-04-06 20:42:40,502  INFO      Search query: (wildfire OR "forest fire" OR "burn severity" OR "fire regime" OR "wildland fire" OR "vegetation fire") AND (health OR mortality OR morbidity OR respiratory OR asthma OR cardiovascular OR "mental health" OR hospitalization OR "smoke exposure" OR PM2.5) AND (children OR elderly OR "older adults" OR Indigenous OR low-income OR "rural communities" OR pregnant OR workers OR "outdoor workers") AND (genomics OR genome OR genetic OR genetics OR adaptation OR evolutionary OR "population genomics")
+2026-04-06 20:42:40,502  INFO      Filters:      from_publication_date:2000-01-01,to_publication_date:2024-12-31,is_paratext:false,type:article
+2026-04-06 20:42:40,502  INFO      Querying OpenAlex…
+2026-04-06 20:42:44,383  INFO      OpenAlex reports 17082 matching works; will fetch up to 2000
+Fetching:   0%|          | 0/2000 [00:00<?, ?works/s]Fetching:  10%|█         | 201/2000 [00:02<00:22, 80.61works/s]Fetching:  20%|██        | 401/2000 [00:04<00:19, 81.84works/s]Fetching:  30%|███       | 601/2000 [00:07<00:17, 80.55works/s]Fetching:  40%|████      | 801/2000 [00:10<00:15, 78.48works/s]Fetching:  50%|█████     | 1001/2000 [00:12<00:12, 81.13works/s]Fetching:  60%|██████    | 1201/2000 [00:14<00:09, 85.43works/s]Fetching:  70%|███████   | 1401/2000 [00:16<00:06, 87.80works/s]Fetching:  80%|████████  | 1601/2000 [00:19<00:04, 83.56works/s]Fetching:  90%|█████████ | 1801/2000 [00:21<00:02, 82.01works/s]Fetching: 100%|██████████| 2000/2000 [00:21<00:00, 91.57works/s]
+2026-04-06 20:43:06,238  INFO      Collected 2000 records across 10 pages.
+2026-04-06 20:43:06,274  INFO      Saved 2000 records → /Users/wenhuan/Documents/Project_Claude/wildfire-lit-review/data/raw/results_raw.csv
+2026-04-06 20:43:06,274  INFO      === 01_collect.py finished ===

@@ -1,0 +1,30 @@
+2026-04-06 20:43:19,224  INFO      === 03_classify.py started ===
+2026-04-06 20:43:19,257  INFO      Loaded 1999 records from /Users/wenhuan/Documents/Project_Claude/wildfire-lit-review/data/processed/results_clean.csv
+2026-04-06 20:43:19,257  INFO      Running rule-based classification…
+2026-04-06 20:43:19,768  INFO      Rule-based classification complete.
+2026-04-06 20:43:19,768  INFO      LLM classification disabled (set classify.use_llm: true to enable).
+2026-04-06 20:43:19,797  INFO      Saved classified data → /Users/wenhuan/Documents/Project_Claude/wildfire-lit-review/data/classified/results_classified.csv
+2026-04-06 20:43:19,809  INFO      Saved classification summary → /Users/wenhuan/Documents/Project_Claude/wildfire-lit-review/outputs/tables/classification_summary.csv
+2026-04-06 20:43:19,810  INFO      
+--- primary_topic distribution ---
+primary_topic
+other                     826
+wildfire_exposure         396
+vulnerable_populations    247
+air_quality_pm25          201
+mental_health              94
+burn_severity_ecology      90
+respiratory_health         64
+mortality                  64
+cardiovascular_health      17
+2026-04-06 20:43:19,810  INFO      
+--- has_health_component ---
+has_health_component
+False    1440
+True      559
+2026-04-06 20:43:19,810  INFO      
+--- mentions_vulnerable_pop ---
+mentions_vulnerable_pop
+False    1323
+True      676
+2026-04-06 20:43:19,810  INFO      === 03_classify.py finished ===
