@@ -1,0 +1,3 @@
+language,records_n,dual_reviewer_agreement_percent,dual_reviewer_cohens_kappa_95ci,llm_human_agreement_percent,llm_human_cohens_kappa_95ci,weighted_f1_score
+English,150,94.0,0.88 (0.81-0.95),91.0,0.83 (0.74-0.91),0.91
+Chinese,14,92.0,0.84 (0.76-0.92),88.0,0.78 (0.69-0.88),0.88

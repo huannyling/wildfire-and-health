@@ -1,0 +1,5 @@
+rule,rule_label,health_studies,studies_with_mapped_credit,fallback_studies,unmapped_studies,total_research_credit
+study_region_only,Study region only,525,459,0,66,459.0
+first_author_only,First-author country only,525,426,0,99,426.0
+location_primary_author_fallback_full,Location primary + full author fallback,525,512,53,13,512.0
+location_primary_author_fallback_third,Location primary + one-third author fallback,525,512,53,13,476.6666666666667

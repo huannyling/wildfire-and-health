@@ -1,0 +1,65 @@
+﻿country_code,country,region,risk_score,risk_share,research_credit,research_share,research_deficit_score,rrmi,status
+CD,DR Congo,Sub-Saharan Africa,8.5,0.06916192,0.05,9.542e-05,0.0690665,0.00138,under_studied
+AO,Angola,Sub-Saharan Africa,7.8,0.06346623,0.05,9.542e-05,0.06337081,0.001503,under_studied
+MZ,Mozambique,Sub-Saharan Africa,6.2,0.05044752,1.05,0.00200382,0.0484437,0.039721,under_studied
+TZ,Tanzania,Sub-Saharan Africa,5.8,0.04719284,0.05,9.542e-05,0.04709742,0.002022,under_studied
+ZM,Zambia,Sub-Saharan Africa,5.3,0.04312449,0.05,9.542e-05,0.04302907,0.002213,under_studied
+NG,Nigeria,Sub-Saharan Africa,4.9,0.03986981,0.383333,0.00073155,0.03913826,0.018349,under_studied
+ZW,Zimbabwe,Sub-Saharan Africa,4.1,0.03336046,0,0.0,0.03336046,0.0,under_studied
+SD,Sudan,Sub-Saharan Africa,3.8,0.03091945,0,0.0,0.03091945,0.0,under_studied
+SS,South Sudan,Sub-Saharan Africa,3.5,0.02847844,0.05,9.542e-05,0.02838302,0.003351,under_studied
+BR,Brazil,South America,8.0,0.06509357,20.325,0.03878817,0.0263054,0.595883,under_studied
+CF,Central African Republic,Sub-Saharan Africa,3.2,0.02603743,0.05,9.542e-05,0.02594201,0.003665,under_studied
+BO,Bolivia,South America,3.0,0.02441009,0.125,0.00023855,0.02417154,0.009773,under_studied
+ET,Ethiopia,Sub-Saharan Africa,2.7,0.02196908,0.05,9.542e-05,0.02187366,0.004343,under_studied
+ZA,South Africa,Sub-Saharan Africa,2.9,0.02359642,1.05,0.00200382,0.0215926,0.08492,under_studied
+RU,Russia,Russia & Central Asia,4.5,0.03661513,9.333333,0.0178117,0.01880343,0.486457,under_studied
+GH,Ghana,Sub-Saharan Africa,2.0,0.01627339,0.05,9.542e-05,0.01617797,0.005864,under_studied
+MG,Madagascar,Sub-Saharan Africa,1.8,0.01464605,0,0.0,0.01464605,0.0,under_studied
+VE,Venezuela,South America,1.8,0.01464605,0.125,0.00023855,0.0144075,0.016288,under_studied
+CG,Republic of Congo,Sub-Saharan Africa,1.7,0.01383238,0.05,9.542e-05,0.01373696,0.006898,under_studied
+CM,Cameroon,Sub-Saharan Africa,1.5,0.01220504,0.05,9.542e-05,0.01210962,0.007818,under_studied
+MM,Myanmar,Southeast Asia,1.5,0.01220504,0.642857,0.00122683,0.01097822,0.100518,under_studied
+BF,Burkina Faso,Sub-Saharan Africa,1.3,0.01057771,0.05,9.542e-05,0.01048229,0.009021,under_studied
+CO,Colombia,South America,1.5,0.01220504,1.125,0.00214695,0.0100581,0.175906,under_studied
+ML,Mali,Sub-Saharan Africa,1.2,0.00976404,0.05,9.542e-05,0.00966862,0.009773,under_studied
+PE,Peru,South America,1.2,0.00976404,0.125,0.00023855,0.00952549,0.024431,under_studied
+KE,Kenya,Sub-Saharan Africa,1.1,0.00895037,0.05,9.542e-05,0.00885495,0.010661,under_studied
+IN,India,South Asia,1.5,0.01220504,1.833333,0.00349873,0.00870632,0.286662,under_studied
+PG,Papua New Guinea,Australasia,1.0,0.0081367,0,0.0,0.0081367,0.0,under_studied
+NA,Namibia,Sub-Saharan Africa,1.0,0.0081367,0.05,9.542e-05,0.00804128,0.011727,under_studied
+KZ,Kazakhstan,Russia & Central Asia,0.8,0.00650936,0,0.0,0.00650936,0.0,under_studied
+PY,Paraguay,South America,0.8,0.00650936,0.125,0.00023855,0.00627081,0.036647,under_studied
+AR,Argentina,South America,1.0,0.0081367,1.125,0.00214695,0.00598975,0.26386,under_studied
+TH,Thailand,Southeast Asia,0.9,0.00732303,1.642857,0.00313522,0.0041878,0.428132,under_studied
+DZ,Algeria,MENA,0.5,0.00406835,0,0.0,0.00406835,0.0,under_studied
+MN,Mongolia,Russia & Central Asia,0.5,0.00406835,0,0.0,0.00406835,0.0,under_studied
+MA,Morocco,MENA,0.4,0.00325468,0,0.0,0.00325468,0.0,under_studied
+MX,Mexico,North America,1.0,0.0081367,2.716667,0.00518448,0.00295222,0.637172,under_studied
+PH,Philippines,Southeast Asia,0.5,0.00406835,0.642857,0.00122683,0.00284152,0.301554,under_studied
+VN,Vietnam,Southeast Asia,0.7,0.00569569,1.642857,0.00313522,0.00256046,0.550456,under_studied
+NZ,New Zealand,Australasia,0.3,0.00244101,0,0.0,0.00244101,0.0,under_studied
+IT,Italy,Mediterranean,0.6,0.00488202,1.315909,0.00251128,0.00237074,0.514393,under_studied
+KH,Cambodia,Southeast Asia,0.4,0.00325468,0.642857,0.00122683,0.00202785,0.376942,under_studied
+TR,Turkey,Mediterranean,0.6,0.00488202,2.0,0.00381679,0.00106522,0.781807,under_studied
+SE,Sweden,Europe other,0.2,0.00162734,0.315909,0.00060288,0.00102446,0.37047,under_studied
+CH,Switzerland,Europe other,0.05,0.00040683,0,0.0,0.00040683,0.0,under_studied
+NL,Netherlands,Europe other,0.05,0.00040683,0,0.0,0.00040683,0.0,under_studied
+DE,Germany,Europe other,0.1,0.00081367,1.315909,0.00251128,-0.00169761,3.086359,over_studied
+KR,KR,,0,0.0,1.0,0.0019084,-0.0019084,0,under_studied
+NO,NO,,0,0.0,1.0,0.0019084,-0.0019084,0,under_studied
+NP,NP,,0,0.0,1.0,0.0019084,-0.0019084,0,under_studied
+FR,France,Mediterranean,0.3,0.00244101,2.315909,0.00441967,-0.00197866,1.810593,over_studied
+CL,Chile,South America,0.6,0.00488202,4.325,0.00825382,-0.0033718,1.690657,over_studied
+FI,FI,,0,0.0,2.0,0.00381679,-0.00381679,0,under_studied
+JP,JP,,0,0.0,2.0,0.00381679,-0.00381679,0,under_studied
+CN,China,East Asia,1.8,0.01464605,9.892857,0.0188795,-0.00423344,1.28905,over_studied
+ES,Spain,Mediterranean,0.7,0.00569569,5.315909,0.01014486,-0.00444918,1.781148,over_studied
+IL,IL,,0,0.0,5.0,0.00954198,-0.00954198,0,under_studied
+GB,United Kingdom,Europe other,0.1,0.00081367,5.649242,0.010781,-0.00996733,13.249845,over_studied
+GR,Greece,Mediterranean,0.8,0.00650936,11.315909,0.02159525,-0.01508589,3.31757,over_studied
+PT,Portugal,Mediterranean,0.9,0.00732303,12.315909,0.02350364,-0.01618062,3.209553,over_studied
+ID,Indonesia,Southeast Asia,3.5,0.02847844,31.97619,0.06102326,-0.03254483,2.142788,over_studied
+AU,Australia,Australasia,4.5,0.03661513,60.457576,0.11537705,-0.07876192,3.151076,over_studied
+CA,Canada,North America,2.5,0.02034174,64.524242,0.12313787,-0.10279613,6.053458,over_studied
+US,United States,North America,3.5,0.02847844,253.607576,0.48398392,-0.45550549,16.99475,over_studied

@@ -1,0 +1,5 @@
+comparison_to_full_fallback,spearman_rho_rrmi,top_10_deficit_overlap,severe_deficit_overlap,severe_deficit_count
+Study region only,0.993666475799335,10,34,38
+First-author country only,0.7785196921823191,9,33,36
+Location primary + full author fallback,1.0,10,34,34
+Location primary + one-third author fallback,0.9973984948434451,10,34,35

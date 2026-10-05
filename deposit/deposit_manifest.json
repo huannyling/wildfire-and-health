@@ -1,0 +1,13 @@
+{
+  "deposit_scope": "minimal derived reproducibility package",
+  "excluded_material": [
+    "full OpenAlex retrieval",
+    "article titles and abstracts",
+    "LLM prompt payloads",
+    "API keys and credentials",
+    "intermediate screening files",
+    "individual human annotations"
+  ],
+  "health_studies_n": 525,
+  "structured_records_n": 3916
+}

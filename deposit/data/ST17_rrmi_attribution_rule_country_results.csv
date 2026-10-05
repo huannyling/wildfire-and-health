@@ -1,0 +1,233 @@
+country_code,country,region,risk_share,research_credit,research_share,rrmi,research_deficit_score,rule,rule_label
+CD,DR Congo,Sub-Saharan Africa,0.06916192026037428,0.05,0.00010893246187363835,0.0015750352428553125,0.06905298779850064,study_region_only,Study region only
+AO,Angola,Sub-Saharan Africa,0.06346623270951993,0.05,0.00010893246187363835,0.0017163845595218148,0.06335730024764628,study_region_only,Study region only
+MZ,Mozambique,Sub-Saharan Africa,0.05044751830756713,1.05,0.0022875816993464053,0.04534577271768923,0.048159936608220724,study_region_only,Study region only
+TZ,Tanzania,Sub-Saharan Africa,0.047192839707078924,0.05,0.00010893246187363835,0.0023082413041845096,0.04708390724520529,study_region_only,Study region only
+ZM,Zambia,Sub-Saharan Africa,0.04312449145646867,0.05,0.00010893246187363835,0.002525999917786822,0.043015558994595034,study_region_only,Study region only
+NG,Nigeria,Sub-Saharan Africa,0.03986981285598047,0.3833333333333333,0.0008351488743645605,0.020946897277429488,0.03903466398161591,study_region_only,Study region only
+ZW,Zimbabwe,Sub-Saharan Africa,0.03336045565500406,0.0,0.0,0.0,0.03336045565500406,study_region_only,Study region only
+SD,Sudan,Sub-Saharan Africa,0.030919446704637914,0.0,0.0,0.0,0.030919446704637914,study_region_only,Study region only
+SS,South Sudan,Sub-Saharan Africa,0.028478437754271765,0.05,0.00010893246187363835,0.0038250855897914724,0.028369505292398126,study_region_only,Study region only
+CF,Central African Republic,Sub-Saharan Africa,0.026037428803905614,0.05,0.00010893246187363835,0.004183687363834423,0.025928496342031974,study_region_only,Study region only
+ZA,South Africa,Sub-Saharan Africa,0.023596419853539462,1.05,0.0022875816993464053,0.09694613477574938,0.021308838154193058,study_region_only,Study region only
+ET,Ethiopia,Sub-Saharan Africa,0.021969080553295363,0.05,0.00010893246187363835,0.004958444283063019,0.021860148091421724,study_region_only,Study region only
+GH,Ghana,Sub-Saharan Africa,0.01627339300244101,0.05,0.00010893246187363835,0.006693899782135077,0.01616446054056737,study_region_only,Study region only
+MG,Madagascar,Sub-Saharan Africa,0.014646053702196907,0.0,0.0,0.0,0.014646053702196907,study_region_only,Study region only
+CG,Republic of Congo,Sub-Saharan Africa,0.013832384052074856,0.05,0.00010893246187363835,0.007875176214276561,0.013723451590201217,study_region_only,Study region only
+CM,Cameroon,Sub-Saharan Africa,0.012205044751830756,0.05,0.00010893246187363835,0.008925199709513436,0.012096112289957116,study_region_only,Study region only
+BF,Burkina Faso,Sub-Saharan Africa,0.010577705451586655,0.05,0.00010893246187363835,0.010298307357130889,0.010468772989713016,study_region_only,Study region only
+ML,Mali,Sub-Saharan Africa,0.009764035801464604,0.05,0.00010893246187363835,0.011156499636891797,0.009655103339590965,study_region_only,Study region only
+KE,Kenya,Sub-Saharan Africa,0.008950366151342556,0.05,0.00010893246187363835,0.01217072687660923,0.008841433689468917,study_region_only,Study region only
+NA,Namibia,Sub-Saharan Africa,0.008136696501220505,0.05,0.00010893246187363835,0.013387799564270154,0.008027764039346866,study_region_only,Study region only
+BR,Brazil,South America,0.06509357200976404,20.325,0.04428104575163398,0.680267565359477,0.020812526258130057,study_region_only,Study region only
+BO,Bolivia,South America,0.02441008950366151,0.125,0.0002723311546840959,0.011156499636891797,0.024137758348977415,study_region_only,Study region only
+VE,Venezuela,South America,0.014646053702196907,0.125,0.0002723311546840959,0.018594166061486325,0.014373722547512811,study_region_only,Study region only
+CO,Colombia,South America,0.012205044751830756,0.125,0.0002723311546840959,0.022312999273783593,0.01193271359714666,study_region_only,Study region only
+PE,Peru,South America,0.009764035801464604,0.125,0.0002723311546840959,0.02789124909222949,0.009491704646780508,study_region_only,Study region only
+AR,Argentina,South America,0.008136696501220505,0.125,0.0002723311546840959,0.03346949891067538,0.007864365346536409,study_region_only,Study region only
+PY,Paraguay,South America,0.006509357200976403,0.125,0.0002723311546840959,0.041836873638344235,0.006237026046292307,study_region_only,Study region only
+CL,Chile,South America,0.004882017900732302,3.325,0.00724400871459695,1.4838144517066088,-0.002361990813864648,study_region_only,Study region only
+ID,Indonesia,Southeast Asia,0.028478437754271765,31.976190476190478,0.06966490299823634,2.4462333081380705,-0.041186465243964576,study_region_only,Study region only
+MM,Myanmar,Southeast Asia,0.012205044751830756,0.6428571428571428,0.0014005602240896356,0.11475256769374416,0.01080448452774112,study_region_only,Study region only
+TH,Thailand,Southeast Asia,0.007323026851098454,0.6428571428571428,0.0014005602240896356,0.19125427948957358,0.005922466627008818,study_region_only,Study region only
+VN,Vietnam,Southeast Asia,0.005695687550854352,0.6428571428571428,0.0014005602240896356,0.2458983593437375,0.004295127326764717,study_region_only,Study region only
+PH,Philippines,Southeast Asia,0.0040683482506102524,0.6428571428571428,0.0014005602240896356,0.34425770308123244,0.002667788026520617,study_region_only,Study region only
+KH,Cambodia,Southeast Asia,0.0032546786004882017,0.6428571428571428,0.0014005602240896356,0.4303221288515406,0.001854118376398566,study_region_only,Study region only
+RU,Russia,Russia & Central Asia,0.03661513425549227,8.333333333333332,0.018155410312273055,0.49584442830630193,0.018459723943219212,study_region_only,Study region only
+KZ,Kazakhstan,Russia & Central Asia,0.006509357200976403,0.0,0.0,0.0,0.006509357200976403,study_region_only,Study region only
+MN,Mongolia,Russia & Central Asia,0.0040683482506102524,0.0,0.0,0.0,0.0040683482506102524,study_region_only,Study region only
+US,United States,North America,0.028478437754271765,235.60757575757575,0.5133062652670496,18.024382857520113,-0.4848278275127778,study_region_only,Study region only
+CA,Canada,North America,0.02034174125305126,58.52424242424242,0.1275037961312471,6.2680866178121075,-0.10716205487819584,study_region_only,Study region only
+MX,Mexico,North America,0.008136696501220505,2.7166666666666663,0.005918663761801016,0.7274037763253448,0.002218032739419489,study_region_only,Study region only
+AU,Australia,Australasia,0.03661513425549227,52.45757575757575,0.11428665742391232,3.1212955994219613,-0.07767152316842005,study_region_only,Study region only
+PG,Papua New Guinea,Australasia,0.008136696501220505,0.0,0.0,0.0,0.008136696501220505,study_region_only,Study region only
+PT,Portugal,Mediterranean,0.007323026851098454,11.315909090909091,0.024653396712220242,3.3665582843687423,-0.01733036986112179,study_region_only,Study region only
+GR,Greece,Mediterranean,0.006509357200976403,11.315909090909091,0.024653396712220242,3.7873780699148347,-0.01814403951124384,study_region_only,Study region only
+ES,Spain,Mediterranean,0.005695687550854352,1.315909090909091,0.002866904337492573,0.5033464901111961,0.0028287832133617793,study_region_only,Study region only
+IT,Italy,Mediterranean,0.004882017900732302,0.3159090909090909,0.0006882551000198059,0.1409775863207236,0.004193762800712496,study_region_only,Study region only
+TR,Turkey,Mediterranean,0.004882017900732302,1.0,0.002178649237472767,0.44625998547567186,0.002703368663259535,study_region_only,Study region only
+FR,France,Mediterranean,0.002441008950366151,1.315909090909091,0.002866904337492573,1.174475143592791,-0.000425895387126422,study_region_only,Study region only
+CN,China,East Asia,0.014646053702196907,4.892857142857142,0.010659819483348895,0.7278287858353218,0.003986234218848013,study_region_only,Study region only
+IN,India,South Asia,0.012205044751830756,0.8333333333333333,0.0018155410312273056,0.14875332849189057,0.01038950372060345,study_region_only,Study region only
+MA,Morocco,MENA,0.0032546786004882017,0.0,0.0,0.0,0.0032546786004882017,study_region_only,Study region only
+DZ,Algeria,MENA,0.0040683482506102524,0.0,0.0,0.0,0.0040683482506102524,study_region_only,Study region only
+GB,United Kingdom,Europe other,0.0008136696501220504,5.649242424242424,0.012307717699874564,15.12618505314584,-0.011494048049752513,study_region_only,Study region only
+DE,Germany,Europe other,0.0008136696501220504,0.3159090909090909,0.0006882551000198059,0.8458655179243415,0.00012541455010224448,study_region_only,Study region only
+NZ,New Zealand,Australasia,0.002441008950366151,0.0,0.0,0.0,0.002441008950366151,study_region_only,Study region only
+SE,Sweden,Europe other,0.0016273393002441008,0.3159090909090909,0.0006882551000198059,0.42293275896217075,0.0009390842002242949,study_region_only,Study region only
+NL,Netherlands,Europe other,0.0004068348250610252,0.0,0.0,0.0,0.0004068348250610252,study_region_only,Study region only
+CH,Switzerland,Europe other,0.0004068348250610252,0.0,0.0,0.0,0.0004068348250610252,study_region_only,Study region only
+CD,DR Congo,Sub-Saharan Africa,0.06916192026037428,0.0,0.0,0.0,0.06916192026037428,first_author_only,First-author country only
+AO,Angola,Sub-Saharan Africa,0.06346623270951993,0.0,0.0,0.0,0.06346623270951993,first_author_only,First-author country only
+MZ,Mozambique,Sub-Saharan Africa,0.05044751830756713,0.0,0.0,0.0,0.05044751830756713,first_author_only,First-author country only
+TZ,Tanzania,Sub-Saharan Africa,0.047192839707078924,1.0,0.002347417840375587,0.049740974583130974,0.04484542186670334,first_author_only,First-author country only
+ZM,Zambia,Sub-Saharan Africa,0.04312449145646867,0.0,0.0,0.0,0.04312449145646867,first_author_only,First-author country only
+NG,Nigeria,Sub-Saharan Africa,0.03986981285598047,0.0,0.0,0.0,0.03986981285598047,first_author_only,First-author country only
+ZW,Zimbabwe,Sub-Saharan Africa,0.03336045565500406,0.0,0.0,0.0,0.03336045565500406,first_author_only,First-author country only
+SD,Sudan,Sub-Saharan Africa,0.030919446704637914,0.0,0.0,0.0,0.030919446704637914,first_author_only,First-author country only
+SS,South Sudan,Sub-Saharan Africa,0.028478437754271765,0.0,0.0,0.0,0.028478437754271765,first_author_only,First-author country only
+CF,Central African Republic,Sub-Saharan Africa,0.026037428803905614,0.0,0.0,0.0,0.026037428803905614,first_author_only,First-author country only
+ZA,South Africa,Sub-Saharan Africa,0.023596419853539462,0.0,0.0,0.0,0.023596419853539462,first_author_only,First-author country only
+ET,Ethiopia,Sub-Saharan Africa,0.021969080553295363,0.0,0.0,0.0,0.021969080553295363,first_author_only,First-author country only
+GH,Ghana,Sub-Saharan Africa,0.01627339300244101,0.0,0.0,0.0,0.01627339300244101,first_author_only,First-author country only
+MG,Madagascar,Sub-Saharan Africa,0.014646053702196907,0.0,0.0,0.0,0.014646053702196907,first_author_only,First-author country only
+CG,Republic of Congo,Sub-Saharan Africa,0.013832384052074856,0.0,0.0,0.0,0.013832384052074856,first_author_only,First-author country only
+CM,Cameroon,Sub-Saharan Africa,0.012205044751830756,0.0,0.0,0.0,0.012205044751830756,first_author_only,First-author country only
+BF,Burkina Faso,Sub-Saharan Africa,0.010577705451586655,0.0,0.0,0.0,0.010577705451586655,first_author_only,First-author country only
+ML,Mali,Sub-Saharan Africa,0.009764035801464604,0.0,0.0,0.0,0.009764035801464604,first_author_only,First-author country only
+KE,Kenya,Sub-Saharan Africa,0.008950366151342556,0.0,0.0,0.0,0.008950366151342556,first_author_only,First-author country only
+NA,Namibia,Sub-Saharan Africa,0.008136696501220505,0.0,0.0,0.0,0.008136696501220505,first_author_only,First-author country only
+BR,Brazil,South America,0.06509357200976404,12.0,0.028169014084507043,0.4327464788732394,0.03692455792525699,first_author_only,First-author country only
+BO,Bolivia,South America,0.02441008950366151,0.0,0.0,0.0,0.02441008950366151,first_author_only,First-author country only
+VE,Venezuela,South America,0.014646053702196907,0.0,0.0,0.0,0.014646053702196907,first_author_only,First-author country only
+CO,Colombia,South America,0.012205044751830756,1.0,0.002347417840375587,0.19233176838810645,0.00985762691145517,first_author_only,First-author country only
+PE,Peru,South America,0.009764035801464604,0.0,0.0,0.0,0.009764035801464604,first_author_only,First-author country only
+AR,Argentina,South America,0.008136696501220505,2.0,0.004694835680751174,0.5769953051643192,0.003441860820469331,first_author_only,First-author country only
+PY,Paraguay,South America,0.006509357200976403,0.0,0.0,0.0,0.006509357200976403,first_author_only,First-author country only
+CL,Chile,South America,0.004882017900732302,4.0,0.009389671361502348,1.9233176838810646,-0.004507653460770046,first_author_only,First-author country only
+ID,Indonesia,Southeast Asia,0.028478437754271765,9.0,0.02112676056338028,0.741851106639839,0.007351677190891484,first_author_only,First-author country only
+MM,Myanmar,Southeast Asia,0.012205044751830756,0.0,0.0,0.0,0.012205044751830756,first_author_only,First-author country only
+TH,Thailand,Southeast Asia,0.007323026851098454,1.0,0.002347417840375587,0.3205529473135107,0.004975609010722867,first_author_only,First-author country only
+VN,Vietnam,Southeast Asia,0.005695687550854352,1.0,0.002347417840375587,0.41213950368879954,0.0033482697104787653,first_author_only,First-author country only
+PH,Philippines,Southeast Asia,0.0040683482506102524,1.0,0.002347417840375587,0.5769953051643192,0.0017209304102346655,first_author_only,First-author country only
+KH,Cambodia,Southeast Asia,0.0032546786004882017,0.0,0.0,0.0,0.0032546786004882017,first_author_only,First-author country only
+RU,Russia,Russia & Central Asia,0.03661513425549227,5.0,0.011737089201877934,0.3205529473135107,0.024878045053614333,first_author_only,First-author country only
+KZ,Kazakhstan,Russia & Central Asia,0.006509357200976403,0.0,0.0,0.0,0.006509357200976403,first_author_only,First-author country only
+MN,Mongolia,Russia & Central Asia,0.0040683482506102524,0.0,0.0,0.0,0.0040683482506102524,first_author_only,First-author country only
+US,United States,North America,0.028478437754271765,162.0,0.38028169014084506,13.353319919517103,-0.3518032523865733,first_author_only,First-author country only
+CA,Canada,North America,0.02034174125305126,64.0,0.15023474178403756,7.385539906103287,-0.1298930005309863,first_author_only,First-author country only
+MX,Mexico,North America,0.008136696501220505,1.0,0.002347417840375587,0.2884976525821596,0.005789278660844918,first_author_only,First-author country only
+AU,Australia,Australasia,0.03661513425549227,103.0,0.24178403755868544,6.603390714658321,-0.20516890330319318,first_author_only,First-author country only
+PG,Papua New Guinea,Australasia,0.008136696501220505,0.0,0.0,0.0,0.008136696501220505,first_author_only,First-author country only
+PT,Portugal,Mediterranean,0.007323026851098454,12.0,0.028169014084507043,3.8466353677621288,-0.020845987233408587,first_author_only,First-author country only
+GR,Greece,Mediterranean,0.006509357200976403,10.0,0.023474178403755867,3.606220657276995,-0.016964821202779465,first_author_only,First-author country only
+ES,Spain,Mediterranean,0.005695687550854352,7.0,0.01643192488262911,2.884976525821597,-0.010736237331774756,first_author_only,First-author country only
+IT,Italy,Mediterranean,0.004882017900732302,1.0,0.002347417840375587,0.48082942097026615,0.002534600060356715,first_author_only,First-author country only
+TR,Turkey,Mediterranean,0.004882017900732302,2.0,0.004694835680751174,0.9616588419405323,0.00018718221998112808,first_author_only,First-author country only
+FR,France,Mediterranean,0.002441008950366151,4.0,0.009389671361502348,3.846635367762129,-0.006948662411136197,first_author_only,First-author country only
+CN,China,East Asia,0.014646053702196907,9.0,0.02112676056338028,1.4424882629107982,-0.006480706861183374,first_author_only,First-author country only
+IN,India,South Asia,0.012205044751830756,1.0,0.002347417840375587,0.19233176838810645,0.00985762691145517,first_author_only,First-author country only
+MA,Morocco,MENA,0.0032546786004882017,0.0,0.0,0.0,0.0032546786004882017,first_author_only,First-author country only
+DZ,Algeria,MENA,0.0040683482506102524,0.0,0.0,0.0,0.0040683482506102524,first_author_only,First-author country only
+GB,United Kingdom,Europe other,0.0008136696501220504,10.0,0.023474178403755867,28.84976525821596,-0.022660508753633818,first_author_only,First-author country only
+DE,Germany,Europe other,0.0008136696501220504,2.0,0.004694835680751174,5.769953051643193,-0.0038811660306291235,first_author_only,First-author country only
+NZ,New Zealand,Australasia,0.002441008950366151,0.0,0.0,0.0,0.002441008950366151,first_author_only,First-author country only
+SE,Sweden,Europe other,0.0016273393002441008,0.0,0.0,0.0,0.0016273393002441008,first_author_only,First-author country only
+NL,Netherlands,Europe other,0.0004068348250610252,1.0,0.002347417840375587,5.769953051643193,-0.0019405830153145617,first_author_only,First-author country only
+CH,Switzerland,Europe other,0.0004068348250610252,0.0,0.0,0.0,0.0004068348250610252,first_author_only,First-author country only
+CD,DR Congo,Sub-Saharan Africa,0.06916192026037428,0.05,9.765625e-05,0.001411994485294118,0.06906426401037428,location_primary_author_fallback_full,Location primary + full author fallback
+AO,Angola,Sub-Saharan Africa,0.06346623270951993,0.05,9.765625e-05,0.0015387119391025645,0.06336857645951993,location_primary_author_fallback_full,Location primary + full author fallback
+MZ,Mozambique,Sub-Saharan Africa,0.05044751830756713,1.05,0.00205078125,0.04065177671370968,0.04839673705756713,location_primary_author_fallback_full,Location primary + full author fallback
+TZ,Tanzania,Sub-Saharan Africa,0.047192839707078924,0.05,9.765625e-05,0.002069302262931035,0.04709518345707892,location_primary_author_fallback_full,Location primary + full author fallback
+ZM,Zambia,Sub-Saharan Africa,0.04312449145646867,0.05,9.765625e-05,0.0022645194575471703,0.04302683520646867,location_primary_author_fallback_full,Location primary + full author fallback
+NG,Nigeria,Sub-Saharan Africa,0.03986981285598047,0.3833333333333333,0.0007486979166666666,0.01877856611394558,0.039121114939313806,location_primary_author_fallback_full,Location primary + full author fallback
+ZW,Zimbabwe,Sub-Saharan Africa,0.03336045565500406,0.0,0.0,0.0,0.03336045565500406,location_primary_author_fallback_full,Location primary + full author fallback
+SD,Sudan,Sub-Saharan Africa,0.030919446704637914,0.0,0.0,0.0,0.030919446704637914,location_primary_author_fallback_full,Location primary + full author fallback
+SS,South Sudan,Sub-Saharan Africa,0.028478437754271765,0.05,9.765625e-05,0.0034291294642857144,0.028380781504271764,location_primary_author_fallback_full,Location primary + full author fallback
+CF,Central African Republic,Sub-Saharan Africa,0.026037428803905614,0.05,9.765625e-05,0.0037506103515625,0.025939772553905612,location_primary_author_fallback_full,Location primary + full author fallback
+ZA,South Africa,Sub-Saharan Africa,0.023596419853539462,1.05,0.00205078125,0.08691069504310346,0.02154563860353946,location_primary_author_fallback_full,Location primary + full author fallback
+ET,Ethiopia,Sub-Saharan Africa,0.021969080553295363,0.05,9.765625e-05,0.0044451678240740745,0.02187142430329536,location_primary_author_fallback_full,Location primary + full author fallback
+GH,Ghana,Sub-Saharan Africa,0.01627339300244101,0.05,9.765625e-05,0.0060009765625000005,0.01617573675244101,location_primary_author_fallback_full,Location primary + full author fallback
+MG,Madagascar,Sub-Saharan Africa,0.014646053702196907,0.0,0.0,0.0,0.014646053702196907,location_primary_author_fallback_full,Location primary + full author fallback
+CG,Republic of Congo,Sub-Saharan Africa,0.013832384052074856,0.05,9.765625e-05,0.007059972426470589,0.013734727802074857,location_primary_author_fallback_full,Location primary + full author fallback
+CM,Cameroon,Sub-Saharan Africa,0.012205044751830756,0.05,9.765625e-05,0.008001302083333335,0.012107388501830756,location_primary_author_fallback_full,Location primary + full author fallback
+BF,Burkina Faso,Sub-Saharan Africa,0.010577705451586655,0.05,9.765625e-05,0.009232271634615387,0.010480049201586655,location_primary_author_fallback_full,Location primary + full author fallback
+ML,Mali,Sub-Saharan Africa,0.009764035801464604,0.05,9.765625e-05,0.010001627604166669,0.009666379551464604,location_primary_author_fallback_full,Location primary + full author fallback
+KE,Kenya,Sub-Saharan Africa,0.008950366151342556,0.05,9.765625e-05,0.010910866477272727,0.008852709901342556,location_primary_author_fallback_full,Location primary + full author fallback
+NA,Namibia,Sub-Saharan Africa,0.008136696501220505,0.05,9.765625e-05,0.012001953125000001,0.008039040251220505,location_primary_author_fallback_full,Location primary + full author fallback
+BR,Brazil,South America,0.06509357200976404,20.325,0.039697265625,0.6098492431640624,0.02539630638476404,location_primary_author_fallback_full,Location primary + full author fallback
+BO,Bolivia,South America,0.02441008950366151,0.125,0.000244140625,0.010001627604166667,0.02416594887866151,location_primary_author_fallback_full,Location primary + full author fallback
+VE,Venezuela,South America,0.014646053702196907,0.125,0.000244140625,0.01666937934027778,0.014401913077196907,location_primary_author_fallback_full,Location primary + full author fallback
+CO,Colombia,South America,0.012205044751830756,1.125,0.002197265625,0.18002929687500002,0.010007779126830756,location_primary_author_fallback_full,Location primary + full author fallback
+PE,Peru,South America,0.009764035801464604,0.125,0.000244140625,0.02500406901041667,0.009519895176464604,location_primary_author_fallback_full,Location primary + full author fallback
+AR,Argentina,South America,0.008136696501220505,1.125,0.002197265625,0.2700439453125,0.005939430876220505,location_primary_author_fallback_full,Location primary + full author fallback
+PY,Paraguay,South America,0.006509357200976403,0.125,0.000244140625,0.037506103515625,0.006265216575976403,location_primary_author_fallback_full,Location primary + full author fallback
+CL,Chile,South America,0.004882017900732302,4.325,0.008447265625,1.7302815755208336,-0.0035652477242676985,location_primary_author_fallback_full,Location primary + full author fallback
+ID,Indonesia,Southeast Asia,0.028478437754271765,31.976190476190478,0.06245349702380953,2.19300993835034,-0.03397505926953776,location_primary_author_fallback_full,Location primary + full author fallback
+MM,Myanmar,Southeast Asia,0.012205044751830756,0.6428571428571428,0.001255580357142857,0.10287388392857143,0.0109494643946879,location_primary_author_fallback_full,Location primary + full author fallback
+TH,Thailand,Southeast Asia,0.007323026851098454,1.642857142857143,0.0032087053571428575,0.43816654265873023,0.004114321493955596,location_primary_author_fallback_full,Location primary + full author fallback
+VN,Vietnam,Southeast Asia,0.005695687550854352,1.642857142857143,0.0032087053571428575,0.5633569834183675,0.0024869821937114948,location_primary_author_fallback_full,Location primary + full author fallback
+PH,Philippines,Southeast Asia,0.0040683482506102524,0.6428571428571428,0.001255580357142857,0.3086216517857142,0.0028127678934673954,location_primary_author_fallback_full,Location primary + full author fallback
+KH,Cambodia,Southeast Asia,0.0032546786004882017,0.6428571428571428,0.001255580357142857,0.38577706473214285,0.0019990982433453447,location_primary_author_fallback_full,Location primary + full author fallback
+RU,Russia,Russia & Central Asia,0.03661513425549227,9.333333333333332,0.018229166666666664,0.49785879629629626,0.018385967588825602,location_primary_author_fallback_full,Location primary + full author fallback
+KZ,Kazakhstan,Russia & Central Asia,0.006509357200976403,0.0,0.0,0.0,0.006509357200976403,location_primary_author_fallback_full,Location primary + full author fallback
+MN,Mongolia,Russia & Central Asia,0.0040683482506102524,0.0,0.0,0.0,0.0040683482506102524,location_primary_author_fallback_full,Location primary + full author fallback
+US,United States,North America,0.028478437754271765,253.6075757575758,0.49532729640151524,17.39306420792749,-0.46684885864724346,location_primary_author_fallback_full,Location primary + full author fallback
+CA,Canada,North America,0.02034174125305126,64.52424242424243,0.1260239109848485,6.195335464015153,-0.10568216973179724,location_primary_author_fallback_full,Location primary + full author fallback
+MX,Mexico,North America,0.008136696501220505,2.7166666666666663,0.005305989583333333,0.6521061197916665,0.002830706917887172,location_primary_author_fallback_full,Location primary + full author fallback
+AU,Australia,Australasia,0.03661513425549227,60.45757575757575,0.11808120265151514,3.2249288457491585,-0.08146606839602288,location_primary_author_fallback_full,Location primary + full author fallback
+PG,Papua New Guinea,Australasia,0.008136696501220505,0.0,0.0,0.0,0.008136696501220505,location_primary_author_fallback_full,Location primary + full author fallback
+PT,Portugal,Mediterranean,0.007323026851098454,12.315909090909091,0.02405450994318182,3.2847769689078286,-0.016731483092083367,location_primary_author_fallback_full,Location primary + full author fallback
+GR,Greece,Mediterranean,0.006509357200976403,11.315909090909091,0.02210138494318182,3.395325261896307,-0.015592027742205417,location_primary_author_fallback_full,Location primary + full author fallback
+ES,Spain,Mediterranean,0.005695687550854352,5.3159090909090905,0.010382634943181817,1.8228940493100652,-0.004686947392327465,location_primary_author_fallback_full,Location primary + full author fallback
+IT,Italy,Mediterranean,0.004882017900732302,1.315909090909091,0.002570134943181818,0.5264493075284091,0.0023118829575504837,location_primary_author_fallback_full,Location primary + full author fallback
+TR,Turkey,Mediterranean,0.004882017900732302,2.0,0.00390625,0.8001302083333335,0.0009757679007323019,location_primary_author_fallback_full,Location primary + full author fallback
+FR,France,Mediterranean,0.002441008950366151,2.315909090909091,0.004523259943181818,1.8530288233901517,-0.0020822509928156673,location_primary_author_fallback_full,Location primary + full author fallback
+CN,China,East Asia,0.014646053702196907,9.892857142857142,0.019321986607142856,1.3192623077876984,-0.004675932904945949,location_primary_author_fallback_full,Location primary + full author fallback
+IN,India,South Asia,0.012205044751830756,1.8333333333333333,0.0035807291666666665,0.2933810763888889,0.00862431558516409,location_primary_author_fallback_full,Location primary + full author fallback
+MA,Morocco,MENA,0.0032546786004882017,0.0,0.0,0.0,0.0032546786004882017,location_primary_author_fallback_full,Location primary + full author fallback
+DZ,Algeria,MENA,0.0040683482506102524,0.0,0.0,0.0,0.0040683482506102524,location_primary_author_fallback_full,Location primary + full author fallback
+GB,United Kingdom,Europe other,0.0008136696501220504,5.649242424242424,0.011033676609848485,13.560388553503788,-0.010220006959726434,location_primary_author_fallback_full,Location primary + full author fallback
+DE,Germany,Europe other,0.0008136696501220504,1.315909090909091,0.002570134943181818,3.1586958451704548,-0.0017564652930597679,location_primary_author_fallback_full,Location primary + full author fallback
+NZ,New Zealand,Australasia,0.002441008950366151,0.0,0.0,0.0,0.002441008950366151,location_primary_author_fallback_full,Location primary + full author fallback
+SE,Sweden,Europe other,0.0016273393002441008,0.3159090909090909,0.0006170099431818182,0.37915261008522727,0.0010103293570622827,location_primary_author_fallback_full,Location primary + full author fallback
+NL,Netherlands,Europe other,0.0004068348250610252,0.0,0.0,0.0,0.0004068348250610252,location_primary_author_fallback_full,Location primary + full author fallback
+CH,Switzerland,Europe other,0.0004068348250610252,0.0,0.0,0.0,0.0004068348250610252,location_primary_author_fallback_full,Location primary + full author fallback
+CD,DR Congo,Sub-Saharan Africa,0.06916192026037428,0.05,0.0001048951048951049,0.001516659810777458,0.06905702515547918,location_primary_author_fallback_third,Location primary + one-third author fallback
+AO,Angola,Sub-Saharan Africa,0.06346623270951993,0.05,0.0001048951048951049,0.0016527703066164608,0.06336133760462483,location_primary_author_fallback_third,Location primary + one-third author fallback
+MZ,Mozambique,Sub-Saharan Africa,0.05044751830756713,1.05,0.002202797202797203,0.04366512519738326,0.048244721104769926,location_primary_author_fallback_third,Location primary + one-third author fallback
+TZ,Tanzania,Sub-Saharan Africa,0.047192839707078924,0.05,0.0001048951048951049,0.002222691102001447,0.047087944602183816,location_primary_author_fallback_third,Location primary + one-third author fallback
+ZM,Zambia,Sub-Saharan Africa,0.04312449145646867,0.05,0.0001048951048951049,0.0024323789418129044,0.04301959635157356,location_primary_author_fallback_third,Location primary + one-third author fallback
+NG,Nigeria,Sub-Saharan Africa,0.03986981285598047,0.3833333333333333,0.0008041958041958041,0.020170543741972313,0.03906561705178467,location_primary_author_fallback_third,Location primary + one-third author fallback
+ZW,Zimbabwe,Sub-Saharan Africa,0.03336045565500406,0.0,0.0,0.0,0.03336045565500406,location_primary_author_fallback_third,Location primary + one-third author fallback
+SD,Sudan,Sub-Saharan Africa,0.030919446704637914,0.0,0.0,0.0,0.030919446704637914,location_primary_author_fallback_third,Location primary + one-third author fallback
+SS,South Sudan,Sub-Saharan Africa,0.028478437754271765,0.05,0.0001048951048951049,0.0036833166833166835,0.02837354264937666,location_primary_author_fallback_third,Location primary + one-third author fallback
+CF,Central African Republic,Sub-Saharan Africa,0.026037428803905614,0.05,0.0001048951048951049,0.004028627622377622,0.02593253369901051,location_primary_author_fallback_third,Location primary + one-third author fallback
+ZA,South Africa,Sub-Saharan Africa,0.023596419853539462,1.05,0.002202797202797203,0.09335302628406078,0.02139362265074226,location_primary_author_fallback_third,Location primary + one-third author fallback
+ET,Ethiopia,Sub-Saharan Africa,0.021969080553295363,0.05,0.0001048951048951049,0.004774669774669774,0.02186418544840026,location_primary_author_fallback_third,Location primary + one-third author fallback
+GH,Ghana,Sub-Saharan Africa,0.01627339300244101,0.05,0.0001048951048951049,0.006445804195804195,0.016168497897545906,location_primary_author_fallback_third,Location primary + one-third author fallback
+MG,Madagascar,Sub-Saharan Africa,0.014646053702196907,0.0,0.0,0.0,0.014646053702196907,location_primary_author_fallback_third,Location primary + one-third author fallback
+CG,Republic of Congo,Sub-Saharan Africa,0.013832384052074856,0.05,0.0001048951048951049,0.0075832990538872895,0.01372748894717975,location_primary_author_fallback_third,Location primary + one-third author fallback
+CM,Cameroon,Sub-Saharan Africa,0.012205044751830756,0.05,0.0001048951048951049,0.008594405594405595,0.01210014964693565,location_primary_author_fallback_third,Location primary + one-third author fallback
+BF,Burkina Faso,Sub-Saharan Africa,0.010577705451586655,0.05,0.0001048951048951049,0.009916621839698764,0.01047281034669155,location_primary_author_fallback_third,Location primary + one-third author fallback
+ML,Mali,Sub-Saharan Africa,0.009764035801464604,0.05,0.0001048951048951049,0.010743006993006995,0.009659140696569498,location_primary_author_fallback_third,Location primary + one-third author fallback
+KE,Kenya,Sub-Saharan Africa,0.008950366151342556,0.05,0.0001048951048951049,0.011719643992371263,0.00884547104644745,location_primary_author_fallback_third,Location primary + one-third author fallback
+NA,Namibia,Sub-Saharan Africa,0.008136696501220505,0.05,0.0001048951048951049,0.01289160839160839,0.0080318013963254,location_primary_author_fallback_third,Location primary + one-third author fallback
+BR,Brazil,South America,0.06509357200976404,20.325,0.04263986013986014,0.6550548513986013,0.0224537118699039,location_primary_author_fallback_third,Location primary + one-third author fallback
+BO,Bolivia,South America,0.02441008950366151,0.125,0.00026223776223776224,0.010743006993006994,0.02414785174142375,location_primary_author_fallback_third,Location primary + one-third author fallback
+VE,Venezuela,South America,0.014646053702196907,0.125,0.00026223776223776224,0.017905011655011654,0.014383815939959145,location_primary_author_fallback_third,Location primary + one-third author fallback
+CO,Colombia,South America,0.012205044751830756,0.4583333333333333,0.0009615384615384615,0.07878205128205129,0.011243506290292294,location_primary_author_fallback_third,Location primary + one-third author fallback
+PE,Peru,South America,0.009764035801464604,0.125,0.00026223776223776224,0.026857517482517485,0.009501798039226841,location_primary_author_fallback_third,Location primary + one-third author fallback
+AR,Argentina,South America,0.008136696501220505,0.4583333333333333,0.0009615384615384615,0.11817307692307691,0.007175158039682043,location_primary_author_fallback_third,Location primary + one-third author fallback
+PY,Paraguay,South America,0.006509357200976403,0.125,0.00026223776223776224,0.04028627622377622,0.0062471194387386415,location_primary_author_fallback_third,Location primary + one-third author fallback
+CL,Chile,South America,0.004882017900732302,3.658333333333333,0.007674825174825174,1.5720600233100235,-0.002792807274092872,location_primary_author_fallback_third,Location primary + one-third author fallback
+ID,Indonesia,Southeast Asia,0.028478437754271765,31.976190476190478,0.06708291708291708,2.3555687169972885,-0.038604479328645316,location_primary_author_fallback_third,Location primary + one-third author fallback
+MM,Myanmar,Southeast Asia,0.012205044751830756,0.6428571428571428,0.0013486513486513484,0.1104995004995005,0.010856393403179407,location_primary_author_fallback_third,Location primary + one-third author fallback
+TH,Thailand,Southeast Asia,0.007323026851098454,0.976190476190476,0.0020479520479520477,0.2796592296592296,0.005275074803146406,location_primary_author_fallback_third,Location primary + one-third author fallback
+VN,Vietnam,Southeast Asia,0.005695687550854352,0.976190476190476,0.0020479520479520477,0.35956186670472384,0.0036477355029023045,location_primary_author_fallback_third,Location primary + one-third author fallback
+PH,Philippines,Southeast Asia,0.0040683482506102524,0.6428571428571428,0.0013486513486513484,0.3314985014985014,0.002719696901958904,location_primary_author_fallback_third,Location primary + one-third author fallback
+KH,Cambodia,Southeast Asia,0.0032546786004882017,0.6428571428571428,0.0013486513486513484,0.41437312687312683,0.0019060272518368533,location_primary_author_fallback_third,Location primary + one-third author fallback
+RU,Russia,Russia & Central Asia,0.03661513425549227,8.666666666666666,0.01818181818181818,0.4965656565656566,0.018433316073674086,location_primary_author_fallback_third,Location primary + one-third author fallback
+KZ,Kazakhstan,Russia & Central Asia,0.006509357200976403,0.0,0.0,0.0,0.006509357200976403,location_primary_author_fallback_third,Location primary + one-third author fallback
+MN,Mongolia,Russia & Central Asia,0.0040683482506102524,0.0,0.0,0.0,0.0040683482506102524,location_primary_author_fallback_third,Location primary + one-third author fallback
+US,United States,North America,0.028478437754271765,241.60757575757577,0.5068690400508582,17.798344292071565,-0.4783906022965864,location_primary_author_fallback_third,Location primary + one-third author fallback
+CA,Canada,North America,0.02034174125305126,60.52424242424243,0.12697393515575334,6.242038652256834,-0.10663219390270208,location_primary_author_fallback_third,Location primary + one-third author fallback
+MX,Mexico,North America,0.008136696501220505,2.7166666666666663,0.005699300699300698,0.7004440559440558,0.002437395801919807,location_primary_author_fallback_third,Location primary + one-third author fallback
+AU,Australia,Australasia,0.03661513425549227,55.124242424242425,0.11564526382708201,3.1584006498551958,-0.07903012957158975,location_primary_author_fallback_third,Location primary + one-third author fallback
+PG,Papua New Guinea,Australasia,0.008136696501220505,0.0,0.0,0.0,0.008136696501220505,location_primary_author_fallback_third,Location primary + one-third author fallback
+PT,Portugal,Mediterranean,0.007323026851098454,11.649242424242425,0.024438970120788304,3.3372771420498695,-0.01711594326968985,location_primary_author_fallback_third,Location primary + one-third author fallback
+GR,Greece,Mediterranean,0.006509357200976403,11.315909090909091,0.023739669421487603,3.6470067148760332,-0.0172303122205112,location_primary_author_fallback_third,Location primary + one-third author fallback
+ES,Spain,Mediterranean,0.005695687550854352,2.6492424242424244,0.005557851239669421,0.9757998819362457,0.0001378363111849308,location_primary_author_fallback_third,Location primary + one-third author fallback
+IT,Italy,Mediterranean,0.004882017900732302,0.6492424242424243,0.0013620470438652258,0.27899263615172715,0.0035199708568670763,location_primary_author_fallback_third,Location primary + one-third author fallback
+TR,Turkey,Mediterranean,0.004882017900732302,1.3333333333333333,0.0027972027972027968,0.5729603729603729,0.002084815103529505,location_primary_author_fallback_third,Location primary + one-third author fallback
+FR,France,Mediterranean,0.002441008950366151,1.6492424242424242,0.0034599491417673235,1.4174258317440138,-0.0010189401914011726,location_primary_author_fallback_third,Location primary + one-third author fallback
+CN,China,East Asia,0.014646053702196907,6.559523809523808,0.013761238761238758,0.9395868020868019,0.0008848149409581493,location_primary_author_fallback_third,Location primary + one-third author fallback
+IN,India,South Asia,0.012205044751830756,1.1666666666666665,0.0024475524475524473,0.20053613053613054,0.009757492304278309,location_primary_author_fallback_third,Location primary + one-third author fallback
+MA,Morocco,MENA,0.0032546786004882017,0.0,0.0,0.0,0.0032546786004882017,location_primary_author_fallback_third,Location primary + one-third author fallback
+DZ,Algeria,MENA,0.0040683482506102524,0.0,0.0,0.0,0.0040683482506102524,location_primary_author_fallback_third,Location primary + one-third author fallback
+GB,United Kingdom,Europe other,0.0008136696501220504,5.649242424242424,0.011851557533375716,14.565564208518754,-0.011037887883253664,location_primary_author_fallback_third,Location primary + one-third author fallback
+DE,Germany,Europe other,0.0008136696501220504,0.6492424242424243,0.0013620470438652258,1.6739558169103625,-0.0005483773937431754,location_primary_author_fallback_third,Location primary + one-third author fallback
+NZ,New Zealand,Australasia,0.002441008950366151,0.0,0.0,0.0,0.002441008950366151,location_primary_author_fallback_third,Location primary + one-third author fallback
+SE,Sweden,Europe other,0.0016273393002441008,0.3159090909090909,0.0006627463445645264,0.4072576287349015,0.0009645929556795744,location_primary_author_fallback_third,Location primary + one-third author fallback
+NL,Netherlands,Europe other,0.0004068348250610252,0.0,0.0,0.0,0.0004068348250610252,location_primary_author_fallback_third,Location primary + one-third author fallback
+CH,Switzerland,Europe other,0.0004068348250610252,0.0,0.0,0.0,0.0004068348250610252,location_primary_author_fallback_third,Location primary + one-third author fallback

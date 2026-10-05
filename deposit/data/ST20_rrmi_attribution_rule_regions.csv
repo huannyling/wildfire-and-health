@@ -1,0 +1,45 @@
+rule,rule_label,region,risk_share,research_share,rrmi
+first_author_only,First-author country only,Australasia,0.047192839707078924,0.24178403755868544,5.12332038206249
+first_author_only,First-author country only,East Asia,0.014646053702196907,0.02112676056338028,1.4424882629107982
+first_author_only,First-author country only,Europe other,0.0040683482506102524,0.03051643192488263,7.5009389671361495
+first_author_only,First-author country only,MENA,0.007323026851098454,0.0,0.0
+first_author_only,First-author country only,Mediterranean,0.03173311635475996,0.08450704225352113,2.6630552546045507
+first_author_only,First-author country only,North America,0.05695687550854353,0.5328638497652582,9.355566733735749
+first_author_only,First-author country only,Russia & Central Asia,0.047192839707078924,0.011737089201877934,0.24870487291565485
+first_author_only,First-author country only,South America,0.14564686737184704,0.044600938967136156,0.3062265586067616
+first_author_only,First-author country only,South Asia,0.012205044751830756,0.002347417840375587,0.19233176838810645
+first_author_only,First-author country only,Southeast Asia,0.06102522375915378,0.028169014084507043,0.46159624413145545
+first_author_only,First-author country only,Sub-Saharan Africa,0.5720097640358014,0.002347417840375587,0.004103807291353623
+location_primary_author_fallback_full,Location primary + full author fallback,Australasia,0.047192839707078924,0.11808120265151514,2.5020999665295194
+location_primary_author_fallback_full,Location primary + full author fallback,East Asia,0.014646053702196907,0.019321986607142856,1.3192623077876984
+location_primary_author_fallback_full,Location primary + full author fallback,Europe other,0.0040683482506102524,0.014220821496212122,3.4954779237689393
+location_primary_author_fallback_full,Location primary + full author fallback,MENA,0.007323026851098454,0.0,0.0
+location_primary_author_fallback_full,Location primary + full author fallback,Mediterranean,0.03173311635475996,0.06753817471590909,2.128318377585956
+location_primary_author_fallback_full,Location primary + full author fallback,North America,0.05695687550854353,0.626657196969697,11.00230992965368
+location_primary_author_fallback_full,Location primary + full author fallback,Russia & Central Asia,0.047192839707078924,0.018229166666666664,0.3862697557471264
+location_primary_author_fallback_full,Location primary + full author fallback,South America,0.14564686737184704,0.053515625,0.36743409567039104
+location_primary_author_fallback_full,Location primary + full author fallback,South Asia,0.012205044751830756,0.0035807291666666665,0.2933810763888889
+location_primary_author_fallback_full,Location primary + full author fallback,Southeast Asia,0.06102522375915378,0.07263764880952381,1.1902889384920636
+location_primary_author_fallback_full,Location primary + full author fallback,Sub-Saharan Africa,0.5720097640358014,0.006217447916666667,0.010869478648055953
+location_primary_author_fallback_third,Location primary + one-third author fallback,Australasia,0.047192839707078924,0.11564526382708201,2.450483262818686
+location_primary_author_fallback_third,Location primary + one-third author fallback,East Asia,0.014646053702196907,0.013761238761238758,0.9395868020868019
+location_primary_author_fallback_third,Location primary + one-third author fallback,Europe other,0.0040683482506102524,0.013876350921805468,3.4108070565797837
+location_primary_author_fallback_third,Location primary + one-third author fallback,MENA,0.007323026851098454,0.0,0.0
+location_primary_author_fallback_third,Location primary + one-third author fallback,Mediterranean,0.03173311635475996,0.061355689764780674,1.9334908389978323
+location_primary_author_fallback_third,Location primary + one-third author fallback,North America,0.05695687550854353,0.6395422759059123,11.228535101262374
+location_primary_author_fallback_third,Location primary + one-third author fallback,Russia & Central Asia,0.047192839707078924,0.01818181818181818,0.3852664576802508
+location_primary_author_fallback_third,Location primary + one-third author fallback,South America,0.14564686737184704,0.053286713286713284,0.36586240575067386
+location_primary_author_fallback_third,Location primary + one-third author fallback,South Asia,0.012205044751830756,0.0024475524475524473,0.20053613053613054
+location_primary_author_fallback_third,Location primary + one-third author fallback,Southeast Asia,0.06102522375915378,0.07522477522477522,1.2326833166833167
+location_primary_author_fallback_third,Location primary + one-third author fallback,Sub-Saharan Africa,0.5720097640358014,0.006678321678321678,0.011675188254135624
+study_region_only,Study region only,Australasia,0.047192839707078924,0.11428665742391232,2.421694861620487
+study_region_only,Study region only,East Asia,0.014646053702196907,0.010659819483348895,0.7278287858353218
+study_region_only,Study region only,Europe other,0.0040683482506102524,0.013684227899914176,3.3635832177989045
+study_region_only,Study region only,MENA,0.007323026851098454,0.0,0.0
+study_region_only,Study region only,Mediterranean,0.03173311635475996,0.0579075064369182,1.824828856691602
+study_region_only,Study region only,North America,0.05695687550854353,0.6467287251600977,11.354708617453715
+study_region_only,Study region only,Russia & Central Asia,0.047192839707078924,0.018155410312273055,0.3847068840307515
+study_region_only,Study region only,South America,0.14564686737184704,0.053159041394335506,0.3649858205231192
+study_region_only,Study region only,South Asia,0.012205044751830756,0.0018155410312273056,0.14875332849189057
+study_region_only,Study region only,Southeast Asia,0.06102522375915378,0.07666770411868452,1.2563281114915106
+study_region_only,Study region only,Sub-Saharan Africa,0.5720097640358014,0.006935366739288308,0.012124560060576575
